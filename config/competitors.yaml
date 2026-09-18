@@ -16,6 +16,9 @@
 #   reddit_query  Reddit 搜索词，留空则跳过
 #   country       商店地区，默认 us。国内竞品必须填 cn，否则查不到。
 #                 Apple 的接口对中国区一样开放，版本/评分/评论全都拿得到。
+#   official_feed 官方 newsroom/blog 的 RSS，一手信息比媒体报道早 1-2 天。
+#                 实测只有上市公司有正经 RSS，创业公司的 blog 多是 SPA 页面
+#                 （返回 200 但解析不出条目），填了也无妨，抓不到会自动跳过。
 
 competitors:
   # ---------- T1 正面竞品：同形态、同人群、直接抢用户 ----------
@@ -37,6 +40,7 @@ competitors:
     app_name: Stitch Fix - Personal Styling
     android_id: ""                 # 待确认包名（Play 无官方搜索接口，需手动查）
     website: https://www.stitchfix.com/
+    official_feed: https://newsroom.stitchfix.com/rss/   # 实测 10 条
     news_query: '"Stitch Fix"'
     founder: Matt Baer
     reddit_query: Stitch Fix review

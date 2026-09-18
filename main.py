@@ -22,7 +22,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from collectors import app_stores, community, news, website
+from collectors import app_stores, community, news, official, website
 from core.differ import diff_week
 from core.runner import Runner, current_week_id, utc_now_iso
 
@@ -127,6 +127,16 @@ def collect_competitor(comp: dict, runner: Runner, settings: dict) -> dict:
         if r.status != "failed" and r.data:
             for item in r.data:
                 item["is_founder_news"] = True
+            record["news"].extend(r.data)
+
+    # ---- 官方发布源（一手信息，比媒体报道早 1-2 天）----
+    if comp.get("official_feed"):
+        r = runner.run(f"{prefix}.official",
+                       official.fetch_official_feed,
+                       comp["official_feed"],
+                       lookback_days=settings["news_lookback_days"],
+                       allow_empty=True, timeout=settings["timeout_seconds"])
+        if r.status != "failed" and r.data:
             record["news"].extend(r.data)
 
     # ---- 官网（B 级源）----
