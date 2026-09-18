@@ -37,6 +37,14 @@ jobs:
         # 不加 continue-on-error：main.py 内部已经做了容错，
         # 它返回非零只在「所有源全挂」时发生，那种情况确实该让 Actions 标红
 
+      - name: 分析与翻译
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          # 没配 key 时脚本自己退出，不算失败——采集和看板照常，
+          # 只是这周没有新信号，页面沿用上一版 analysis.json
+          python tools/analyze.py || echo "::warning::分析失败，看板将沿用上一版 analysis.json"
+
       - name: 提交数据
         run: |
           git config user.name "competitor-radar"

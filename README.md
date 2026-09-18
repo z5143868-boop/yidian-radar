@@ -129,6 +129,25 @@ Google Play 没有官方搜索接口，没法自动解析。
 
 `analysis.json` 缺失或格式错误时页面照常显示数据，只是没有信号和译文——不会白屏。
 
+## 配置自动分析（一次性）
+
+采集是免费的，但「本周信号」和中文翻译需要调 Claude API。
+
+1. 拿一个 API key：https://console.anthropic.com/settings/keys
+2. 仓库 Settings → Secrets and variables → Actions → **New repository secret**
+   - Name：`ANTHROPIC_API_KEY`
+   - Secret：粘贴 key
+3. 完事。下次采集会自动分析、翻译、写进 `data/analysis.json`
+
+**成本**：实测提示词约 2.4 万 token（已从 42 万字符的原始数据压到 5.3 万字符），
+加上输出，每周约 **$0.25**，一年约 **$13**。
+
+不配这个 secret 也能跑——脚本检测不到 key 就跳过，看板沿用上一版分析，
+数据部分照常每周更新。
+
+模型 ID 失效时脚本会自动查询账号可用模型并重试，不用盯着。
+想固定用某个模型，设仓库变量 `RADAR_MODEL`。
+
 ## 部署到 GitHub Actions
 
 1. 建一个私有仓库，把这些文件推上去
