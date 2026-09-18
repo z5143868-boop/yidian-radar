@@ -1,6 +1,6 @@
 {
   "week": "2026-W38",
-  "collected_at": "2026-09-18T09:07:27Z",
+  "collected_at": "2026-09-18T09:36:20Z",
   "competitors": [
     {
       "id": "alta",
@@ -867,18 +867,18 @@
       "news": [
         {
           "date": "2026-09-17",
-          "title": "Analysts Offer Insights on Consumer Cyclical Companies: Etsy (ETSY) and Stitch Fix (SFIX)",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcXV3X3ZOTHY0T3p3ZEZyMXVpaW42U2FEQ2Z2TURPUDVkOEtBWFJPdGZHLW1MT2NEdG5kOXYwODExQlBUekdYb3VtX0hFcnNLTC1OMUdEb1JsbThHQ0E2R2FTbVFxNEdVSGhMeEF1ajg2SkppUWswZk0yR0ZOanA0ZndJV1F4T2c0UEtKTDF6THpFZDVLUDF4SThGWVZKVE52U0s5M0tkTWFadk9RZ3pyOC11a0Z1bnBkTWVYaTN6aDRLaHRERWZPMXc0SjRYUmhjQUlJdFZoV1NDSEJaQ0RIWDNsY1hNaVZ3UFpnVWFPdWpaSDJxQ1doUk5BNnhrZVd3?oc=5",
-          "source": "The Globe and Mail",
-          "summary": "Analysts Offer Insights on Consumer Cyclical Companies: Etsy (ETSY) and Stitch Fix (SFIX) &nbsp;&nbsp; The Globe and Mail",
-          "via": "google"
-        },
-        {
-          "date": "2026-09-17",
           "title": "Stitch Fix appoints Sree Sreedhararaj as Chief Product and Technology Officer",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGRLYjc2Tl9ud1VoZ05kYUZTY3Bkb3lyMVdMcFpVelFxdUI5N1EwbklmMDVmWGVKN0VGRnRXWS1uYmppdVNQYWJaVVJ2TVhocmJNRUN5Y2tyY1VUbzRZeWJIS1VsZVJBZ0E1X0YycHhRS1VhZUM5aUxUUUVoWFZwaGgyT2tkYU9tYldzcTkyU3pPUDFwUmZHY1BYemVuNkx2ZE40ckNQR2N1UHdadzBUdmR0WkJNTlkxZ3o0YlBySXo4OUNEekliOF9CVXdLblU?oc=5",
           "source": "scanx.trade",
           "summary": "Stitch Fix appoints Sree Sreedhararaj as Chief Product and Technology Officer &nbsp;&nbsp; scanx.trade",
+          "via": "google"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "Analysts Offer Insights on Consumer Cyclical Companies: Etsy (ETSY) and Stitch Fix (SFIX)",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcXV3X3ZOTHY0T3p3ZEZyMXVpaW42U2FEQ2Z2TURPUDVkOEtBWFJPdGZHLW1MT2NEdG5kOXYwODExQlBUekdYb3VtX0hFcnNLTC1OMUdEb1JsbThHQ0E2R2FTbVFxNEdVSGhMeEF1ajg2SkppUWswZk0yR0ZOanA0ZndJV1F4T2c0UEtKTDF6THpFZDVLUDF4SThGWVZKVE52U0s5M0tkTWFadk9RZ3pyOC11a0Z1bnBkTWVYaTN6aDRLaHRERWZPMXc0SjRYUmhjQUlJdFZoV1NDSEJaQ0RIWDNsY1hNaVZ3UFpnVWFPdWpaSDJxQ1doUk5BNnhrZVd3?oc=5",
+          "source": "The Globe and Mail",
+          "summary": "Analysts Offer Insights on Consumer Cyclical Companies: Etsy (ETSY) and Stitch Fix (SFIX) &nbsp;&nbsp; The Globe and Mail",
           "via": "google"
         },
         {
@@ -1403,7 +1403,7 @@
           "released_at": "Aug 18, 2026",
           "release_notes": "",
           "rating": 4.440678,
-          "rating_count": 27148,
+          "rating_count": 27149,
           "review_count": 540,
           "installs": "5,000,000+",
           "price": 0,
@@ -3382,14 +3382,6 @@
       ],
       "news": [
         {
-          "date": "2026-09-17",
-          "title": "How often should you really wash your clothes? What the experts say about every item in your wardrobe",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad000d132e43839838c890f138e6a4&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fhow-often-should-you-really-wash-your-clothes-what-the-experts-say-about-every-item-in-your-wardrobe%2far-AA2csEUb&c=11883519245485557335&mkt=en-us",
-          "source": "The Sacramento Bee on MSN",
-          "summary": "A smarter laundry routine means longer-lasting clothes, lower utility bills and hundreds of gallons of water saved.",
-          "via": "bing"
-        },
-        {
           "date": "2026-09-14",
           "title": "The Right to Repair Your Wardrobe",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85YkVhNmlRVFRNb3g2aHhqNEVyOFcya2ZHdFVsU1d3NjdaczFrQnkxZTRYSXNKcnI0dmh3d24xcVdINFBrbmNmWnZiZ29BYS1Gb0gwSFptVVpaWkM1bkt5LWIwck1GREV4T1FlSVZwUllWUWI1dTQ0SkZVNFdGdw?oc=5",
@@ -5062,7 +5054,7 @@
         {
           "date": "2026-09-15",
           "title": "The future of shopping search isn’t better keywords. It’s software that knows your taste",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad007487564cad9b883c7f6de48119&url=https%3a%2f%2fwww.msn.com%2fen-us%2flifestyle%2fother%2fthe-future-of-shopping-search-isn-t-better-keywords-it-s-software-that-knows-your-taste%2far-AA2clQYU&c=4235921447033072835&mkt=en-us",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad073ee37e4947a93703519182f09d&url=https%3a%2f%2fwww.msn.com%2fen-us%2flifestyle%2fother%2fthe-future-of-shopping-search-isn-t-better-keywords-it-s-software-that-knows-your-taste%2far-AA2clQYU&c=4235921447033072835&mkt=en-us",
           "source": "Inc.com on MSN",
           "summary": "Daydream CEO Julie Bornstein is betting that conversational AI and deep personalization can make online shopping less overwhelming.",
           "via": "bing"
@@ -5079,14 +5071,14 @@
           "date": "2026-09-14",
           "title": "Daydream app introduces new shopping features with Apple Intelligence",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWN2aUtVcWNtNHBrRGZOaE41anpWbnBwOXNyWF82d0xQeWswSENSeFM4TWRKanpuNWhVclk2M2ppMU9DZURpQVR3RHkzNmo1bFJqZXljNzRTUFg2TmVoR25sX0MtZVFtV0VYUE5zeDRqRmlkQlNNenM1X0MtRENhVy1UWUQ2Y1hsd3VqX3ZuX2NQZk1hem11ZWlvV1RtZTlweEdFeXUxZHlYQ2hwLTVSOWFR?oc=5",
-          "source": "zamin.uz",
-          "summary": "Daydream app introduces new shopping features with Apple Intelligence &nbsp;&nbsp; zamin.uz",
+          "source": "Zamin.uz",
+          "summary": "Daydream app introduces new shopping features with Apple Intelligence &nbsp;&nbsp; Zamin.uz",
           "via": "google"
         },
         {
           "date": "2026-09-14",
           "title": "Daydream Taps Apple Intelligence on iOS 27 to Turn Camera Roll Outfits Into Shoppable Looks",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad007487564cad9b883c7f6de48119&url=https%3a%2f%2fwww.androguider.com%2f2026%2f09%2fdaydream-taps-apple-intelligence-on-ios.html&c=15099502265416542755&mkt=en-us",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad073ee37e4947a93703519182f09d&url=https%3a%2f%2fwww.androguider.com%2f2026%2f09%2fdaydream-taps-apple-intelligence-on-ios.html&c=15099502265416542755&mkt=en-us",
           "source": "AndroGuider",
           "summary": "AndroGuider is a blog where you can scoop your daily need of tech information with some dose of special reviews and custom ROM overviews ...",
           "via": "bing"
@@ -5094,7 +5086,7 @@
         {
           "date": "2026-09-15",
           "title": "The future of shopping search isn’t better keywords. It’s software that knows your taste",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad0077f3334bc19f7d3b51016d757a&url=https%3a%2f%2fwww.msn.com%2fen-us%2flifestyle%2fother%2fthe-future-of-shopping-search-isn-t-better-keywords-it-s-software-that-knows-your-taste%2far-AA2clQYU&c=4235921447033072835&mkt=en-us",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad074007f0499a91fc10ba3356f9ee&url=https%3a%2f%2fwww.msn.com%2fen-us%2flifestyle%2fother%2fthe-future-of-shopping-search-isn-t-better-keywords-it-s-software-that-knows-your-taste%2far-AA2clQYU&c=4235921447033072835&mkt=en-us",
           "source": "Inc.com on MSN",
           "summary": "Daydream CEO Julie Bornstein is betting that conversational AI and deep personalization can make online shopping less overwhelming.",
           "via": "bing",
@@ -7978,7 +7970,7 @@
     {
       "date": "2026-09-17",
       "title": "东莞虎门传统服装产业的迭代突围与出海新途",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad00f078ee4518be5fb4e150a7bfda&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8wUqB0M4ufj&c=5292996281707316564&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07b995f54700867f169422a0e537&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8wUqB0M4ufj&c=5292996281707316564&mkt=en-us",
       "source": "凤凰网资讯频道",
       "summary": "新华网广州9月17日电（黄玫 黄浩苑 卢鉴） 一缕丝线串联四十载产业沉浮，从东莞虎门昔日渔村的老旧织机，到一件件国风华服亮相全球时尚舞台。作为“中国服装服饰名城”，广东东莞虎门如今已发展到年工业总产值超400亿元的规模。 当下，全球纺织服装产业格局重塑，虎门镇党委副书记、镇长吴庆球道出长期发展的底气：“我们不再仅仅是迎合世界时尚，而是要让世界看见虎门时尚。” 自动播放 依托领先的女装工艺以及“小单 ...",
       "via": "bing",
@@ -8059,8 +8051,8 @@
       "date": "2026-09-17",
       "title": "被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大|智能眼镜|AI拍摄|魅族|AR眼镜|ChatGPT_手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb05UdzhKTm5zXy1PUUcxaGxpYlZsVXdPTlpFVldpcGxGZ1VmWndxUXdJVm5nYjlPQURXUzJ3RUZlVG5mbHREUGVCaGktb3JUWDdWOEE5QTgzdHR6SjdLN2lOU0laTVQ1QVlMdXFFWWJCOFREZVBVeDdydkxiZUVLdVdybmlQclpJbFZNSHR0VHc1VE1yUkJrUzE3b1NGUQ?oc=5",
-      "source": "新浪财经_金融信息服务商",
-      "summary": "被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大|智能眼镜|AI拍摄|魅族|AR眼镜|ChatGPT_手机新浪网 &nbsp;&nbsp; 新浪财经_金融信息服务商",
+      "source": "finance.sina.cn",
+      "summary": "被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大|智能眼镜|AI拍摄|魅族|AR眼镜|ChatGPT_手机新浪网 &nbsp;&nbsp; finance.sina.cn",
       "via": "google",
       "group": "新消费硬件",
       "from_query": "AI 眼镜 出货"
@@ -8078,7 +8070,7 @@
     {
       "date": "2026-09-17",
       "title": "IDC：第二季度全球智能眼镜出货量同比增长35.3% 音频及拍摄类眼镜成增长主力",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad00ff494f4cddbe3d7e8abdb909d0&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fhkstock%2fggscyd%2f2026-09-17%2fdoc-iniscksh9217871.shtml&c=7240172277526955117&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07c8be8143a18bc4207f8c2adb33&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fhkstock%2fggscyd%2f2026-09-17%2fdoc-iniscksh9217871.shtml&c=7240172277526955117&mkt=en-us",
       "source": "新浪财经",
       "summary": "国际数据公司（IDC）最新发布的《全球智能眼镜市场季度跟踪报告》显示，第二季度全球出货量同比增长35.3%，音频及拍摄类眼镜成为增长主力，AR/ER眼镜加速渗透，头显市场则面临调整。国际大厂持续主导行业方向，生态与AI体验成为竞争 新焦点 ( 0.047, -0.00, -2.08%) ...",
       "via": "bing",
@@ -8109,8 +8101,8 @@
       "date": "2026-09-17",
       "title": "启元将召开首次消费级具身智能发布会，上纬新材连续2日上涨",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzSVhpQllyZ3FHdjVkNFBfZjh3NkJNSXZaSkZGNWx1WUl3ZERTanFTd3pqYlo2bTBHNkNzb2dscWdPeF8wNzVlNU9lVQ?oc=5",
-      "source": "新浪财经_金融信息服务商",
-      "summary": "启元将召开首次消费级具身智能发布会，上纬新材连续2日上涨 &nbsp;&nbsp; 新浪财经_金融信息服务商",
+      "source": "cj.sina.cn",
+      "summary": "启元将召开首次消费级具身智能发布会，上纬新材连续2日上涨 &nbsp;&nbsp; cj.sina.cn",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "具身智能 消费"
@@ -8128,7 +8120,7 @@
     {
       "date": "2026-09-16",
       "title": "服装出海英国市场？优时派海外仓帮你处理退货！",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad00f078ee4518be5fb4e150a7bfda&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076879259_120465227&c=8342670037979655019&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07b995f54700867f169422a0e537&url=https%3a%2f%2fwww.sohu.com%2fa%2f1076879259_120465227&c=8342670037979655019&mkt=en-us",
       "source": "搜狐",
       "summary": "英国依然是中国服装品牌和跨境卖家值得关注的海外市场之一。 从线上消费来看，英国消费者对电商购物的接受度依然较高。英国国家统计局（ONS）数据显示，2026年7月，英国线上销售额同比增长6.5%，线上销售占整体零售销售的28.3%。 对于服装卖家来说，线上渠道带来了更多触达英国消费者的机会，但同时也有一个很现实的问题：衣服卖出去之后，消费者可能还会退回来。 而这批退回来的商品怎么处理，直接关系到卖家 ...",
       "via": "bing",
@@ -8139,8 +8131,8 @@
       "date": "2026-09-16",
       "title": "AI消费硬件退烧了？冷的不是AI，是造品类 ｜ 出海参考",
       "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxOX2tBTTFHMDhhTXdtdEU3bFJfSkcyTWU5WlY4SXdVQlRLU1FRTzdzQURROWRkakpQRmFFSk50dG1iTDhORnBRMkVCdFRLcEhuMlV2MFZqQnVNOHctRDV2ajFINTBYTEZkRVp5UlJNMzN6SWxiTXNsR24xcmlBalE3czBXNXE3Mll4WjdmdzNqMUxpMGtsOFROUTJta2p6NDEzVU5mS0NJdnpRN3M3dkJuMFNFY0N6R0RwYmo5UlVEYnNlblQyRHJacWN0S2JJTUFmbFROYUstNC1VMDJMN3Z4ZlNxbWdvd1ViTlN4aEhIM08yRDh1cUdGWUpXc1RjbFdjTUU2NF9MbUVpMnA4UndvU0t3WGhKdTE4c2JjSy1YQUgwZUlmNHNMXzYzTmdpRnFFbFl6ZnU3UEl2X25RZW1JLVIyU2VkakpFSHEtaE5wSHdNTjlfaWEzYWhTWE1RODhaRTAwMlJzaHFjY3JSd1JWZTdqREdkQVZuNF80X1FROFRQeUpHWGtnVldVUXlDcnR1bS1haWE2NGt0dlNMNDUxbTFFY3pHSW9nQkNrYnM4VlY1RHV6YUh2OFA0S3p1TFh4emRoMDluOVdyZU9pQ3MzckNtcDVwYTdZSjdvVk5DNzhOWjJra1ZZcWNxemxLaVBHbDVWRWkzT1hfOGNmMm13NmdNbnIzQVRzZnFMYVVLSFB3LTRnUVRJeDA4QXpublRGUnMtM2ZvSDJVbE5iVXh4YlN1YUJTWEpHcHk0WDd6OXFtV1dvbkRlSEpXWE9STjZQYjhHblJKUzB0SG8?oc=5",
-      "source": "新浪财经_金融信息服务商",
-      "summary": "AI消费硬件退烧了？冷的不是AI，是造品类 ｜ 出海参考 &nbsp;&nbsp; 新浪财经_金融信息服务商",
+      "source": "finance.sina.cn",
+      "summary": "AI消费硬件退烧了？冷的不是AI，是造品类 ｜ 出海参考 &nbsp;&nbsp; finance.sina.cn",
       "via": "google",
       "group": "新消费硬件",
       "from_query": "新消费 硬件 融资"
@@ -8149,8 +8141,8 @@
       "date": "2026-09-16",
       "title": "AI眼镜如何从“真香爆款”到“退货重灾区”？",
       "url": "https://news.google.com/rss/articles/CBMinwVBVV95cUxNdGN2cmRPVTRrcGVmaG1aRWRVQXNGY3VVLWFNVU9oazdMalRXeFJXX245dHJwSERxRk10dXRjOVRCM2NscHI2aURWaThmdGhMN3ZCdUE1RGhUSlVYTDdZVTNnVVZSUHV0RE9ZNndvTFN5cl9zaU1vM1hPaEFRNUc5bXU0SzlhOXdXZ20tOGRVZjA4SHNGOFQwalhwQWRKQTRFYkQ5SS1fRFJfOHZnbkFXekNNUEtka1lwX1kzMjFqUjJoWHNRMTJ1NmdFWDVDNk9GU0hNUmJkNktwOHRSZTJNRnpDc3lucWU2alJGdmp6TUtkeHNXZmJ2QVJQTFJhYnRSMDNvVkdDdGZfQkpRR0lzRXI1STRzN19nc1o2N0FELXFWU19yZTROVTNQbERBWFc2QlcwQU1lRUhodkRZOFhNMmxOTm9Nem5WSHFlSmtfUEFjSWhINktHcnFTYW82VG4wclBZUmp3SkVzWnZMZDllWGZiS3p0dkR2MHktaGpuYXhKYmY0cmNfay1mQ1dzMFI1MEZ1dHVUZWxJcG5rV29OUElrYzIyb2hlN0xvN0NGZWx1MFBwQmVvUEdXUEVkcDFVdmtmYU53RDhKdEhZOHN6b1hqMFVQTWphWGJmNTlYeGlWa0tSVzZzc240ZnFXeWZranhWdElaZHNlZHl0VjQwVEhIVlM0NUxRckFZWno3Z1RSaUtJYW5iZlZjYVJnMEVxSkdUT0pEbDM3S1d2VWhkTGVibDN3WXlOT3pIa0t6OVBKUFo4X2J1MEMwd3VvY3dVQk1Ba091ZkQ5bzk0SlNsN25SeWxmaWVDY2ZEUlZYX3c4U2hJaGN3Vngxak1tdk44T2VKMV9BeEJhV05uZXdKM3lmVHdGV04xZENqYmljYw?oc=5",
-      "source": "新浪财经_金融信息服务商",
-      "summary": "AI眼镜如何从“真香爆款”到“退货重灾区”？ &nbsp;&nbsp; 新浪财经_金融信息服务商",
+      "source": "finance.sina.cn",
+      "summary": "AI眼镜如何从“真香爆款”到“退货重灾区”？ &nbsp;&nbsp; finance.sina.cn",
       "via": "google",
       "group": "新消费硬件",
       "from_query": "AI 眼镜 出货"
@@ -8168,9 +8160,19 @@
     {
       "date": "2026-09-16",
       "title": "AI眼镜出货量暴增212%，为何全行业都在亏钱?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad00ff494f4cddbe3d7e8abdb909d0&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E5%25A2%259E212-%25E4%25B8%25BA%25E4%25BD%2595%25E5%2585%25A8%25E8%25A1%258C%25E4%25B8%259A%25E9%2583%25BD%25E5%259C%25A8%25E4%25BA%258F%25E9%2592%25B1%2far-AA2ck4xi&c=16302438355688352664&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07c8be8143a18bc4207f8c2adb33&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2fai%25E7%259C%25BC%25E9%2595%259C%25E5%2587%25BA%25E8%25B4%25A7%25E9%2587%258F%25E6%259A%25B4%25E5%25A2%259E212-%25E4%25B8%25BA%25E4%25BD%2595%25E5%2585%25A8%25E8%25A1%258C%25E4%25B8%259A%25E9%2583%25BD%25E5%259C%25A8%25E4%25BA%258F%25E9%2592%25B1%2far-AA2ck4xi&c=16302438355688352664&mkt=en-us",
       "source": "BT财经 on MSN",
       "summary": "全球AI眼镜出货量今年预计突破1500万台，比去年翻了两番还多。这是咨询公司Omdia给出的预测数字，同比增幅高达212%。近70家企业蜂拥而入，平均每9天就有一款新品面市。但令人费解的是，几乎所有玩家都在赔钱——连拿到最大销售额的厂商也没走出盈亏线。硬件成本降不下来，杀手级场景迟迟不出，这场看似热闹的产业盛宴，本质上是一场烧钱竞赛。",
+      "via": "bing",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "AI眼镜，谁是第一？",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07c8be8143a18bc4207f8c2adb33&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260916A03V6P00%3fadChannelId%3dtech&c=13569039090755886446&mkt=en-us",
+      "source": "腾讯网",
+      "summary": "张茗是一家国资背景投资基金的经理。2024年10月她在深圳出差时看了几家AI眼镜公司，最终没有出手。彼时AI眼镜已经在海外火了大约半年，但一级市场对这种产品形态还没有形成共识，很多人和她一样，选择了只看不投。 几个月后，情况变了。2025年春节前后，“杭州六小龙”概念走红，一位阿里系的朋友向张茗推荐了杭州的一家AI眼镜公司Rokid，这家公司此前做分体式AR设备，刚刚开始做AI眼镜，第一款产品尚未 ...",
       "via": "bing",
       "group": "新消费硬件",
       "from_query": "AI 眼镜 出货"
@@ -8208,7 +8210,7 @@
     {
       "date": "2026-09-15",
       "title": "700亿件之后：中国服装产业的“规模天花板”与“价值新大陆”",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad00f078ee4518be5fb4e150a7bfda&url=https%3a%2f%2fwww.sjfzxm.com%2fhangye%2f202609-16-607314.html&c=7712936167244171677&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07b995f54700867f169422a0e537&url=https%3a%2f%2fwww.sjfzxm.com%2fhangye%2f202609-16-607314.html&c=7712936167244171677&mkt=en-us",
       "source": "世界服装鞋帽网",
       "summary": "2026年9月15日，商务部网站援引《扩大消费“十五五”规划》相关数据指出，中国年产服装超过700亿件，占全球半数以上;出口金额占全球服装出口总额30%左右。同时，纺织服装已从“刚需”升级为品质消费的重要载体。 这组数据放在一起看，释放的信号远比单看“700亿件”更为复杂。年产700亿件、占全球半数以上的产量，对应的是仅占全球30%左右的出口金额——这意味着中国生产的服装中，有相当大比例是在国内消 ...",
       "via": "bing",
@@ -8224,16 +8226,6 @@
       "via": "google",
       "group": "新消费硬件",
       "from_query": "AI 硬件 消费级"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "AI眼镜，谁是第一？",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5S3JGcU5jLTJlZ3J0UlI1Z3pmNVVGMkpRbGhSRS1vQ2psY0xLa3N0SG1XVFBuMVdwaFE3WklzVzY0MGNUZ3lEeDY2cTRFUQ?oc=5",
-      "source": "36 Kr",
-      "summary": "AI眼镜，谁是第一？ &nbsp;&nbsp; 36 Kr",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
     },
     {
       "date": "2026-09-15",
@@ -8258,7 +8250,7 @@
     {
       "date": "2026-09-15",
       "title": "OpenAI Reportedly Acquires AI Smartphone Camera Startup Glass Imaging For $300+ Million",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad01028eb946f69fe758f3567bad7b&url=https%3a%2f%2fpulse2.com%2fopenai-reportedly-acquires-ai-smartphone-camera-startup-glass-imaging-for-300-million%2f&c=14466524972796041633&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07cb50634a408afd40c2ce97389a&url=https%3a%2f%2fpulse2.com%2fopenai-reportedly-acquires-ai-smartphone-camera-startup-glass-imaging-for-300-million%2f&c=14466524972796041633&mkt=en-us",
       "source": "Pulse 2.0",
       "summary": "OpenAI has acquired Glass Imaging, a startup developing artificial intelligence technology designed to bring DSLR-level image quality to smartphone cameras, in a transaction valuing the company at ...",
       "via": "bing",
@@ -8269,8 +8261,8 @@
       "date": "2026-09-15",
       "title": "心言机器人「巴布 Bubbo 1」京东开启预定！首款家庭主动智能陪伴机器人强势登场",
       "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxOWjVPNkxYWE42RWItX0pBcUhyUy10Yk9RTWFRSXI2UGJEMnl6alh3RUpQWGdMUHJJY25jd2RqcTlmNjR4bTBXYVQ2YlVKTUFuRDlfLVVvUTBYNFhESk9pOXdrdWF5TG53ZnBaX0t4SzB5QWRfbXZ6dWdmTUhoZmViSTBoQUFCTkRsWkZCVHY5Nm14RE91MUJBZDdOR1dMSFZVejZCbWJiM2JRY1FDMV84Q2JQa014LW5TNExQaC1qX2ZHVkc0RVJoY3BFczBvYi1fTW1JWjA0MW9XV1RCUmtBWXpzaThDa2xRNHNrYzJlWjl2Z1czOWlpNV9udE5VamhwbHJrNURmTUVRanhCdlBpcEdldThsSEV2RVFvck9pdzBYbGZmRFFEdXdQTHF2TVQ0Vjc3MWxQNFM0bjY5SVNHa3dpczZDVXhSalVVSDhTYUE5TFNBNTkwTzhrUjE5VU1adFB6b3NaalRnbkxNRXQ5UU8wMmt6ZVcwbGlhdHB3QUo2U2poM0lKSzFucWZITk9UdlRIaGxpM1FTcmxPM3IzNUExRFpUVGQ4RjJmdEJoMjVDSFBjd2ZJNHBzQWlxaV82ejMxdmYzYnZ3NlozclNEbzhwMUR3bldGYnBrMXoyUU9FUzA5dzBFQjFNcGlTeWxGV3BoMWZqek05Q3ZHUjZDSDBSNG1pN1FtaW1yZjhiSHZUVVVPWEJ0ZDRMRWd6eGw2a2M5VDhORnFyVWtOeDkzYS0ydVM4d3JOTURnaHYtb2VrNl85THhFMVhlR0hBV1FXWWhjNGtncEFlZ3FCa05fQkJQby1PTlNHNHBjbjN6YmRJSXZJMUNfV0NZTGFmcV9rMnVkNVJDemVQUG5teFRldzRRemlVam1EOVlaUktGR00xcWhZaHBXdjZVdndmY3Mwel90TFRB?oc=5",
-      "source": "新浪财经_金融信息服务商",
-      "summary": "心言机器人「巴布 Bubbo 1」京东开启预定！首款家庭主动智能陪伴机器人强势登场 &nbsp;&nbsp; 新浪财经_金融信息服务商",
+      "source": "finance.sina.cn",
+      "summary": "心言机器人「巴布 Bubbo 1」京东开启预定！首款家庭主动智能陪伴机器人强势登场 &nbsp;&nbsp; finance.sina.cn",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "AI 陪伴机器人"
@@ -8288,7 +8280,7 @@
     {
       "date": "2026-09-15",
       "title": "Experiencing Technology-Empowered Elderly Care at the 2026 CIFTIS",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad010efd7d49a0943590a89f9c45c5&url=https%3a%2f%2fmarkets.businessinsider.com%2fnews%2fstocks%2fexperiencing-technology-empowered-elderly-care-at-the-2026-ciftis-1036546513&c=2446383637451065433&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07d7c2b54e2da9b253a462c8cae2&url=https%3a%2f%2fmarkets.businessinsider.com%2fnews%2fstocks%2fexperiencing-technology-empowered-elderly-care-at-the-2026-ciftis-1036546513&c=2446383637451065433&mkt=en-us",
       "source": "Markets Insider",
       "summary": "Walking into the Health Services Section, the \"AI Medical Companion Robot\" from Beijing Shouyun Medical Technology Group Co., Ltd. demonstrated functions including full-process precise map navigation, ...",
       "via": "bing",
@@ -8308,7 +8300,7 @@
     {
       "date": "2026-09-14",
       "title": "服装出口遇冷，73% 消费者用 AI 选穿搭！品牌如何抢占新流量",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad00f078ee4518be5fb4e150a7bfda&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075940064_120164293&c=6908617722930264382&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07b995f54700867f169422a0e537&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075940064_120164293&c=6908617722930264382&mkt=en-us",
       "source": "搜狐",
       "summary": "2025 年中国服装出口 1512.2 亿美元，同比下滑 5%，对美、东盟出口承压。但服装跨境电商出口 7620 亿元，同比增长 17%，成为亮眼增长赛道。 消费市场正在发生巨大改变。73% 国内服装消费者每周借助 AI 做穿搭决策；美国市场 AI 购物搜索量一年暴涨 4700%；67% 的 B2B 采购决策者，会使用 AI 筛选服装供应商。 海外用户不再单纯 Google 搜产品关键词，直接向 ...",
       "via": "bing",
@@ -8317,10 +8309,20 @@
     },
     {
       "date": "2026-09-14",
-      "title": "OpenAI acquires Glass Imaging, enhancing AI vision",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad01028eb946f69fe758f3567bad7b&url=https%3a%2f%2fwww.msn.com%2fen-xl%2ftechnology%2fartificial-intelligence%2fopenai-acquires-glass-imaging-enhancing-ai-vision%2far-AA2ceE9A&c=754906534273214568&mkt=en-us",
-      "source": "The Chosun Ilbo on MSN",
-      "summary": "OpenAI has been revealed to have acquired Glass Imaging, a startup that uses artificial intelligence (AI) to enhance smartphone camera image quality. The move signals accelerated development of ...",
+      "title": "500元红包补偿雷鸟iO延迟发货，AI眼镜的版本答案是去AI化？",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07c8be8143a18bc4207f8c2adb33&url=https%3a%2f%2fwww.donews.com%2farticle%2fdetail%2f8744%2f107239.html&c=2470808140478910596&mkt=en-us",
+      "source": "DoNews",
+      "summary": "近日多位消费者在雷鸟智能眼镜旗舰店下单雷鸟iO眼镜后，遭遇了发货延迟。订单本应于8月29日23点前发货，但迟迟未能发出。有消费者找平台客服理论，收到了官方补偿的两个红包，共计447.2元。",
+      "via": "bing",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "OpenAI buys AI camera startup for over $300M, says report — Glass Imaging deal puts focus on consumer devices",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07cb50634a408afd40c2ce97389a&url=https%3a%2f%2fwww.msn.com%2fen-in%2fmoney%2fgeneral%2fopenai-buys-ai-camera-startup-for-over-300m-says-report-glass-imaging-deal-puts-focus-on-consumer-devices%2far-AA2ccHsh&c=4907134046912942170&mkt=en-us",
+      "source": "Asianet Newsable on MSN",
+      "summary": "The deal with Glass Imaging gives OpenAI access to former Apple camera engineers and technology designed to bring DSLR-quality imaging to smartphones.",
       "via": "bing",
       "group": "新消费硬件",
       "from_query": "consumer AI hardware funding"
@@ -8339,8 +8341,8 @@
       "date": "2026-09-14",
       "title": "「赛博恋爱」没了！国家出手整治“AI伴侣”，大批陪伴机器人直接凉凉",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzb1pzNm5PbGR0VWFMV3hPd21rWTVLN2UtTVpWS1FBQ0IyR19ScDlVdkpIMVJ2WTUyZ29Wa2NfTm14S0dvbWNLOTI3RVFYM0dNVkFxOUZfZmZrUDE1aWc0eERGX21QdU1UZFZvNHkxNXdpMUYxRjlZZQ?oc=5",
-      "source": "新浪财经",
-      "summary": "「赛博恋爱」没了！国家出手整治“AI伴侣”，大批陪伴机器人直接凉凉 &nbsp;&nbsp; 新浪财经",
+      "source": "finance.sina.com.cn",
+      "summary": "「赛博恋爱」没了！国家出手整治“AI伴侣”，大批陪伴机器人直接凉凉 &nbsp;&nbsp; finance.sina.com.cn",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "AI 陪伴机器人"
@@ -8408,7 +8410,7 @@
     {
       "date": "2026-09-13",
       "title": "AI robot for seniors can alert family after a call for help",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad010efd7d49a0943590a89f9c45c5&url=https%3a%2f%2fwww.foxnews.com%2ftech%2fai-robot-seniors-alert-family-call-help&c=10766498738703686099&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07d7c2b54e2da9b253a462c8cae2&url=https%3a%2f%2fwww.foxnews.com%2ftech%2fai-robot-seniors-alert-family-call-help&c=10766498738703686099&mkt=en-us",
       "source": "Fox News",
       "summary": "Tuya Smart's Doova AI home robot rolls to seniors who call for help and connects family via live video, but key privacy questions remain unanswered.",
       "via": "bing",
@@ -8418,7 +8420,7 @@
     {
       "date": "2026-09-13",
       "title": "Tuya Smart introduces wheeled Doova AI companion to aid elderly at home",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad010efd7d49a0943590a89f9c45c5&url=https%3a%2f%2farynews.tv%2ftuya-smart-introduces-wheeled-doova-ai-companion-to-aid-elderly-at-home&c=6920000531633879992&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07d7c2b54e2da9b253a462c8cae2&url=https%3a%2f%2farynews.tv%2ftuya-smart-introduces-wheeled-doova-ai-companion-to-aid-elderly-at-home&c=6920000531633879992&mkt=en-us",
       "source": "ARY News",
       "summary": "Tuya Smart, a smart home technology company, has introduced Doova, a wheeled AI companion robot made to help seniors ...",
       "via": "bing",
@@ -8429,8 +8431,8 @@
       "date": "2026-09-12",
       "title": "江阴举行高端纺织服装产业集群发展工作推进会暨“纺织服装+AI”路演",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jdXpMMVRKNHBuWlN2RV9lNGNCQWRyX1NIQzFsME1XZ0ZscWVzU3FLaG5FUldMSHNidHRnUGViOWs5Y1JTWDdhQ1dMTE1WOFVFRkFodnItc05tVUtQYXc0QkZ3MDZYam14djJzeWxaR0VTdmc4TUE?oc=5",
-      "source": "新浪财经",
-      "summary": "江阴举行高端纺织服装产业集群发展工作推进会暨“纺织服装+AI”路演 &nbsp;&nbsp; 新浪财经",
+      "source": "finance.sina.com.cn",
+      "summary": "江阴举行高端纺织服装产业集群发展工作推进会暨“纺织服装+AI”路演 &nbsp;&nbsp; finance.sina.com.cn",
       "via": "google",
       "group": "服装行业",
       "from_query": "服装行业 AI"
@@ -8488,7 +8490,7 @@
     {
       "date": "2026-09-11",
       "title": "AI companion dolls serve as friends and assistants for elderly residents in Taebaek",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad010efd7d49a0943590a89f9c45c5&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10870888&c=4959865668234983394&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad07d7c2b54e2da9b253a462c8cae2&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10870888&c=4959865668234983394&mkt=en-us",
       "source": "Herald Business",
       "summary": "For elderly residents receiving care services in Taebaek, Gangwon Province, an AI companion doll is both a friend and a personal assistant. The device holds eve ...",
       "via": "bing",
@@ -8507,6 +8509,7 @@
     "stitchfix.apple_reviews": "ok",
     "stitchfix.news": "ok",
     "stitchfix.founder": "ok",
+    "stitchfix.official": "ok",
     "stitchfix.website": "ok",
     "stitchfix.reddit": "failed: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stitch+Fix+review&sort=new&limit=25&t=month&type=link",
     "essembl.apple": "ok",
