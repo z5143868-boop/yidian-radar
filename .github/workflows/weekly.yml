@@ -6,6 +6,13 @@ on:
     # 注意 GitHub Actions 的 cron 用 UTC，且高峰期可能延迟几分钟到半小时
     - cron: '0 22 * * 0'
   workflow_dispatch:        # 允许手动触发，调试时用得上
+  push:
+    branches: [main]
+    paths-ignore: ['data/**', 'README.md']
+    # 首次推送就跑一次，不用等到周一。
+    # paths-ignore 排除 data/ 是关键：不排的话，采集完提交数据会再次触发，
+    # 变成无限循环。（GitHub 对 Actions 自身的提交默认不触发，
+    # 这里是双保险——手动改数据时也不会误触发。）
 
 jobs:
   collect:
