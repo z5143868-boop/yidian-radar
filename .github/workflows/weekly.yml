@@ -19,6 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write       # 需要写权限才能 commit 数据回仓库
+      issues: write         # 建周报 Issue，GitHub 会据此发通知邮件
 
     steps:
       - uses: actions/checkout@v4
@@ -48,6 +49,35 @@ jobs:
             git push
           fi
 
-      - name: 采集失败时提醒
+      - name: 发布周报 Issue
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Issue 是通知载体：GitHub 会给仓库所有者发邮件，
+          # 手机装了 GitHub App 还有推送。整条链路都在 GitHub 内部。
+          python tools/issue_body.py > /tmp/issue.md
+          WEEK=$(python -c "import json;print(json.load(open('data/latest.json'))['week'])")
+          gh issue create \
+            --title "竞品雷达 $WEEK" \
+            --body-file /tmp/issue.md \
+            --label "周报" 2>/dev/null \
+          || gh issue create \
+            --title "竞品雷达 $WEEK" \
+            --body-file /tmp/issue.md
+          # 标签不存在时第一条命令会失败，退回到不带标签的版本
+
+      - name: 采集失败时开 Issue 报警
         if: failure()
-        run: echo "::warning::竞品雷达采集失败，检查 collector 是否需要修复"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 失败比成功更需要通知——静默失败是这类系统最常见的死法
+          gh issue create \
+            --title "⚠️ 竞品雷达采集失败 $(date -u +%Y-W%V)" \
+            --body "本周采集未完成，看板不会更新。
+
+          [查看运行日志](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})
+
+          常见原因：某个 collector 的目标站点改版，或第三方库需要升级。
+          单个数据源失败不会导致整体失败，走到这里说明是全局性问题。"
