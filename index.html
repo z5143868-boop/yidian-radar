@@ -1,0 +1,897 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>衣殿竞品雷达</title>
+<meta name="description" content="衣殿竞品雷达——23 个竞品的每周监控">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📡</text></svg>">
+<style>
+  :root{color-scheme:light dark; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px)}
+  img{max-width:100%}
+  [hidden]{display:none!important}
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#F3F5F2; --surface:#FFFFFF; --surface-2:#FAFBF9;
+  --ink:#161A18; --ink-2:#55605B; --ink-3:#8B958F;
+  --line:#DDE2DD; --line-2:#EBEFE9;
+  --accent:#1B4D3E; --accent-soft:#E2EDE7;
+  --crit:#9E2F46; --crit-soft:#F8E8EB;
+  --warn:#8A6518; --warn-soft:#F8EFDD;
+  --good:#2F6B50; --good-soft:#E4F0E9;
+  --shadow:0 1px 2px rgba(22,26,24,.05), 0 10px 28px -16px rgba(22,26,24,.18);
+  --radius:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#111513; --surface:#191F1C; --surface-2:#1F2623;
+    --ink:#E9EDE9; --ink-2:#A2ADA7; --ink-3:#737F79;
+    --line:#2B3430; --line-2:#222926;
+    --accent:#5FB395; --accent-soft:#1B2C26;
+    --crit:#E07E92; --crit-soft:#2C1A1E;
+    --warn:#D3A44E; --warn-soft:#2A2317;
+    --good:#6ABF96; --good-soft:#1A2921;
+    --shadow:0 1px 2px rgba(0,0,0,.34), 0 10px 28px -16px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#111513; --surface:#191F1C; --surface-2:#1F2623;
+  --ink:#E9EDE9; --ink-2:#A2ADA7; --ink-3:#737F79;
+  --line:#2B3430; --line-2:#222926;
+  --accent:#5FB395; --accent-soft:#1B2C26;
+  --crit:#E07E92; --crit-soft:#2C1A1E;
+  --warn:#D3A44E; --warn-soft:#2A2317;
+  --good:#6ABF96; --good-soft:#1A2921;
+  --shadow:0 1px 2px rgba(0,0,0,.34), 0 10px 28px -16px rgba(0,0,0,.6);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--ground); color:var(--ink);
+  font-family:Archivo,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;
+  font-size:14px; line-height:1.55; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1180px; margin:0 auto; padding-inline:20px; padding-block:0 64px}
+h1,h2,h3{margin:0; text-wrap:balance}
+.mono{font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace; font-variant-numeric:tabular-nums}
+.num{font-variant-numeric:tabular-nums}
+
+/* ---------- 顶部 ---------- */
+.masthead{
+  border-bottom:1px solid var(--line); background:var(--surface);
+  position:sticky; top:env(safe-area-inset-top, 0px); z-index:20;
+}
+.masthead-in{
+  max-width:1180px; margin:0 auto; padding:14px 20px;
+  display:flex; align-items:baseline; gap:16px; flex-wrap:wrap;
+}
+.brand{font-family:"Instrument Serif",Georgia,serif; font-size:25px; letter-spacing:.01em; line-height:1}
+.brand em{font-style:italic; color:var(--accent)}
+.stamp{
+  font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-3); padding:3px 8px; border:1px solid var(--line);
+  border-radius:99px;
+}
+.masthead-spacer{flex:1 1 auto}
+.health-dots{display:flex; align-items:center; gap:7px; font-size:12px; color:var(--ink-2)}
+.dot{width:7px; height:7px; border-radius:99px; display:inline-block}
+.dot.ok{background:var(--good)} .dot.bad{background:var(--crit)}
+.theme-btn{
+  border:1px solid var(--line); background:var(--surface-2); color:var(--ink-2);
+  font:inherit; font-size:12px; padding:4px 10px; border-radius:99px; cursor:pointer;
+}
+.theme-btn:hover{border-color:var(--accent); color:var(--accent)}
+.theme-btn:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
+/* ---------- 区段 ---------- */
+section{margin-top:40px}
+.sec-head{display:flex; align-items:baseline; gap:12px; margin-bottom:14px; flex-wrap:wrap}
+.sec-head h2{
+  font-family:"Instrument Serif",Georgia,serif; font-weight:400; font-size:23px; line-height:1.2;
+}
+.sec-note{font-size:12.5px; color:var(--ink-3)}
+
+/* ---------- 本周信号 ---------- */
+.signals{display:grid; gap:12px}
+.signal{
+  background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+  padding:16px 18px; display:grid; grid-template-columns:auto 1fr; gap:0 14px;
+  box-shadow:var(--shadow);
+}
+.signal.is-read{opacity:.5}
+.sev{
+  width:3px; border-radius:99px; grid-row:1/-1; align-self:stretch;
+}
+.sev.crit{background:var(--crit)} .sev.warn{background:var(--warn)} .sev.info{background:var(--accent)}
+.signal-top{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:5px}
+.signal h3{font-size:15px; font-weight:600; line-height:1.4}
+.tag{
+  font-size:10.5px; letter-spacing:.08em; text-transform:uppercase; font-weight:600;
+  padding:2px 7px; border-radius:4px;
+}
+.tag.crit{background:var(--crit-soft); color:var(--crit)}
+.tag.warn{background:var(--warn-soft); color:var(--warn)}
+.tag.info{background:var(--accent-soft); color:var(--accent)}
+.signal p{margin:0; font-size:13.5px; color:var(--ink-2)}
+.signal .verdict{
+  margin-top:9px; padding-top:9px; border-top:1px dashed var(--line);
+  font-size:13px; color:var(--ink); display:flex; gap:8px; align-items:flex-start;
+}
+.verdict-label{
+  flex:none; font-size:10.5px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:600; padding-top:3px;
+}
+.readmark{
+  margin-top:10px; background:none; border:1px solid var(--line); color:var(--ink-3);
+  font:inherit; font-size:11.5px; padding:3px 9px; border-radius:99px; cursor:pointer;
+  justify-self:start; grid-column:2;
+}
+.readmark:hover{border-color:var(--accent); color:var(--accent)}
+.readmark:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
+/* ---------- 筛选 ---------- */
+.filters{display:flex; gap:7px; flex-wrap:wrap; align-items:center}
+.chip{
+  border:1px solid var(--line); background:var(--surface); color:var(--ink-2);
+  font:inherit; font-size:12.5px; padding:5px 12px; border-radius:99px; cursor:pointer;
+}
+.chip[aria-pressed="true"]{background:var(--accent); border-color:var(--accent); color:#fff}
+:root[data-theme="dark"] .chip[aria-pressed="true"]{color:#0F1613}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .chip[aria-pressed="true"]{color:#0F1613}}
+.chip:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
+/* ---------- 矩阵表 ---------- */
+.matrix-scroll{overflow-x:auto; border:1px solid var(--line); border-radius:var(--radius); background:var(--surface)}
+table{border-collapse:collapse; width:100%; min-width:780px}
+thead th{
+  text-align:left; font-size:11px; letter-spacing:.07em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:600; padding:11px 14px; white-space:nowrap;
+  border-bottom:1px solid var(--line); background:var(--surface-2);
+}
+thead th.sortable{cursor:pointer; user-select:none}
+thead th.sortable:hover{color:var(--accent)}
+thead th .arrow{opacity:.45; font-size:9px}
+tbody tr.row{border-bottom:1px solid var(--line-2); cursor:pointer}
+tbody tr.row:last-child{border-bottom:none}
+tbody tr.row:hover{background:var(--surface-2)}
+tbody tr.row.open{background:var(--surface-2)}
+td{padding:11px 14px; vertical-align:middle}
+.cname{font-weight:600; font-size:14px; display:flex; align-items:center; gap:8px}
+.tier-pip{
+  font-size:10px; font-weight:700; letter-spacing:.04em; padding:1px 5px; border-radius:3px;
+  background:var(--accent-soft); color:var(--accent); flex:none;
+}
+.tier-pip.t2{background:var(--line-2); color:var(--ink-2)}
+.tier-pip.t3{background:transparent; color:var(--ink-3); border:1px solid var(--line)}
+.sub{font-size:12px; color:var(--ink-3)}
+.bar-cell{min-width:118px}
+.bar{height:5px; border-radius:99px; background:var(--line-2); overflow:hidden; margin-top:4px}
+.bar span{display:block; height:100%; border-radius:99px; background:var(--crit)}
+.bar.low span{background:var(--good)}
+.bar.mid span{background:var(--warn)}
+.stale{color:var(--warn); font-weight:500}
+.dead{color:var(--crit); font-weight:500}
+.nodata{color:var(--ink-3)}
+.newscount{
+  display:inline-block; min-width:20px; text-align:center; font-size:12px;
+  padding:1px 6px; border-radius:99px; background:var(--accent-soft); color:var(--accent); font-weight:600;
+}
+.newscount.zero{background:transparent; color:var(--ink-3); font-weight:400}
+
+/* ---------- 展开详情 ---------- */
+tr.detail td{padding:0; background:var(--surface-2); border-bottom:1px solid var(--line-2)}
+.detail-in{padding:4px 14px 20px; display:grid; gap:18px; grid-template-columns:repeat(auto-fit,minmax(290px,1fr))}
+.panel h4{
+  margin:0 0 8px; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:600;
+}
+.quote{
+  border-left:2px solid var(--crit); padding:7px 0 7px 11px; margin-bottom:9px;
+  font-size:12.5px; color:var(--ink-2);
+}
+.quote b{display:block; color:var(--ink); font-weight:600; font-size:12.5px; margin-bottom:2px}
+.quote .meta{font-size:11px; color:var(--ink-3); margin-top:3px}
+.newsitem{display:block; padding:6px 0; border-bottom:1px solid var(--line-2); text-decoration:none; color:inherit}
+.newsitem:last-child{border-bottom:none}
+.newsitem:hover .nt{color:var(--accent); text-decoration:underline}
+.nt{font-size:12.5px; display:block; line-height:1.45}
+.nm{font-size:11px; color:var(--ink-3); margin-top:2px}
+.kv{font-size:12.5px; color:var(--ink-2); margin-bottom:6px}
+.kv b{color:var(--ink); font-weight:600}
+.pricechips{display:flex; gap:5px; flex-wrap:wrap; margin-top:3px}
+.pricechip{
+  font-size:11.5px; padding:2px 7px; border-radius:4px;
+  background:var(--line-2); color:var(--ink-2); font-family:"IBM Plex Mono",monospace;
+}
+.empty{font-size:12.5px; color:var(--ink-3); font-style:italic}
+.boot{
+  margin-top:56px; display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+  font-size:14px; color:var(--ink-2);
+}
+.boot-err{
+  flex-direction:column; align-items:flex-start; gap:6px;
+  background:var(--crit-soft); border:1px solid var(--crit); color:var(--crit);
+  padding:16px 18px; border-radius:var(--radius);
+}
+.boot-err .mono{font-size:12px; opacity:.8}
+.boot-err span:last-child{color:var(--ink-2); font-size:13px}
+.boot-dot{
+  width:9px; height:9px; border-radius:99px; background:var(--accent);
+  animation:pulse 1.1s ease-in-out infinite;
+}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+.xl{
+  font-size:10px; padding:0 4px; border-radius:3px;
+  background:var(--accent-soft); color:var(--accent); font-weight:600;
+}
+.xf{
+  font-size:10px; padding:0 4px; border-radius:3px;
+  background:var(--warn-soft); color:var(--warn); font-weight:600;
+}
+
+/* ---------- 底部健康度 ---------- */
+.health-grid{display:grid; gap:8px; grid-template-columns:repeat(auto-fill,minmax(228px,1fr))}
+.hrow{
+  display:flex; align-items:center; gap:9px; font-size:12.5px;
+  padding:7px 11px; background:var(--surface); border:1px solid var(--line); border-radius:7px;
+}
+.hrow .nm2{flex:1; color:var(--ink-2); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.hrow .st{font-size:11px; color:var(--ink-3)}
+footer{
+  margin-top:40px; padding-top:18px; border-top:1px solid var(--line);
+  font-size:12px; color:var(--ink-3); display:flex; gap:14px; flex-wrap:wrap;
+}
+
+.mk{
+  font-size:10px; font-weight:600; letter-spacing:.04em; padding:1px 5px;
+  border-radius:3px; background:var(--warn-soft); color:var(--warn); flex:none;
+}
+
+/* ---------- 手机：表格改成卡片流 ----------
+   窄屏下六列表格只能横滑，横滑的表格在手机上等于没人看。
+   同一份数据换一种排布：每个竞品一张卡，指标折成两行。 */
+@media (max-width:720px){
+  .matrix-scroll{border:none; background:none; overflow:visible}
+  table, thead, tbody, tr, td{display:block; width:auto; min-width:0}
+  thead{display:none}
+  tbody tr.row{
+    background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    margin-bottom:9px; padding:13px 15px; box-shadow:var(--shadow);
+  }
+  tbody tr.row.open{border-color:var(--accent)}
+  td{padding:0; border:none}
+  td:first-child{margin-bottom:9px}
+  /* 指标行：标签 + 值，横向排布 */
+  td:not(:first-child){
+    display:flex; align-items:baseline; gap:8px;
+    padding:4px 0; border-top:1px solid var(--line-2); font-size:13px;
+  }
+  td:not(:first-child)::before{
+    content:attr(data-label); flex:0 0 76px;
+    font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-3);
+  }
+  td .sub{display:inline; margin-left:6px}
+  td .bar{flex:1; margin-top:0; max-width:90px}
+  tr.detail{margin:-6px 0 9px}
+  tr.detail td{
+    background:var(--surface-2); border:1px solid var(--line); border-top:none;
+    border-radius:0 0 var(--radius) var(--radius);
+  }
+  .detail-in{grid-template-columns:1fr; padding:14px 15px}
+}
+
+@media (max-width:640px){
+  .brand{font-size:21px}
+  .detail-in{grid-template-columns:1fr}
+  .wrap{padding-inline:16px}
+  .masthead-in{padding:12px 16px}
+  .sec-head h2{font-size:20px}
+  .signal{padding:14px 15px}
+  .signal h3{font-size:14.5px}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
+</style>
+
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-in">
+    <span class="brand">衣殿<em>竞品雷达</em></span>
+    <span class="stamp mono" id="weekStamp"></span>
+    <span class="masthead-spacer"></span>
+    <span class="health-dots" id="healthSummary"></span>
+    <button class="theme-btn" id="langBtn" type="button">显示原文</button>
+    <button class="theme-btn" id="themeBtn" type="button">切换主题</button>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div id="loading" class="boot">
+    <div class="boot-dot"></div>
+    正在读取本周数据…
+  </div>
+
+  <div id="bootError" class="boot boot-err" hidden>
+    <strong>数据没能加载出来。</strong>
+    <span id="bootErrorMsg" class="mono"></span>
+    <span>如果是刚部署，等 GitHub Actions 跑完第一次采集再刷新。</span>
+  </div>
+
+  <div id="main" hidden>
+
+  <section id="signalSec">
+    <div class="sec-head">
+      <h2>本周信号</h2>
+      <span class="sec-note" id="signalNote"></span>
+    </div>
+    <div class="signals" id="signals"></div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <h2>竞品矩阵</h2>
+      <span class="sec-note">点任意一行展开详情 · 点表头排序</span>
+      <span class="masthead-spacer"></span>
+      <div class="filters" id="marketFilters">
+        <button class="chip" type="button" data-market="all" aria-pressed="true">全部市场</button>
+        <button class="chip" type="button" data-market="cn" aria-pressed="false">国内</button>
+        <button class="chip" type="button" data-market="global" aria-pressed="false">海外</button>
+      </div>
+      <div class="filters" id="filters">
+        <button class="chip" type="button" data-tier="all" aria-pressed="true">全部层级</button>
+        <button class="chip" type="button" data-tier="1" aria-pressed="false">T1</button>
+        <button class="chip" type="button" data-tier="2" aria-pressed="false">T2</button>
+        <button class="chip" type="button" data-tier="3" aria-pressed="false">T3</button>
+      </div>
+    </div>
+    <div class="matrix-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th class="sortable" data-sort="name">竞品 <span class="arrow"></span></th>
+            <th class="sortable" data-sort="released">最近发版 <span class="arrow"></span></th>
+            <th class="sortable" data-sort="rating">评分 <span class="arrow"></span></th>
+            <th class="sortable" data-sort="count">评分量 <span class="arrow"></span></th>
+            <th class="sortable" data-sort="low">差评率 <span class="arrow"></span></th>
+            <th class="sortable" data-sort="news">本周新闻 <span class="arrow"></span></th>
+          </tr>
+        </thead>
+        <tbody id="matrixBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <h2>行业动态</h2>
+      <span class="sec-note">赛道 · 服装行业 · 新消费硬件 · AI 陪伴</span>
+    </div>
+    <div class="filters" id="industryTabs" style="margin-bottom:12px"></div>
+    <div id="industry"></div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <h2>数据源健康度</h2>
+      <span class="sec-note" id="healthNote"></span>
+    </div>
+    <div class="health-grid" id="healthGrid"></div>
+  </section>
+
+  </div><!-- /main -->
+
+  <footer>
+    <span id="collectedAt"></span>
+    <span>采集 GitHub Actions · 分析 Claude · 数据存 git</span>
+  </footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  /* 数据不再内联，而是从同仓库的 data/ 目录读取：
+     latest.json   —— GitHub Actions 每周自动更新，页面刷新就是最新数据
+     analysis.json —— 本周信号和译文
+     两个文件和页面同源，没有跨域问题。
+     拆成两个文件是因为它们的更新方式不同：数据机器产出，判断人来写。 */
+
+  var DATA = null, TODAY = null;
+
+  function boot(){
+    var base = location.pathname.replace(/\/[^/]*$/, "/");
+    Promise.all([
+      fetch(base + "data/latest.json", {cache: "no-store"}).then(function(r){
+        if(!r.ok) throw new Error("latest.json " + r.status);
+        return r.json();
+      }),
+      fetch(base + "data/analysis.json", {cache: "no-store"})
+        .then(function(r){ return r.ok ? r.json() : null; })
+        .catch(function(){ return null; })   // 分析文件缺失不影响数据展示
+    ]).then(function(res){
+      DATA = res[0];
+      var analysis = res[1] || {};
+      DATA.signals = analysis.signals || [];
+      DATA.analysis_at = analysis.generated_at || null;
+      DATA.__translations = analysis.translations || {};
+      TODAY = new Date(DATA.collected_at);
+      render();
+    }).catch(function(err){
+      document.getElementById("bootError").hidden = false;
+      document.getElementById("bootErrorMsg").textContent = String(err.message || err);
+    });
+  }
+
+  /* 译文按 竞品id → 字段路径 的形式存放，在这里贴回数据对象上。
+     这样 latest.json 保持纯净（机器产出的原始数据），
+     译文单独一份，将来换翻译方式不用动采集脚本。 */
+  function mergeTranslations(data, tr){
+    (data.competitors || []).forEach(function(c){
+      var t = tr[c.id];
+      if(!t) return;
+      if(t.hero) c.hero_zh = t.hero;
+      if(t.release_notes) c.release_notes_zh = t.release_notes;
+      (t.reviews || []).forEach(function(z, i){
+        var s = (c.low_samples || [])[i];
+        if(!s || !z) return;
+        if(z.t) s.t_zh = z.t;
+        if(z.b) s.b_zh = z.b;
+      });
+      (t.news || []).forEach(function(z, i){
+        var n = (c.news || [])[i];
+        if(n && z) n.t_zh = z;
+      });
+    });
+    var ind = tr.__industry__ || {};
+    (data.industry_news || []).forEach(function(n){
+      if(ind[n.url]) n.title_zh = ind[n.url];
+    });
+  }
+
+  /* ---------- 主题 ---------- */
+  var themeBtn = document.getElementById("themeBtn");
+  try{
+    var saved = localStorage.getItem("radar.theme");
+    if(saved) document.documentElement.setAttribute("data-theme", saved);
+  }catch(e){}
+  themeBtn.addEventListener("click", function(){
+    var cur = document.documentElement.getAttribute("data-theme");
+    var isDark = cur === "dark" || (!cur && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    var next = isDark ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    try{ localStorage.setItem("radar.theme", next); }catch(e){}
+  });
+
+
+  /* latest.json 是采集脚本的原始结构，跟页面用的字段名不完全一致，
+     在这里做一次适配，而不是去改采集脚本——采集层不该为展示层让步。 */
+  function adapt(data){
+    (data.competitors || []).forEach(function(c){
+      var apple = (c.app && c.app.apple) || {};
+      c.version = c.version || apple.version;
+      c.released_at = c.released_at || apple.released_at;
+      c.rating = (c.rating != null) ? c.rating : apple.rating_all_versions;
+      c.rating_count = (c.rating_count != null) ? c.rating_count : apple.rating_count;
+      c.release_notes = c.release_notes || apple.release_notes || "";
+
+      var reviews = c.reviews || [];
+      c.reviews_n = reviews.length;
+      var low = reviews.filter(function(r){ return (r.rating || 5) <= 2; });
+      c.low_n = low.length;
+      if(!c.low_samples){
+        c.low_samples = low.slice(0, 6).map(function(r){
+          return {r: r.rating, d: r.date, t: (r.title || "").slice(0, 60),
+                  b: (r.body || "").slice(0, 280)};
+        });
+      }
+      if(!Array.isArray(c.news)) c.news = [];
+      c.news = c.news.slice(0, 8).map(function(n){
+        return n.t ? n : {d: n.date, t: n.title, s: n.source, u: n.url,
+                          founder: !!n.is_founder_news};
+      });
+      var w = c.website || {};
+      c.hero = c.hero || w.hero_copy;
+      c.price = c.price || (w.pricing_signals || []).slice(0, 6);
+      c.site = c.site || w.url;
+    });
+
+    // 竞品动态：把各家的新闻汇总成一个分组，排在行业动态最前
+    var pool = [], seen = {};
+    (data.competitors || []).forEach(function(c){
+      (c.news || []).forEach(function(n){
+        if(!n.u || seen[n.u]) return;
+        seen[n.u] = 1;
+        pool.push({date: n.d, title: n.t, title_zh: n.t_zh, source: n.s, url: n.u,
+                   group: "竞品动态", competitor: c.name, founder: n.founder});
+      });
+    });
+    var rest = (data.industry_news || []).filter(function(n){ return !seen[n.url]; });
+    pool.sort(function(a, b){ return a.date < b.date ? 1 : -1; });
+    data.industry_news = pool.concat(rest);
+  }
+
+  /* ---------- 工具 ---------- */
+  function daysSince(dateStr){
+    if(!dateStr) return null;
+    var d = new Date(dateStr + "T00:00:00Z");
+    if(isNaN(d)) return null;
+    return Math.round((TODAY - d) / 86400000);
+  }
+  function lowRate(c){
+    return c.reviews_n ? c.low_n / c.reviews_n : null;
+  }
+  function esc(s){
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function(ch){
+      return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch];
+    });
+  }
+  function fmtCount(n){
+    if(n == null) return "—";
+    return n >= 10000 ? (n/10000).toFixed(1) + "万" : String(n);
+  }
+
+  /* ---------- 本周信号 ----------
+     signals 由分析层（Claude）逐条写入数据，这里只负责渲染。
+     刻意不在前端用规则拼装判断——拼出来的文案会在多条之间重复，
+     一眼就能看出是模板填充，而判断正是这个看板唯一不可替代的部分。 */
+  function renderSignals(){
+    var sig = DATA.signals || [];
+    var box = document.getElementById("signals");
+    var read = {};
+    try{ read = JSON.parse(localStorage.getItem("radar.read") || "{}"); }catch(e){}
+
+    document.getElementById("signalNote").textContent =
+      DATA.week + " · 首次采集，无对比基准，第 4 周起显示趋势变化";
+
+    box.innerHTML = sig.map(function(s, i){
+      var key = s.tag + "|" + s.title;
+      var isRead = !!read[key];
+      return '<article class="signal' + (isRead ? " is-read" : "") + '" data-key="' + esc(key) + '" data-jump="' + esc(s.jump || "") + '">' +
+        '<div class="sev ' + s.sev + '"></div>' +
+        '<div>' +
+          '<div class="signal-top">' +
+            '<span class="tag ' + s.sev + '">' + esc(s.tag) + '</span>' +
+            '<h3>' + esc(s.title) + '</h3>' +
+          '</div>' +
+          '<p>' + esc(s.body) + '</p>' +
+          '<div class="verdict"><span class="verdict-label">对衣殿</span><span>' + esc(s.verdict) + '</span></div>' +
+        '</div>' +
+        '<button class="readmark" type="button" data-key="' + esc(key) + '" data-jump="' + esc(s.jump||"") + '">' +
+          (isRead ? "标记未读" : "标记已处理") + '</button>' +
+      '</article>';
+    }).join("");
+
+    box.querySelectorAll(".signal h3").forEach(function(h){
+      var art = h.closest(".signal");
+      var jump = art && art.getAttribute("data-jump");
+      if(!jump) return;
+      h.style.cursor = "pointer";
+      h.title = "在下方矩阵中展开该竞品";
+      h.addEventListener("click", function(){
+        state.tier = "all";
+        document.querySelectorAll("#filters .chip").forEach(function(b){
+          b.setAttribute("aria-pressed", String(b.getAttribute("data-tier") === "all"));
+        });
+        state.open = jump;
+        renderMatrix();
+        var row = document.querySelector('#matrixBody .row[data-id="' + jump + '"]');
+        if(row) row.scrollIntoView({behavior:"smooth", block:"center"});
+      });
+    });
+
+    box.querySelectorAll(".readmark").forEach(function(btn){
+      btn.addEventListener("click", function(){
+        var key = btn.getAttribute("data-key");
+        var store = {};
+        try{ store = JSON.parse(localStorage.getItem("radar.read") || "{}"); }catch(e){}
+        if(store[key]) delete store[key]; else store[key] = 1;
+        try{ localStorage.setItem("radar.read", JSON.stringify(store)); }catch(e){}
+        renderSignals();
+      });
+    });
+  }
+
+  /* ---------- 矩阵 ---------- */
+  var state = {
+    tier:"all", market:"all", sort:"low", dir:-1, open:null,
+    industryTab:"全部",
+    lang: "zh"   // zh = 显示译文，raw = 显示原文。团队看中文，所以默认译文。
+  };
+
+  /* 取字段：中文模式下优先用 <字段>_zh，没有译文就回落到原文
+     （中文内容本来就没有 _zh，自然走这条路） */
+  function L(obj, key){
+    if(!obj) return "";
+    if(state.lang === "zh" && obj[key + "_zh"]) return obj[key + "_zh"];
+    return obj[key] || "";
+  }
+  /* 有译文可切时给个视觉提示 */
+  function hasAlt(obj, key){
+    return !!(obj && obj[key + "_zh"] && obj[key]);
+  }
+
+  function sortValue(c, key){
+    switch(key){
+      case "name": return c.name.toLowerCase();
+      case "released": return c.released_at || "";
+      case "rating": return c.rating == null ? -1 : c.rating;
+      case "count": return c.rating_count == null ? -1 : c.rating_count;
+      case "low": return lowRate(c) == null ? -1 : lowRate(c);
+      case "news": return c.news ? c.news.length : 0;
+    }
+    return 0;
+  }
+
+  function renderMatrix(){
+    var rows = DATA.competitors.filter(function(c){
+      var tierOk = state.tier === "all" || String(c.tier) === state.tier;
+      var mk = c.market || "global";
+      var marketOk = state.market === "all" || mk === state.market;
+      return tierOk && marketOk;
+    });
+    rows.sort(function(a,b){
+      var va = sortValue(a, state.sort), vb = sortValue(b, state.sort);
+      if(va < vb) return -1 * state.dir;
+      if(va > vb) return 1 * state.dir;
+      return 0;
+    });
+
+    var html = "";
+    rows.forEach(function(c){
+      var d = daysSince(c.released_at);
+      var relCls = d == null ? "nodata" : (d > 300 ? "dead" : (d > 150 ? "stale" : ""));
+      var relTxt = c.released_at
+        ? c.released_at + '<div class="sub">' + (d != null ? d + " 天前" : "") + "</div>"
+        : '<span class="nodata">未上架 / 无数据</span>';
+      var lr = lowRate(c);
+      var lrCell = lr == null
+        ? '<span class="nodata">无评论数据</span>'
+        : Math.round(lr*100) + '%<div class="sub">' + c.low_n + "/" + c.reviews_n + ' 条</div>' +
+          '<div class="bar ' + (lr < 0.15 ? "low" : (lr < 0.3 ? "mid" : "")) + '"><span style="width:' +
+          Math.min(100, Math.round(lr*100)) + '%"></span></div>';
+      var n = c.news ? c.news.length : 0;
+
+      html += '<tr class="row' + (state.open === c.id ? " open" : "") + '" data-id="' + c.id + '" tabindex="0">' +
+        '<td><div class="cname"><span class="tier-pip t' + c.tier + '">T' + c.tier + '</span>' + esc(c.name) +
+          ((c.market === "cn") ? '<span class="mk">国内</span>' : "") + '</div>' +
+          '<div class="sub mono">' + esc(c.version ? "v" + c.version : "—") + '</div></td>' +
+        '<td class="' + relCls + '" data-label="最近发版">' + relTxt + '</td>' +
+        '<td class="num" data-label="评分">' + (c.rating != null ? c.rating.toFixed(2) : '<span class="nodata">—</span>') + '</td>' +
+        '<td class="num" data-label="评分量">' + (c.rating_count != null ? fmtCount(c.rating_count) : '<span class="nodata">—</span>') + '</td>' +
+        '<td class="bar-cell num" data-label="差评率">' + lrCell + '</td>' +
+        '<td data-label="本周新闻"><span class="newscount' + (n ? "" : " zero") + '">' + n + '</span></td>' +
+      '</tr>';
+
+      if(state.open === c.id){
+        html += '<tr class="detail"><td colspan="6"><div class="detail-in">' + detailHtml(c) + '</div></td></tr>';
+      }
+    });
+
+    document.getElementById("matrixBody").innerHTML = html;
+
+    document.querySelectorAll("#matrixBody .row").forEach(function(tr){
+      function toggle(){
+        var id = tr.getAttribute("data-id");
+        state.open = state.open === id ? null : id;
+        renderMatrix();
+      }
+      tr.addEventListener("click", toggle);
+      tr.addEventListener("keydown", function(ev){
+        if(ev.key === "Enter" || ev.key === " "){ ev.preventDefault(); toggle(); }
+      });
+    });
+  }
+
+  function detailHtml(c){
+    var out = "";
+
+    out += '<div class="panel"><h4>用户差评样本</h4>';
+    if(c.low_samples && c.low_samples.length){
+      out += c.low_samples.map(function(s){
+        var title = L(s, "t"), body = L(s, "b");
+        var translated = hasAlt(s, "b") && state.lang === "zh";
+        return '<div class="quote">' + (title ? "<b>" + esc(title) + "</b>" : "") +
+          esc(body) +
+          '<div class="meta">' + s.r + " 星 · " + esc(s.d) +
+          (translated ? ' · <span class="xl">译</span>' : "") + "</div></div>";
+      }).join("");
+    } else if(c.reviews_n){
+      out += '<p class="empty">本批 ' + c.reviews_n + " 条评论中无 1-2 星差评。</p>";
+    } else {
+      out += '<p class="empty">未取到评论（接口限流或该 App 无评论 RSS）。</p>';
+    }
+    out += "</div>";
+
+    out += '<div class="panel"><h4>本周报道</h4>';
+    if(c.news && c.news.length){
+      out += c.news.map(function(n){
+        return '<a class="newsitem" href="' + esc(n.u) + '" target="_blank" rel="noopener">' +
+          '<span class="nt">' + esc(L(n, "t")) + "</span>" +
+          '<span class="nm">' + esc(n.d) + " · " + esc(n.s) +
+          (n.founder ? ' · <span class="xf">创始人</span>' : "") +
+          (hasAlt(n, "t") && state.lang === "zh" ? ' · <span class="xl">译</span>' : "") +
+          "</span></a>";
+      }).join("");
+    } else {
+      out += '<p class="empty">本周无报道。</p>';
+    }
+    out += "</div>";
+
+    out += '<div class="panel"><h4>官网与定价</h4>';
+    if(c.hero || (c.price && c.price.length)){
+      if(c.hero) out += '<div class="kv"><b>主标题</b>　' + esc(L(c, "hero")) + "</div>";
+      if(c.price && c.price.length){
+        out += '<div class="kv"><b>定价信号</b><div class="pricechips">' +
+          c.price.map(function(p){ return '<span class="pricechip">' + esc(p) + "</span>"; }).join("") +
+          "</div></div>";
+      }
+      if(c.site) out += '<div class="kv"><a class="nt" href="' + esc(c.site) + '" target="_blank" rel="noopener">' + esc(c.site) + "</a></div>";
+    } else {
+      out += '<p class="empty">未取到官网数据。</p>';
+    }
+    if(c.release_notes){
+      out += '<h4 style="margin-top:14px">最新更新日志</h4><div class="kv">' + esc(L(c, "release_notes")) + "</div>";
+    }
+    out += "</div>";
+
+    return out;
+  }
+
+  /* ---------- 行业动态 ---------- */
+  /* 行业动态按主题分组。分组规则跟着 config 里的查询词走：
+     一条新闻是从哪个查询词来的，就归到哪一组。 */
+  var INDUSTRY_GROUPS = ["全部", "竞品动态", "赛道", "服装行业", "新消费硬件", "AI 陪伴"];
+
+  function renderIndustry(){
+    var box = document.getElementById("industry");
+    var tabs = document.getElementById("industryTabs");
+    var items = DATA.industry_news || [];
+
+    if(!items.length){
+      tabs.innerHTML = "";
+      box.innerHTML = '<p class="empty">本周行业查询无新增结果。</p>';
+      return;
+    }
+
+    var counts = {};
+    INDUSTRY_GROUPS.forEach(function(g){
+      counts[g] = g === "全部" ? items.length
+        : items.filter(function(n){ return (n.group || "赛道") === g; }).length;
+    });
+
+    tabs.innerHTML = INDUSTRY_GROUPS.filter(function(g){ return counts[g] > 0; })
+      .map(function(g){
+        return '<button class="chip" type="button" data-group="' + esc(g) + '" aria-pressed="' +
+          (state.industryTab === g) + '">' + esc(g) + ' <span style="opacity:.6">' + counts[g] + '</span></button>';
+      }).join("");
+
+    tabs.querySelectorAll(".chip").forEach(function(btn){
+      btn.addEventListener("click", function(){
+        state.industryTab = btn.getAttribute("data-group");
+        renderIndustry();
+      });
+    });
+
+    var shown = state.industryTab === "全部" ? items
+      : items.filter(function(n){ return (n.group || "赛道") === state.industryTab; });
+
+    box.innerHTML = '<div class="matrix-scroll" style="padding:4px 14px">' + shown.map(function(n){
+      return '<a class="newsitem" href="' + esc(n.url) + '" target="_blank" rel="noopener">' +
+        '<span class="nt">' + esc(L(n, "title")) + "</span>" +
+        '<span class="nm">' + esc(n.date) + " · " + esc(n.source) +
+        (n.competitor ? ' · <b>' + esc(n.competitor) + "</b>" : "") +
+        (n.founder ? ' · <span class="xf">创始人</span>' : "") +
+        (n.group ? ' · <span style="color:var(--accent)">' + esc(n.group) + "</span>" : "") +
+        (hasAlt(n, "title") && state.lang === "zh" ? ' · <span class="xl">译</span>' : "") +
+        "</span></a>";
+    }).join("") + "</div>";
+  }
+
+  /* ---------- 健康度 ---------- */
+  function renderHealth(){
+    var h = DATA.source_health || {};
+    var keys = Object.keys(h);
+    var bad = keys.filter(function(k){ return h[k] !== "ok"; });
+
+    document.getElementById("healthSummary").innerHTML =
+      '<span class="dot ' + (bad.length ? "bad" : "ok") + '"></span>' +
+      (keys.length - bad.length) + "/" + keys.length + " 源正常";
+
+    document.getElementById("healthNote").textContent =
+      bad.length ? bad.length + " 个源异常，其余数据照常可用" : "全部数据源正常";
+
+    // 只列异常的，正常的没必要占版面
+    var grid = document.getElementById("healthGrid");
+    if(!bad.length){
+      grid.innerHTML = '<p class="empty">本周所有数据源均正常。</p>';
+      return;
+    }
+    grid.innerHTML = bad.map(function(k){
+      var reason = h[k].split(":")[0];
+      return '<div class="hrow"><span class="dot bad"></span>' +
+        '<span class="nm2">' + esc(k) + "</span>" +
+        '<span class="st">' + esc(reason) + "</span></div>";
+    }).join("");
+  }
+
+  /* ---------- 绑定 ---------- */
+  var langBtn = document.getElementById("langBtn");
+  try{
+    var savedLang = localStorage.getItem("radar.lang");
+    if(savedLang) state.lang = savedLang;
+  }catch(e){}
+  function paintLangBtn(){
+    langBtn.textContent = state.lang === "zh" ? "显示原文" : "显示译文";
+  }
+  langBtn.addEventListener("click", function(){
+    state.lang = state.lang === "zh" ? "raw" : "zh";
+    try{ localStorage.setItem("radar.lang", state.lang); }catch(e){}
+    paintLangBtn();
+    renderSignals(); renderMatrix(); renderIndustry();
+  });
+  paintLangBtn();
+
+  document.getElementById("marketFilters").addEventListener("click", function(ev){
+    var btn = ev.target.closest(".chip");
+    if(!btn) return;
+    state.market = btn.getAttribute("data-market");
+    state.open = null;
+    document.querySelectorAll("#marketFilters .chip").forEach(function(b){
+      b.setAttribute("aria-pressed", String(b === btn));
+    });
+    renderMatrix();
+  });
+
+  document.getElementById("filters").addEventListener("click", function(ev){
+    var btn = ev.target.closest(".chip");
+    if(!btn) return;
+    state.tier = btn.getAttribute("data-tier");
+    state.open = null;
+    document.querySelectorAll("#filters .chip").forEach(function(b){
+      b.setAttribute("aria-pressed", String(b === btn));
+    });
+    renderMatrix();
+  });
+
+  document.querySelectorAll("thead th.sortable").forEach(function(th){
+    th.addEventListener("click", function(){
+      var key = th.getAttribute("data-sort");
+      if(state.sort === key) state.dir *= -1;
+      else { state.sort = key; state.dir = key === "name" ? 1 : -1; }
+      state.open = null;
+      document.querySelectorAll("thead th.sortable .arrow").forEach(function(a){ a.textContent = ""; });
+      th.querySelector(".arrow").textContent = state.dir === 1 ? "▲" : "▼";
+      renderMatrix();
+    });
+  });
+
+  function render(){
+    adapt(DATA);
+    // 顺序要紧：low_samples 是 adapt 里现算的，译文只能贴在它之后
+    mergeTranslations(DATA, DATA.__translations || {});
+    document.getElementById("weekStamp").textContent = DATA.week;
+
+    var parts = ["数据采集 " + DATA.collected_at.replace("T", " ").replace("Z", " UTC")];
+    if(DATA.analysis_at) parts.push("分析更新 " + DATA.analysis_at);
+    document.getElementById("collectedAt").textContent = parts.join("　·　");
+
+    renderSignals();
+    renderMatrix();
+    renderIndustry();
+    renderHealth();
+    document.getElementById("loading").hidden = true;
+    document.getElementById("main").hidden = false;
+  }
+
+  boot();
+})();
+</script>
+
+</body>
+</html>

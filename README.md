@@ -1,5 +1,8 @@
 # 衣殿竞品雷达
 
+**看板（公开，无需登录）**：https://z5143868-boop.github.io/yidian-radar/
+**周报**：[Issues](https://github.com/z5143868-boop/yidian-radar/issues)
+
 每周自动采集竞品的 App 动态、资本动态、媒体报道、用户反馈，输出一份「本周变了什么」。
 
 采集层跑在 GitHub Actions，分析层跑在 Claude，数据存在 git 里。
@@ -111,6 +114,20 @@ GitHub Actions 的出口也在美国，所以这个限制在生产环境同样�
 
 加竞品就加一条。`android_id` 需要手动查 Play 商店链接里的 `id=` 参数——
 Google Play 没有官方搜索接口，没法自动解析。
+
+## 开启公开看板（GitHub Pages）
+
+推送后到 Settings → Pages → Source 选 **Deploy from a branch** → 分支 `main`、目录 `/ (root)` → Save。
+一两分钟后 https://z5143868-boop.github.io/yidian-radar/ 就能打开，任何人不用登录都能看。
+
+页面自己去读同仓库的两个文件，所以数据更新后刷新页面就是最新的，不用重新部署：
+
+| 文件 | 谁写 | 内容 |
+|---|---|---|
+| `data/latest.json` | GitHub Actions，每周自动 | 全部采集数据 |
+| `data/analysis.json` | 目前由 Claude 生成后人工推送 | 本周信号 + 中文译文 |
+
+`analysis.json` 缺失或格式错误时页面照常显示数据，只是没有信号和译文——不会白屏。
 
 ## 部署到 GitHub Actions
 
