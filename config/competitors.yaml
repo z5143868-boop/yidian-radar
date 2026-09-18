@@ -1,0 +1,335 @@
+# 衣殿竞品雷达 - 监控名单配置
+#
+# 改名单只改这个文件，不用动代码。
+# tier 决定监控密度：1=全量每周，2=功能+融资，3=只看融资和大动作
+#
+# 字段说明（全部可选，缺哪个就跳过哪个源）：
+#   apple_id      App Store 数字 ID。下面这些都是 2026-09 实测验证过的。
+#                 留空时脚本会按 app_name 自动查，但自动查有误匹配风险
+#                 （"Alta" 会命中 Alta Networks），所以能填就填。
+#                 查 ID: python -m tools.resolve "App 名字"
+#   app_name      App 在商店里的完整名字，用于自动解析和人工核对
+#   android_id    Google Play 包名
+#   website       官网首页，抓定价和主标题
+#   news_query    新闻搜索词。用公司名/产品名加引号，泛概念词查出来全是垃圾
+#   founder       创始人姓名，作为社媒的降级方案单独搜一次
+#   reddit_query  Reddit 搜索词，留空则跳过
+#   country       商店地区，默认 us。国内竞品必须填 cn，否则查不到。
+#                 Apple 的接口对中国区一样开放，版本/评分/评论全都拿得到。
+
+competitors:
+  # ---------- T1 正面竞品：同形态、同人群、直接抢用户 ----------
+  - id: alta
+    name: Alta
+    tier: 1
+    apple_id: "6481705400"          # 实测验证 Alta Daily: Digital AI Closet
+    app_name: Alta Daily
+    android_id: ""                   # 待确认是否有 Android 版
+    website: https://www.altadaily.com/
+    news_query: '"Alta" AI stylist app'
+    founder: Jenny Wang
+    reddit_query: Alta app stylist closet
+
+  - id: stitchfix
+    name: Stitch Fix
+    tier: 1
+    apple_id: "1022579925"          # 实测验证
+    app_name: Stitch Fix - Personal Styling
+    android_id: ""                 # 待确认包名（Play 无官方搜索接口，需手动查）
+    website: https://www.stitchfix.com/
+    news_query: '"Stitch Fix"'
+    founder: Matt Baer
+    reddit_query: Stitch Fix review
+
+  - id: essembl
+    name: Essembl
+    tier: 1
+    apple_id: "6479642952"          # 实测验证 Essembl: Outfit Planner
+    app_name: Essembl
+    android_id: ""
+    website: https://www.essembl.com/
+    news_query: '"Essembl" outfit app'
+    founder: ""
+    reddit_query: Essembl app
+
+  # ---------- T2 部分重叠：占住了你场景的一半 ----------
+  - id: whering
+    name: Whering
+    tier: 2
+    apple_id: "1519461680"          # 实测验证
+    app_name: "Whering: Your Digital Closet"
+    android_id: com.whering.app      # 实测验证 v3.4.33 / 5M+ 安装
+    website: https://whering.co.uk/
+    news_query: '"Whering" digital wardrobe'
+    founder: Bianca Rangecroft
+    reddit_query: Whering app
+
+  - id: acloset
+    name: Acloset
+    tier: 2
+    apple_id: "1542311809"          # 实测验证 Acloset - AI Fashion Assistant (Looko Inc.)
+    app_name: Acloset - AI Fashion Assistant
+    android_id: ""                 # 待确认包名（Play 无官方搜索接口，需手动查）
+    website: https://acloset.app/
+    news_query: '"Acloset" AI fashion'
+    founder: ""
+    reddit_query: Acloset app
+
+  - id: indyx
+    name: Indyx
+    tier: 2
+    apple_id: "1599179405"          # 实测验证
+    app_name: "Indyx: Wardrobe & Outfit App"
+    android_id: ""
+    website: https://www.indyx.com/
+    news_query: '"Indyx" closet app'
+    founder: ""
+    reddit_query: Indyx app
+
+  - id: save_your_wardrobe
+    name: Save Your Wardrobe
+    tier: 2
+    apple_id: "1485757044"          # 实测验证
+    app_name: "Save Your Wardrobe: Organiser"
+    android_id: ""
+    website: https://saveyourwardrobe.com/
+    news_query: '"Save Your Wardrobe"'
+    founder: Hasna Kourda
+    reddit_query: ""
+
+  - id: stylebook
+    name: Stylebook
+    tier: 2
+    apple_id: "335709058"           # 实测验证。2009 年就有的老牌，付费买断制
+    app_name: Stylebook
+    android_id: ""
+    website: https://www.stylebookapp.com/
+    news_query: '"Stylebook" closet app'
+    founder: ""
+    reddit_query: Stylebook app
+
+  # ---------- T2-诊断体系：跟衣殿西蔓 6 维建档直接对位 ----------
+  - id: style_dna
+    name: Style DNA
+    tier: 2
+    apple_id: "1358319821"          # 实测验证。AI 色彩诊断，跟建档业务最近
+    app_name: "Style DNA: AI Stylist & Closet"
+    android_id: ""                 # 待确认包名（Play 无官方搜索接口，需手动查）
+    website: https://styledna.ai/
+    news_query: '"Style DNA" color analysis'
+    founder: ""
+    reddit_query: Style DNA color analysis
+
+  # ---------- T3 趋势哨兵：今天不撞，明年可能撞 ----------
+  - id: doji
+    name: Doji
+    tier: 3
+    apple_id: "6737292650"          # 实测验证 Doji: Try On Designer Fashion
+    app_name: "Doji: Try On Designer Fashion"
+    android_id: ""
+    website: https://www.doji.com/
+    news_query: '"Doji" virtual try-on AI'
+    founder: ""
+    reddit_query: Doji try on app
+
+  - id: smart_closet
+    name: Smart Closet
+    tier: 3
+    apple_id: "1198057728"          # 实测验证。老玩家，用户基数大
+    app_name: Smart Closet - Your Stylist
+    android_id: ""                 # 待确认包名（Play 无官方搜索接口，需手动查）
+    website: ""
+    news_query: '"Smart Closet" wardrobe app'
+    founder: ""
+    reddit_query: ""
+
+  - id: daydream
+    name: Daydream
+    tier: 3
+    apple_id: ""                     # 未上架或名字不同，只监控新闻
+    app_name: ""
+    android_id: ""
+    website: https://www.daydream.ing/
+    news_query: '"Daydream" AI shopping'
+    founder: Julie Bornstein
+    reddit_query: ""
+
+  - id: phia
+    name: Phia
+    tier: 3
+    apple_id: ""
+    app_name: ""
+    android_id: ""
+    website: https://www.phia.com/
+    news_query: '"Phia" shopping app Phoebe Gates'
+    founder: Phoebe Gates
+    reddit_query: ""
+
+  # ================= 国内竞品 =================
+  # Apple 中国区接口完全可用，实测搭搭、Lookie 评论各拿到 50 条。
+  # 安卓侧（华为/小米/OPPO/vivo）无公开接口，国内 App 只监控 iOS。
+
+  # ---------- 国内 T1 ----------
+  - id: dada
+    name: 搭搭
+    tier: 1
+    country: cn
+    apple_id: "1616484963"          # 实测验证 搭搭 -AI智能电子衣橱
+    app_name: 搭搭
+    android_id: ""
+    website: ""
+    news_query: '"搭搭" AI衣橱'
+    founder: ""
+    reddit_query: ""
+
+  - id: lookie
+    name: Lookie
+    tier: 1
+    country: cn
+    apple_id: "6738732136"          # 实测验证 Lookie-淘宝智能电子衣橱&AI搭配助手
+    app_name: Lookie
+    android_id: ""
+    website: ""
+    news_query: '"Lookie" 淘宝 衣橱'
+    founder: ""
+    reddit_query: ""
+
+  - id: deti
+    name: 得体
+    tier: 1
+    country: cn
+    apple_id: "6752994563"          # 得体 – AI 智能形象顾问。跟衣殿建档业务直接对位
+    app_name: 得体
+    android_id: ""
+    website: ""
+    news_query: '"得体" AI形象顾问'
+    founder: ""
+    reddit_query: ""
+
+  # ---------- 国内 T2 ----------
+  - id: jinjian
+    name: 尽简衣橱
+    tier: 2
+    country: cn
+    apple_id: "1344153452"
+    app_name: 尽简衣橱
+    android_id: ""
+    website: ""
+    news_query: '"尽简衣橱"'
+    founder: ""
+    reddit_query: ""
+
+  - id: wuyou
+    name: 无忧衣橱
+    tier: 2
+    country: cn
+    apple_id: "6642687628"
+    app_name: 无忧衣橱
+    android_id: ""
+    website: ""
+    news_query: ""
+    founder: ""
+    reddit_query: ""
+
+  - id: youzi
+    name: 柚子衣橱
+    tier: 2
+    country: cn
+    apple_id: "6504781666"
+    app_name: 柚子衣橱
+    android_id: ""
+    website: ""
+    news_query: ""
+    founder: ""
+    reddit_query: ""
+
+  - id: fashionlabs
+    name: FashionLabs
+    tier: 2
+    country: cn
+    apple_id: "6754964357"          # AI虚拟试衣间，主打奢装
+    app_name: FashionLabs
+    android_id: ""
+    website: ""
+    news_query: ""
+    founder: ""
+    reddit_query: ""
+
+  # ---------- 国内 T3 ----------
+  - id: aishichuan
+    name: AI试穿
+    tier: 3
+    country: cn
+    apple_id: "6503932455"
+    app_name: AI试穿
+    android_id: ""
+    website: ""
+    news_query: ""
+    founder: ""
+    reddit_query: ""
+
+  - id: michuanda
+    name: 蜜穿搭 MIMI
+    tier: 3
+    country: cn
+    apple_id: "6762369098"          # 名字跟镜小搭(MiMi)撞了，留意品牌混淆风险
+    app_name: 蜜穿搭
+    android_id: ""
+    website: ""
+    news_query: ""
+    founder: ""
+    reddit_query: ""
+
+  - id: yanzhi_ai
+    name: 颜值AI
+    tier: 3
+    country: cn
+    apple_id: "6744930389"          # 色彩测试+穿搭灵感，跟建档的色彩诊断部分重叠
+    app_name: 颜值AI
+    android_id: ""
+    website: ""
+    news_query: ""
+    founder: ""
+    reddit_query: ""
+
+
+# ---------- 行业大盘：不绑定具体公司，捕捉赛道级信号和新玩家线索 ----------
+# 这些只走 news collector。
+# 中文泛词实测会混进大量 SEO 垃圾（彩票站塞关键词那种），
+# 所以中文这边只保留意图明确的融资类查询。
+# 每个词都实测过有真实结果。0 条的（服装品牌 融资 / 快时尚 财报 /
+# fashion tech funding）已剔除，SEO 垃圾重灾区（智能镜 AI）也剔除了。
+industry_queries:
+  # —— 赛道本身
+  - 'AI stylist app funding'
+  - 'digital wardrobe startup raises'
+  - 'virtual try-on startup funding'
+  - 'AI 穿搭 App 融资'
+  - '智能衣橱 融资'
+  - 'apparel retail AI startup'
+
+  # —— 服装行业大盘
+  - '服装行业 AI'
+  - '服装 品牌 出海'
+  - '服装 零售 数字化'
+
+  # —— 新消费硬件（镜小搭 / ANDA 共用这条线）
+  - '新消费 硬件 融资'
+  - 'AI 硬件 消费级'
+  - '智能穿戴 消费电子 融资'
+  - 'AI 眼镜 出货'
+  - 'consumer AI hardware funding'
+
+  # —— AI 陪伴 / 银发（ANDA）
+  - 'AI 陪伴机器人'
+  - '具身智能 消费'
+  - '银发经济 AI'
+  - 'AI companion robot elderly'
+
+# ---------- 运行参数 ----------
+settings:
+  news_lookback_days: 8        # 多抓一天，防止跨周边界漏掉
+  reviews_per_app: 50          # 每个 App 抓最近多少条评论
+  request_delay_seconds: 3.0   # 23 个竞品近百次请求，间隔太短会被 Apple 限流
+  timeout_seconds: 20
+  retries: 3                   # 实测 Apple 评论接口会偶发返回空，必须重试
