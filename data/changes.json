@@ -1,6 +1,916 @@
 {
-  "week": "2026-W38",
-  "first_run": true,
-  "changes": [],
-  "note": "首次采集，无对比基准。第四周起趋势数据才有意义。"
+  "week": "2026-W40",
+  "first_run": false,
+  "compared_with": "2026-W38",
+  "changes": [
+    {
+      "competitor": "Alta",
+      "type": "news",
+      "detail": "Permission To Come Home: Dr. Jenny Wang on Asian Americans and Mental Health",
+      "date": "2026-09-25",
+      "source": "Asia Society",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTy1HdjdYeTBQSjJ1a21DY0JBYUhUUl9SODNYbFdZN0RyUXZWRnI0eGg3UVNnM0pQdjl5UmFKWmxzZV8zb3IxVDllUmZSLVJKU2RLaEt5TTNhU1ZKeW9TY0hEVFRud3FfVzduNHZXZ3NDRkZxMlJaUWxlM1h6eEo2UTAxdUR1M2JOblVUV1ZEMVhpZzV1RDJxbGtkaUZPMXZzYlYyWVY5YmoxYkU?oc=5",
+      "summary": "Permission To Come Home: Dr. Jenny Wang on Asian Americans and Mental Health &nbsp;&nbsp; Asia Society"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "11.22.0 → 11.23.0",
+      "released_at": "2026-09-21",
+      "release_notes": "Recent updates in the Stitch Fix app:\n\n• Bug fixes & improvements. Updates make your experience even more seamless.\n\nWhat do you think of the Stitch Fix app? If you like us, please write a review in the App Store! Problems or suggestions? Please email hello@stitchfix.com."
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Reports $1.35 Billion In Fiscal 2026 Revenue And Generates $19.8 Million In Free Cash Flow",
+      "date": "2026-09-27",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0MwU05jdWE5alZuU1I3ZGFsalJhWWd6NTE5REZGSUdyOXFEeXEzZWtOMklQNGJjaUJna0I4dldHR1p2TXhMeVJsUUxsMGYycS0xVncwdTNIdW9TZmlWT0lUcERqelNRUGhHckdMcU9mUEx2VGNhR3lqN3Z2aHBQdEJoT2c1MnZ2dGNESnlvTXFUb0Q0eHBEVFhTaHp0Ynd5a2ZLQ3NoTExzZjJ5TXdXSmg5LXFBN2NETHRN0gHAAUFVX3lxTE1LZHRXbVowcXg3OGV4V21RaHBBUzZPNnY1R3NMRzhWelczcFRUS1ZfakU4TWN0c3JETWtmZ0FidkF4M2g3dFYyZ2g2TFpiN29ZRnRIMlkwNG1LSlpXOV9YRWlFMjFRY1JKUXJwQzdRSVNGY2M4YzJ0V01JWU5yejhpbHk1NWdRaThMdnVsdmtYMjdYZHd4MXNNSnNsYTFodlROVG5zQmdlaDduZmd3MmwzLWZ0dVRjWnJXMEpUV3VCVQ?oc=5",
+      "summary": "Stitch Fix Reports $1.35 Billion In Fiscal 2026 Revenue And Generates $19.8 Million In Free Cash Flow &nbsp;&nbsp; Pulse 2.0"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Form 144 Stitch Fix For: 27 September By Investing.com",
+      "date": "2026-09-27",
+      "source": "Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNW80bmo5aHRyUi0wbl9JamVGT1JFcTJZT2QxVFhLckNZWEFOQ2h2dkM4c21lOHNzQmdBa3JYS0tXa0lwY2xoZHc0TnFqZTNGc0NUV2NKS3BqTDRhZWpuNWt1VlU1b1oyWTNQbXYyeFRxTmtMdWpfeFdXaDJQRkF3N2Rrbl9NYm9iLTlQak1MZ2tfQlZ5U1RBOFFiY1R0Zw?oc=5",
+      "summary": "Form 144 Stitch Fix For: 27 September By Investing.com &nbsp;&nbsp; Investing.com UK"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Teleconferência de Resultados do 4º Trimestre do Ano Fiscal de 2026 da Stitch Fix (SFIX): RPAC Recorde, Perspectivas Cautelosas para o Ano Fiscal de 2027",
+      "date": "2026-09-27",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwM3hHaTZpSzh0SWxRYkc1M0E0M1NaNTRFbWR5b3hjWDNaYzg1UGpiNjZVdVI0REF1bWhKeHNjbjBXYVcxbWdLQlBtSFhYZ3RYTFhKM05KNjFpU1N3M2x6SjFhcmtUeVFBSFVxbHRISHItdVBlcWc?oc=5",
+      "summary": "Teleconferência de Resultados do 4º Trimestre do Ano Fiscal de 2026 da Stitch Fix (SFIX): RPAC Recorde, Perspectivas Cautelosas para o Ano Fiscal de 2027 &nbsp;&nbsp; TradingKey"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Announces Planned Board Transition as Director Retires",
+      "date": "2026-09-26",
+      "source": "The Globe and Mail",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9b24aec974e32b035556000c918ff&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fSFIX%2fpressreleases%2f4818306%2fstitch-fix-announces-planned-board-transition-as-director-retires%2f&c=14525295392771906998&mkt=en-us",
+      "summary": "Stitch Fix ( ) has issued an update. On September 21, 2026, Stitch Fix, Inc. disclosed that board member J. William Gurley will not stand for re‑election at the company’s 2026 ..."
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "AI becomes larger part of Stitch Fix strategy as Q4 revenue grows",
+      "date": "2026-09-25",
+      "source": "digitalcommerce360.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5laE9DLUE1OXN2Sk1tLUdRUGJGU1BNMFdZdG9CZlBUUmVGS2EwSGx6YjJ5RGdLVmM0M2dud0VwVnlrUFA3Yi0weUxhSnczalZBdkVHSVRHcHV6WTVDMVh4Q0hLX2h0aERHVDZCSk9JamszaURCdjNRYkF2d092QdIBgwFBVV95cUxQS192N19JaGtPcGdqVklRUTNsbl9EZ0RLdzctNFRVMDQ0MnBzOG10Z2I4UTQ2VV90eFowRmhQZmdKa0pCQmU0MVZWbkdOVU8tLTJJamVCVHlHdW1CUkRCeEUwSUdJdndOX2NBUnhkenJCcERWT0VNdF9TMzlUV19oaE9jbw?oc=5",
+      "summary": "AI becomes larger part of Stitch Fix strategy as Q4 revenue grows &nbsp;&nbsp; digitalcommerce360.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Consumer Discretionary - Apparel and Accessories Stocks Q2 In Review: Stitch Fix (NASDAQ:SFIX) Vs Peers",
+      "date": "2026-09-25",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGF3NkFGZnlYWVpobFNJSTU2VFhNYkZydmwyOFIyWHRXemVPdzNRbVlqb2U4Y24xWG1GYXVoSFNvQmZPd05zdlF5TVgtVmdVeHBsUjh3NXFuUm5PWV8zY2txdnNpeEFYMEJ0RE1OazM4UUpBb3U2NXJXWmVYSWhXajV5bE8yZ2FQSlFTN1N3czRCRjVreEgwZk9Qa1dHcEkwRkJGZ21sVk1YaG5yZzV1czBuNkc?oc=5",
+      "summary": "Consumer Discretionary - Apparel and Accessories Stocks Q2 In Review: Stitch Fix (NASDAQ:SFIX) Vs Peers &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Is Stitch Fix’s (SFIX) Turnaround Built to Last?",
+      "date": "2026-09-25",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0xldXJveVZacHYtNDVkRGFjemZPbFdLVjRZb1lybTZ3T193eVQ0WkpmRW1ydGEzQU1RbmdGSlI1X0VuNkhkZDB6U3JZU05faUtOYXBWU0xicUVVa0dsUkVFcnR1Z0NPZ180N0N5X1Z0NHU2X2x3Ml9rWEFmVEVaejVQRWM0ZGtWSURPb0paUnFYdG9oZnE5V2UtWjAtQQ?oc=5",
+      "summary": "Is Stitch Fix’s (SFIX) Turnaround Built to Last? &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "J. William Gurley to Retire from Stitch Fix Board at 2026 Annual Meeting",
+      "date": "2026-09-25",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUoySjFMeWFpWmozUW1CTzBlWkN0dWllSWhoaDZNajJfbnA4Q01KNElreDhZbEV5QzNyMXZIX25lVXBYV2NvMlZMSWoxN2MzcHF4QU5vWVdsVUp0UFJwWFBBWkZZNjZRQjNBczdTUW5wMEVyZ3o3VERkeFp1ZFhObks5S2IyZlVUanJ1eVYwM1ZXS1F0ajFEVTBzekl1aGZDTXQxUlN1M0duemw5TlI2VzFybUZQNUJhMXFweC0xNVVDT0FGbmRzNWJ3bFR4dw?oc=5",
+      "summary": "J. William Gurley to Retire from Stitch Fix Board at 2026 Annual Meeting &nbsp;&nbsp; TradingView"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix (SFIX) Stock Stumbles On Thinner EBITDA Outlook",
+      "date": "2026-09-25",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1RwclRKTFIyeXBjYWltNkY4RE9NYXF0OXJMNFZzaHd0MHl2RmhYVUtEVnFxT2tELWs1RmJ0aFJIbUFyajZ5NWx2elhvNlpSSzJyMjFSTVVHX3I0WFJSNFBJRlhtRXBvX0RvcmNjRXFpMk80RGZRVVZVa0ZXMU5EM2V3WTQtckZUQUQtY0VaWGxyTG1ZOFF4Q1BLMk1oZ08xaTlfVTBpQ2NWWlI1SEdfMm1SczQ0b2dZWW8yeHllZ23SAcYBQVVfeXFMTkl0YnFNS1BnS0ZHTFItMVVVN2NkMDRaci1Xbk5laWczeXMxY0dub1VvTE5NLWNjQ0FfX0JfZ2t5QjcwUHYzSWJFNTVDcy1aaDFRYTNRcjVmeVdiZjZsZ0lLVWZCcHVZVHhLZHNoS1FWVWVUY1BKVkgyZVk2aWhEbFBIYVNnekV6a3Z5bTRhTGg3aDJpVHpCcjRlSk44UzlqWmh4UFVqeFl4blNhbmFOd21PT19uWjI3VGlNUnYwamtQSVBXM3B3?oc=5",
+      "summary": "Stitch Fix (SFIX) Stock Stumbles On Thinner EBITDA Outlook &nbsp;&nbsp; simplywall.st"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Named AI Investment as a Reason for EBITDA Declining",
+      "date": "2026-09-25",
+      "source": "AIM Media House",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3o5dW04QWViU09BX2o2X3liZTJCOGl6c2phWXdOaXNnaGdtNjdROU9JTTcwa0NpckNjYzRKTEQ0RERuTFFoVnZ0bnFwTzU3T20xNXk3VXlpdXZTMDNwcFFGMlJrd0xBbER5UVRBeno1c1pCNThKOXd4cEJjdTVMSHY4QWlhSXZwVDZ0ZTV6WkJXNkg2VDA2X0djSU9EVUVo?oc=5",
+      "summary": "Stitch Fix Named AI Investment as a Reason for EBITDA Declining &nbsp;&nbsp; AIM Media House"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Analysts’ Opinions Are Mixed on These Consumer Cyclical Stocks: Stitch Fix (SFIX) and On Holding AG (ONON)",
+      "date": "2026-09-25",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQzFCNGpMZGZpUnhzejdRYWowSHZQTWJIMlBzZ1BSLWEwS1hXbm91dTh6a2pEUWFZY1RxRkxRckk4eTM1R3BzRjUtXy10aVVzaGNMZDd0aE1VWm1uXzRhdVlzSzAtY3NoZEZMUUlwOXVWbks0QWpqQl90QmNzTUxtZEx3Zk50UDJxcDQxbWNQYXlHc05wcVNVYWZNYU54Zlc2ZnhCZlkxeWVTQjkyT2FaR0lLWWVTbzBqMW93MGVPbDZvYUdiaV9JQ2EtUlVUc0FGN3NvNFhWdm8xNE82RUhGUzBGYUpnUktCcDNTS1ZSa1p0cnNqLWU4WEtPaGtQcDNrdC10QWs0U2VCaS1yX2c?oc=5",
+      "summary": "Analysts’ Opinions Are Mixed on These Consumer Cyclical Stocks: Stitch Fix (SFIX) and On Holding AG (ONON) &nbsp;&nbsp; The Globe and Mail"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "What's Driving the Buzz Around Stitch Fix, Inc. (SFIX) in Smallcap Stocks?",
+      "date": "2026-09-25",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRndBUndza1gyUnpoQVVhTHJVOUNacUNGNmJoLU02U0pieW1TREJlR3Y4WFRVLWdtM3pGcmhfc2NUZnd2enQ2UUZzUENDMGtPVzNvSzdqVFdlLVJ2c2p6X0p3X1FlU2xqRDBOYWpMb19jVTdaODhqakx2RWpqU3o1NDNFSWxXVC1VTGFFNUUwdUhTbFlxenBxeTkxOF9yX0tucVNDRnltQzN2OUxiRk0zVW1R?oc=5",
+      "summary": "What's Driving the Buzz Around Stitch Fix, Inc. (SFIX) in Smallcap Stocks? &nbsp;&nbsp; Kalkine Media"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix keeps sales expectations in check as it loses active clients",
+      "date": "2026-09-24",
+      "source": "Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2MxUGw3ekk3UlBJeERJS1JEamlqOVh6UFcwN3BISzZ1eTBUQ1ZGSUIydFZLZzBXZTJMeFBrbFBIclNNNVFINlF4UEpSWi13b3cwLTA1ZkUwX2ZaX1BRMG5vNlNNNWNNb3VyRTFZNVNWUDBFYnl0eUNIVDFjcWtnbHlQc29ETGRmc09rdjNZRGFUOW90VFAtR2FwbXp1T1NrQVFUbQ?oc=5",
+      "summary": "Stitch Fix keeps sales expectations in check as it loses active clients &nbsp;&nbsp; Retail Dive"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Stock Falls 18% Despite Narrower Q4 Loss & Higher Revenues",
+      "date": "2026-09-24",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1JRc0wxX0tuNVMwMUFySFBvYmI1V3g5dnRaUHNBOVlpTnN0RnhLS1NxaVhJU09DeXVBbmQ0UXllTHYzTXFENEJkcHlxejdfQXBJa0d4RjlCUTVUOEFYaHpBMnMzdTNHZzdwQmlvYUJzbTdsMXo3VzVsbTBJX3FNRXk5cVZicGNZRjUzWlFOeGVZWUNr?oc=5",
+      "summary": "Stitch Fix Stock Falls 18% Despite Narrower Q4 Loss & Higher Revenues &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix AI Try-Ons Drive Surge in Shopper Spend",
+      "date": "2026-09-24",
+      "source": "PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmJSYUlDVkVsWDBiMTRfV1IzaXRaUnY4aE9BWjFDYWRyQkJXTHZ6UGZLbXFsVFNNd3dFX0tySjMyV3Y2MlZzZTdYY0xGbzNYQmh4VGJrWVlwdnVkMFdDdW15c013dVAtdGdHMGVTNF9HNF83UWVUWE5lZ05zQmJJR2pXUmltVGpwa2NOcnBJbXRlUUFCbG5nV0NkUnN0Rkk?oc=5",
+      "summary": "Stitch Fix AI Try-Ons Drive Surge in Shopper Spend &nbsp;&nbsp; PYMNTS.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Stock Dives on Soft Outlook",
+      "date": "2026-09-24",
+      "source": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSlBBd1dBeERWWFdicUdReVU0X1UxY3BoVUg1VVhwbUFCTHdIV3p0bFU1dU9FOGNlVjZEZGtOVWZHMHgwVWFSVERMYmdKbFMzdTM0RXZyQXNTZk5oNGRUZlp4Y0xKcWU1dldzN1dpOTNicFRaWk42NXFYZ1NTNjBtMWFQN2NsMV9Yb3M1eWpYclVWd3VOQnBWWkFTQQ?oc=5",
+      "summary": "Stitch Fix Stock Dives on Soft Outlook &nbsp;&nbsp; Investopedia"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix: Expected Demand Decay Is A Major Red Flag (Downgrade) (NASDAQ:SFIX)",
+      "date": "2026-09-24",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdk5vdXVVSWlFOExyWWJ4UXdBMHNrdFV5LWRKY2kyYWdLeUpXWUtJSHktclgwRmw2WlBldUU2ck5jVGNRaHFtR0xOQlhXRU5mR0hpd0lYQ1VaakRibHg2Z1M5TFBaZEVoZnZDMDV6NDN5UU1jamtON0IxNEhVY0ZCVVltTldQMFUzR1JPQVBsNGRxOWZsME9CMEdSZG1acVpJejFfVFln?oc=5",
+      "summary": "Stitch Fix: Expected Demand Decay Is A Major Red Flag (Downgrade) (NASDAQ:SFIX) &nbsp;&nbsp; Seeking Alpha"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Celebrates Back-to-School with a Stylish Drop Off Club for Moms",
+      "date": "2026-09-24",
+      "source": "purewow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uMzdmTXM4Ul9iQ3ZLQlZ4TFZySG95OUZLTG56d1RjTThpZkVFcjBKRFJUMTZVa3doWm1HQTVkNFg2QjROdTI5aWo1bjN0Y0dHb1JBd2xNdUxlaFUwd1hjVGpKcnZUQQ?oc=5",
+      "summary": "Stitch Fix Celebrates Back-to-School with a Stylish Drop Off Club for Moms &nbsp;&nbsp; purewow.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Why Stitch Fix (SFIX) Shares Are Trading Lower Today",
+      "date": "2026-09-24",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGc1LUNxbVpJemdVcHFPbFBMbHdrTHUzR2hmSG8wcERkSC1wRnNHZlRNd0U0N0cxMjUtcUxVSXUyNXZ4cERHUnhReXhMWFdxcm9TeFdQME5EQURMbDI3UDRwUW92NG5qMllSendOTE5va0poNURRdWhhaXYwQ2Y5OHFpckg0QnBISUtBZWRqVlc5VGNDVWc?oc=5",
+      "summary": "Why Stitch Fix (SFIX) Shares Are Trading Lower Today &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Inc (SFIX) (Q4 2026) Earnings Call Highlights: Record Client Spend and Margin Gains ...",
+      "date": "2026-09-24",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdDhRTnZvQUt2ZVFxZ1BkZDExaWJ4aEh6cmVES1hOT2R6YjZhQzItbHNCMEVvVG1lUWJtMzNRY3dieWtrdzNSSXZ3VjNGdGs5bnhPejg0SW1QZy00Z01FaEpTSTBFaWxjcl9ES1FoRjBwR1R1QU9Kb3EydTd3bjltd3lGLThhcU9JUTBidzZaZjY?oc=5",
+      "summary": "Stitch Fix Inc (SFIX) (Q4 2026) Earnings Call Highlights: Record Client Spend and Margin Gains ... &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix, Inc. Q4 2026 Earnings Call Summary",
+      "date": "2026-09-24",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0FBMWd3UUVVMmJ1N3ZXR1hraEFBdzFpOXFjQnJheXlzWDR0WjB0YzRBd2FjbXFob1l4a2xoZ1dScmI2czFvb2xROEExTGtUYzJvcDRDOXlyVEdScURhVk1rdG1UTU5MYTdKbVR3aDVIU2NtcTBzcnJlNUY0d2I1clhyWms0N0NoUzhBZTRKcDA?oc=5",
+      "summary": "Stitch Fix, Inc. Q4 2026 Earnings Call Summary &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix posts 6.4% revenue growth in 2026",
+      "date": "2026-09-24",
+      "source": "us.fashionnetwork.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2RGVXp1Qm9ITm0zQWx3RWdfcDZiTnR2ZVRoS2h0eE1LNmJkWVVZMmtfWjRIaUJPTDZFcVh1S3FxLVdETXladFluV1dNZUpNVXBCWllTdkFoTHhydXpaQ3U0ZV9TZ3FRWkJFaWZuQmMxcEdVaUdKTExLd21WZFhvOUd0RGpjVEhXTGNOdXo3bWFUYkx6LWc?oc=5",
+      "summary": "Stitch Fix posts 6.4% revenue growth in 2026 &nbsp;&nbsp; us.fashionnetwork.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Outlook Shows Slowdown After a Year of Solid Growth",
+      "date": "2026-09-24",
+      "source": "WWD",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkVaSzc2cmtOS2FrQmV2TWJiZkFJOTB5Skwzenl0TFRmSGJnanNlOVlpclNWWnFVa3B1MlJKakwxeXhBa213cWZLcWJtdmdfWnVZNnhVYXNqbWppa29reDFVQldyZThzUzFabEJnclhVX0xEd0J3Wjl3a3VGYXdJRzJSaG1mVDFIQjJnUE9Ob1FPVjdKUDRZ?oc=5",
+      "summary": "Stitch Fix Outlook Shows Slowdown After a Year of Solid Growth &nbsp;&nbsp; WWD"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Premarket movers: Stitch Fix tumbles, Grail surges",
+      "date": "2026-09-24",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHJ3UEh6cDZISWhiZDM2YUE3QWNIVGtwR1FQb1ExT0I1TnBHT3ZKd2c0TjVDaEhsak1ib1lGLTJjd1RONFVndkEzOFpDbml4ZnZIaWZITm8xVTYwTElkbzNMbUtieGRJbjZsQV9STExyZFB3c09FWVMwdVVPVkhNWXNTMUhVU254YWR0eUdzbzZwWkFVakZEcW43Skk4bzhFM09ycEY1anc?oc=5",
+      "summary": "Premarket movers: Stitch Fix tumbles, Grail surges &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix, Inc. Reaches $1.35 Billion in Fiscal 2026; Issues Flattish Outlook for Year Ahead",
+      "date": "2026-09-24",
+      "source": "SGB Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlNLNURaLU5xSjdHbm1YLVhqS1pzZy1QN2t2REpXWkd2S04yMVlOaGdyYVlMRzI1c3J1QjFXTjJVblVvSW1yNWItdDF0UDRxQ21yNUliUm1UUU81NXVQVTB5bDhzZmczY1kwSm9Ib2J4WmE5MFI3ajN3cUJmOTk4OEZVYnczTjB2bmxnSUxiMWU0MnozNzRQcUcwLUxsaTVNdy1Jc3p2cjZfWDY1STFreXVR?oc=5",
+      "summary": "Stitch Fix, Inc. Reaches $1.35 Billion in Fiscal 2026; Issues Flattish Outlook for Year Ahead &nbsp;&nbsp; SGB Media"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Posts Mixed Q4 Results, Joins Viking Therapeutics And Other Big Stocks Moving Lower In Thursda",
+      "date": "2026-09-24",
+      "source": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRkdkQjY5bGlodUNGRFI5d0ZnOEFCVnZoaGs3aTMycEJpSlpURng2RW05UTFfWThaVFdVejVxRWNUNTltdWhTeUtKeGpWWHB2VGhfWUczQVpGME5wdDh5ODNJWUN5RFlMWXZ1ZnhRd3lzYlJ6NUxMcG5tOUVnVzZtVlhhS2h5YnFkajIxWndSR0dWZ1hYUXhxMVc0bnJMYjFET0VnZkpNcUp0aTBTZjNjNTc5Zkt0R0VVc0hsYzhYamVFX19naTdWeXlrb2w5NC1hcTI2a3htNW1QWXg3M2lpZlUtMFF2Q2haTjZPSWpjcFZfVFIxUUZSNXhKakk4UUZnX1FQRnBSbzg2dUFSaHpwQjNzbFg?oc=5",
+      "summary": "Stitch Fix Posts Mixed Q4 Results, Joins Viking Therapeutics And Other Big Stocks Moving Lower In Thursda &nbsp;&nbsp; Benzinga"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Drops More Than 20% Despite Strong Results",
+      "date": "2026-09-24",
+      "source": "Newser",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazdqLW5ub1NGX2V4NkNKc3V6UTFzMHhvenJzTElOaE94eVNiSk1nbzBDV3d3dHJnZDJpRzc4b2JVSnZzQWZVUThsX01POHJZTVJoX3RsQ3lJVDV6V0U0LVF6WVJzLTFTU3VReHNneVF5clNCajdfYWRwZUI5SDBhLWpKWUR3NWZ4MlA0Qg?oc=5",
+      "summary": "Stitch Fix Drops More Than 20% Despite Strong Results &nbsp;&nbsp; Newser"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Watch Darden Restaurants Falls on Results; Stitch Fix Down on Forecast | Stock Movers",
+      "date": "2026-09-24",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakhQckVyakU4a3cyUjBwTW15M19MX1lPVDlScVQxS29RRndhYTN1b0RBLUdTQV9tVWtaTjV1LWhBYXZTODU2dnZ5aXdTM1VURUVkcTFMQVE1QUFPblZRMk9aMElDWWxQMHJBN3ZIdmR2dGlqUHRQRnFtUzZQT0kyZ3VmcjhMaUJBRzNxQU9YS05YX1hicFZYSzRobFlNQ2VKcnhWb01Ja3Vtbk1neUE?oc=5",
+      "summary": "Watch Darden Restaurants Falls on Results; Stitch Fix Down on Forecast | Stock Movers &nbsp;&nbsp; Bloomberg.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix FY 2026: Revenue $1.35B, EPS ($0.09) — 10-K Summary",
+      "date": "2026-09-24",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVUzbElycjVnUUltMnhfRHhnLXVRWWdlam82T3FYa1p4Rlh3Q0I4WlVSZ0h1eEUzdS1pYWdYXzlMTVNTWVRybkxGNGFWeDBJSTVjWlNFcS12THhCRXlZdVJLT1RVQUh6eFNfSFdYdGt5UnMxVnUza0U3b1llWG0tQVRsZnJLYkdDcHU4ZHMxd3E0Z0ZYbFFnMmhZanpLdVZnNm52SHBlTjJLdDFHek4zWWhKWXl1cmc?oc=5",
+      "summary": "Stitch Fix FY 2026: Revenue $1.35B, EPS ($0.09) — 10-K Summary &nbsp;&nbsp; TradingView"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Posts Narrower Q4 2026 Loss of -$0.02, 66.7% Better Than Forecast",
+      "date": "2026-09-24",
+      "source": "news.alphastreet.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzFaUzdsN2dsVVZDWkxHY09aclBhU28wR2JpVi11T0ljR3lqRGRFRVlZYlhNeVc4VjUtWm14N0lvOWxncEFRUUVBbXhCVEtrNXJDS0VuWnJnekJLbklVVUg3MmlhY1FlYmxPZmNTTnJNNl8tTXVDemZ1RWxQdzhYRlM0Y1Z3RVRBV1BtZWk0UG5JZUlzMkdHQWY1bVFYMFFfS2tPYtIBpAFBVV95cUxNVzFaUzdsN2dsVVZDWkxHY09aclBhU28wR2JpVi11T0ljR3lqRGRFRVlZYlhNeVc4VjUtWm14N0lvOWxncEFRUUVBbXhCVEtrNXJDS0VuWnJnekJLbklVVUg3MmlhY1FlYmxPZmNTTnJNNl8tTXVDemZ1RWxQdzhYRlM0Y1Z3RVRBV1BtZWk0UG5JZUlzMkdHQWY1bVFYMFFfS2tPYg?oc=5",
+      "summary": "Stitch Fix Posts Narrower Q4 2026 Loss of -$0.02, 66.7% Better Than Forecast &nbsp;&nbsp; news.alphastreet.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Q4 2026 Deep Dive: EPS Beats Estimates, Revenue Up 4%",
+      "date": "2026-09-24",
+      "source": "news.alphastreet.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX21jbXJTYm1OaWc3Q0hjaVp6Vl9xaElDQlRGYW9HS3BDUThaM0RnNmo5S29WZkJuYnViTG5VS29KRzNyTFYtUDdGbWk3UkhIZVdFdm9hbEF2NEJRWGlwZTVGVU0tLUhFTnB4MFhhNllXaVU1MGN3QldOUFNDY2tYV1piRVF2Y2N6NU10cEFQTjNKRk3SAZMBQVVfeXFMT19tY21yU2JtTmlnN0NIY2laelZfcWhJQ0JURmFvR0twQ1E4WjNEZzZqOUtvVmZCbmJ1YkxuVUtvSkczckxWLVA3Rm1pN1JISGVXRXZvYWxBdjRCUVhpcGU1RlVNLS1IRU5weDBYYTZZV2lVNTBjd0JXTlBTQ2NrWFdaYkVRdmNjejVNdHBBUE4zSkZN?oc=5",
+      "summary": "Stitch Fix Q4 2026 Deep Dive: EPS Beats Estimates, Revenue Up 4% &nbsp;&nbsp; news.alphastreet.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Releases Q4 2026 Financial Results",
+      "date": "2026-09-24",
+      "source": "news.alphastreet.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZC1vWllhVXBHZExnWUVOaFdTY01fdnlubXIzTUYxUTlrU3hyZjlHV2Z6ZjdITi1nTmthUjliUE14c194b1pRY1JYaVVZOGYydWNSOVZCeGFZR04xSzFGc3pDNjFwVC1LUDBKbzZYUnFsV3hLN1l1UXZjS1lTME5iddIBgAFBVV95cUxNZC1vWllhVXBHZExnWUVOaFdTY01fdnlubXIzTUYxUTlrU3hyZjlHV2Z6ZjdITi1nTmthUjliUE14c194b1pRY1JYaVVZOGYydWNSOVZCeGFZR04xSzFGc3pDNjFwVC1LUDBKbzZYUnFsV3hLN1l1UXZjS1lTME5idQ?oc=5",
+      "summary": "Stitch Fix Releases Q4 2026 Financial Results &nbsp;&nbsp; news.alphastreet.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix, Inc. reports results for the quarter ended July 31 - Earnings Summary",
+      "date": "2026-09-24",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc3F5cVNtLXhmMVl3c2VaQ2diUUh2SEZVeXNIVlFlTU41RGJZcURTX2x6MWpFS0RIUDIwSkh0SHNMQ0pLYzZ0REVtTS1KQi1aMUJqV1JMSm9RMnk5U2NMdXEycHVrRmptNm9NMU9uRzN5bzkyWGRnby1RdVlzZ0I4WlZ4VzJwQWJ6ZXo0Q1BwMUFuc2N6NHdid0tNY3c5a2Rna2pmdU9qcWdXZ0oxLWJqcXJJczNOd24tNW13aWVpd2xNcjhlTTlsdmNkRzdxOF9ubGVaWWRZVkVRaUdUd0RoVw?oc=5",
+      "summary": "Stitch Fix, Inc. reports results for the quarter ended July 31 - Earnings Summary &nbsp;&nbsp; TradingView"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Returns to Full-Year Revenue Growth, Sets Fiscal 2027 Outlook",
+      "date": "2026-09-24",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpQWNLYXgzb1RtT0FnVHR1Z3VFR2JQelljdXJ3eEJuQkpDYk5jMTNkbjktdXFjZGxGZl9DdEVlUkhveUNJWnYtSVRITkM1U1k5WHRHOVZ1WjR4dHhKQlV3OHQyelhtd3dSTzVqOVJ1c3hxeUk?oc=5",
+      "summary": "Stitch Fix Returns to Full-Year Revenue Growth, Sets Fiscal 2027 Outlook &nbsp;&nbsp; TradingKey"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Mizuho reiterates Stitch Fix stock Underperform on guidance miss",
+      "date": "2026-09-24",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXRPUjczbUlvUWZMOVpqSVhBMzFlUkpKUDdURHhKME5oUERIUDFpd0Q5cHhYZ3dtZUtCQjNUcEp3dFBvQnZ5QU1wRmE2LURqbGJtcm92RTV4MnJVekdVakZDdkZTeHhTdmpGRl9lczc3NG81M3lVallBbDE0ODRweVYzWGxkWXlvWWt3bF82MXNFYTNjYi1TQUZNSEJVVXZ6Z3dVTElSc3cyemEtZ0o1MldrSWdlZnJESFN3UlR2bXdqQQ?oc=5",
+      "summary": "Mizuho reiterates Stitch Fix stock Underperform on guidance miss &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix stock price target lowered to $4 by Bernstein on consumer headwinds",
+      "date": "2026-09-24",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY2ZBZWZCdzlyS2VJcUtmOUlzZ0FnWEFoRFFCb0VPYkYxcWUyYUVyT0xVS1lOWVJVUmh3dGFtR3ZxRWxLWGpnbS1xX1RmVWlmaU1tWXZyRUEwUkhPb3h5cTRTcEtCaVpqblRzN1BUWkgxbVdtbWpzRC1uXzRsb3RucnlaNFY4V2V0b3NrMklhajJxVklHTVJDSjNKMnZ3a201aDdrSDUzb1VrUUpaVkFMZUxCdy1EZUtoZTVnUnViWjBWQlpoRi1IV1oxcUhNQU1QV3ZF?oc=5",
+      "summary": "Stitch Fix stock price target lowered to $4 by Bernstein on consumer headwinds &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "William Blair downgrades Stitch Fix stock rating on customer growth concerns",
+      "date": "2026-09-24",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTUtnYm9FLWlibFdXbjNMQVIzOGQtLUFhYkVuVzJmTUQwVnlIdHVzV0ZPR0E5WDJGaVNReVFTcGhIbEF4Y0lzejdMR0NPdU9VdWxBRDdxQTVFOW5fLWlKcHRaNmFxRWZpU0xOOTMtMnl2R3VXZFFTX0VmVVliamI2a2ZwQmRpa2dJVTBIVFNLUktWNDF4Nm9EU1NPSmktMlhReHduaGsxYWhvdlRmS0NNMXNVYWdXWGpZaDNyaGNoVjYzVG1ZSmk4S3Vvd2xKcVBlNVE?oc=5",
+      "summary": "William Blair downgrades Stitch Fix stock rating on customer growth concerns &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Is Maintained at Market Perform by Telsey Advisory Group",
+      "date": "2026-09-24",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamcydkhjelU4UFVkZXAyRXhFb2duRXc4SjNOeWRBbXp6dEE1ZVY1aHhxUTJwMUlTRHVuaEtqN25HdGxDd3B5ajc5a2IzSFF4NFJhTnZ1cnlJOXRoTkg3Q2NPcExWY2M1Q1NRaU9fTVZlWjRGdjFYU05vTGVIdnc4MTNVQ0g2M1ZfVEN0bTFoSE9HckRJTkc1OXhrczNFRlBmaUF4R2pIYXI?oc=5",
+      "summary": "Stitch Fix Is Maintained at Market Perform by Telsey Advisory Group &nbsp;&nbsp; Moomoo"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Shares Fall After William Blair Downgrade",
+      "date": "2026-09-24",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWRENWNuV2o2M2VIcVU4ZjhLOEF0bHlTU01zYkR1MXU1VFNMSGRNQWUyTG91Ukd4RkctWDVnSG1WTVp6dWhFRkxCa3h3NUhCYlRNeGRORGFlQnJWYnk3MlVINnY0TEduaFgyUWRTLWRGZWlTal9FS1d0d1U0Y2RQNWk0VHNyS3BTX0VXN0o1cldhd3dKWXRUOUNKYkY?oc=5",
+      "summary": "Stitch Fix Shares Fall After William Blair Downgrade &nbsp;&nbsp; Moomoo"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Ramps Up Tech and AI Spending as Full-Year Profits Soften -- Company Talk",
+      "date": "2026-09-24",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcURqUkhaOEVVQVpsTUdnWmxubXNUS2M5ZG96enRqSURKQXB6RjhXa0ZIQTcwMkZ1b1pybmF0QlZFWVBpMWJWRG10NTV0ZDVIMHpDYldfOFVzeE1hdFhoSUItOEViSFlaR1hoc2pqTUJyVzZyTEpXNWhEMFpvbW5WWmt6Q0s4SmhyYlg5Ql9wT0ZURk9wZkVn?oc=5",
+      "summary": "Stitch Fix Ramps Up Tech and AI Spending as Full-Year Profits Soften -- Company Talk &nbsp;&nbsp; Moomoo"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Outlook Shows Slowdown",
+      "date": "2026-09-24",
+      "source": "pressreader.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10OVgza25kSWtYUlhsT0lJbmU3TmZBaVJPcU14cWI2OXJiWnhjSWJPU09tWW96MVg4YzFnOVBrZ2syLS1TM2J0OWpVU0VnZWMtOUFwU0pWZGRrN2Fza21Eb1A4S25YdHdycGZIZWpJMFU1OXJ1Tks2bW42RGM0azg?oc=5",
+      "summary": "Stitch Fix Outlook Shows Slowdown &nbsp;&nbsp; pressreader.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix, Inc.'s Equity Buyback announced on January 6, 2022 has closed with 9,330,717 shares, representing 7.3% for $150 million.",
+      "date": "2026-09-24",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWDM2Q3h0cnN3MWh5TG11Y1BtbmxpQllHVkRPZUIxV0dJWlhPUlFELWFiTFhjRlBlZm5pWWtXaWFCdVNQMjJ1Z3k5MmpadHEyaVV5elNsWV9wWng5VENMMkd6andZSS1SS2RLWDZNS1ZJNWtPNnktYmxKbm5tYUF1X090RE9mYktOQmpoNC1VVURvUzAxTTR5dkk3cGJQVVVjdVF3REQxTFVOal9YSmdtNm9NRFFxRGRORzRWeGlGcHljX0xyNHVUQ3hqU1RsSy05S3dqMU1ILXlnREJfbTJfbUZraw?oc=5",
+      "summary": "Stitch Fix, Inc.'s Equity Buyback announced on January 6, 2022 has closed with 9,330,717 shares, representing 7.3% for $150 million. &nbsp;&nbsp; marketscreener.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix : Annual Report for Fiscal Year Ending 08-01, 2026 (Form 10-K)",
+      "date": "2026-09-24",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1RJWjNqNEFILWxnUHBlTEFCc2REZDJ1cjlXdS1YeDdWQjZuTFJNLVEtVDZ5Z0lFWVJhOTV1bHp5THBzWG5VZjJHTmx2V2RSOTl0NDJCTWFFYlNRZzlTZlpSdFdQVGJkaXFVb3RnbU9wbVIzRmlVNWwtN05DUG5oRVhyMkNBM0NVWXRvWVp2SHZXWmJqa05zM3dTTmN3Vm9LYnA4VWFMdHZfMThWUjEzemxCU3ZOT3hZcWF2ZkFB?oc=5",
+      "summary": "Stitch Fix : Annual Report for Fiscal Year Ending 08-01, 2026 (Form 10-K) &nbsp;&nbsp; marketscreener.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "UBS Trims Stitch Fix Price Target to $3.50 From $4, Maintains Neutral Rating",
+      "date": "2026-09-24",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjZvaExvR195empEZk9KRXVnNGl2RVRNT1lHMjc1VDMtajNLVDNPTThONzRzMVM2UE9lTjFXNFNHNHZiV0VwZ21KSU51U3hXQ3R2Y1JOdTJhVXE1Mk0xcjJLcE9IUktEOEpvSHpGNUtyR1RiRmJJcE10SlVIQVFmNjhsNVNGdlpjTm9MRF9qS2JzaV84N0VFM20xcG1PWG1mZW90VFRTTkNiQlQ2NkthbGFOa20tZ3dWSFFwY2ktMTZkRGFH?oc=5",
+      "summary": "UBS Trims Stitch Fix Price Target to $3.50 From $4, Maintains Neutral Rating &nbsp;&nbsp; marketscreener.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Why is Stitch Fix stock plunging today? By Investing.com",
+      "date": "2026-09-24",
+      "source": "Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFZQSlZJRmxmNUQtNmd5RGV1NGJTTE5XMFdaSi1YenE3ZzFhRHpPUlpNcDVLY1l1NUNMNUdwMzFiY0RTQ1hTMzRPaHBhSGRHZGM4OGNSbmZoWldlMmhHUGFiSzkwVm1kUHdQNUgyNHBJMWNWVEh3bkpXemI5cE40ZjdPRkhyX2VIX3ZDTU5Ta2IzcGdZTkg3Zy1SSHFvQk1R?oc=5",
+      "summary": "Why is Stitch Fix stock plunging today? By Investing.com &nbsp;&nbsp; Investing.com Nigeria"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "SFIX Q2 Deep Dive: Revenue Growth Driven by Assortment Expansion, Guidance Dampened by Consumer Headwinds",
+      "date": "2026-09-24",
+      "source": "StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZGlWa2JLZTVLekVXeko2enFzR3dxc1JwV1JlbmQxOGhVWW8tMzZpRy1pWWJyUjMxOGNUY0FRTlJUMEtRMldqd2hEZVRQdWtPemZ1aVNGdnYxRGV5TkdZNDlYSVpfanpsVm1qUlBuTXZNa0E4UTB6VWp2NXRLTTBpTHU5UjlwSU1vMzBMLTRTRF82bDdwLWlMdlEtRGZzWWZDd290VFlQTWZJMkpMWWc2MVVQZ01peEplVkJHVTRUNEYzZS1DOFpHdGdfaWxsQ3JKNnVWTGFIUWJiWkpXZ1NuSkppOFVhSndGajI3TE9XN1dqbzdiaFN6eUxRSQ?oc=5",
+      "summary": "SFIX Q2 Deep Dive: Revenue Growth Driven by Assortment Expansion, Guidance Dampened by Consumer Headwinds &nbsp;&nbsp; StockStory"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix (SFIX) Q4 2026 Earnings Call Transcript",
+      "date": "2026-09-24",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVUpNUDlod3JMT2tlNktiSVAwVFNIX09TVE5ieWR3Y3dVdlZyQWJvelhkbm0tUFJNN3FVVWltampKbS1qWTlqeExXZl9jWXdGd09pdVpIZGVpQXVlRjZwN2tGYm9rekh6dkhYUVlEeHdoUkpOR2N3Xzd0RTgtYzJTZV9zUU9nYi1ZbWdydXNsSzZRcGNKTkoxbWZjMjd2Z1pDRmN0MjlWdjBCRVRKc2tZZGh2QmNFcW9odnN1YUJzVFNMLTVBOUE?oc=5",
+      "summary": "Stitch Fix (SFIX) Q4 2026 Earnings Call Transcript &nbsp;&nbsp; The Globe and Mail"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix (SFIX) Q4 FY2026 Earnings Call: Record RPAC, Cautious FY2027 Outlook",
+      "date": "2026-09-24",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjNkNKakI5UnhvZ3AzT0NaYkoydFdWcEZwRzFoNTBCLXFNMmpoT2xIMTYyREhKNWV6RFZfRUZpTjVacXF4RWpzQUtvVjFvS1BweDc2ZENSeTlUcDFtTEZ6RmY4eksyaU95RjN2Mk1PZVpUdw?oc=5",
+      "summary": "Stitch Fix (SFIX) Q4 FY2026 Earnings Call: Record RPAC, Cautious FY2027 Outlook &nbsp;&nbsp; TradingKey"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Is the New Setup at Stitch Fix (NASDAQ:SFIX) Sustainable?",
+      "date": "2026-09-24",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMkdJNXdSaG8tY1ctSUVPZHRIdXZrUnE3N0N2SUlQZmZrUXVwWWJfRlBXQXhxU1I2b3hib1N1d0pxSUk5bXV0SV9ZTXczbTN4dkR2Yk5QMEp1S01tYzRySk1YOTZneGpZU1g1VVVMRkFCNmEyRW5Kb1pxNVVxNXFNYVVyVUVIQlJpVVJNMEk4ZjdRY3F5ZWZNU05MUQ?oc=5",
+      "summary": "Is the New Setup at Stitch Fix (NASDAQ:SFIX) Sustainable? &nbsp;&nbsp; Kalkine Media"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Telsey Advisory Group Cuts Stitch Fix (NASDAQ:SFIX) Price Target to $3.00",
+      "date": "2026-09-24",
+      "source": "MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdVR2akV3V2Q0d1ZRTktCejB6VXY4NDFSaEdnZGp6QndFSFRSd1ZDTHdhd1RZcjJaREJvUlljWm5Ic2ZmTFV3WDhneUNpR0NPYkdVM1NNUHdnRmlKMEhkSWxBN2UtcW5TRHMtOGFCcGNRcFRkLWFZT3RyOHE2S2d2SEpVWmIxSmhSNkRoTDJaRTZFeF8yNXgtaUJXMC1tNkV4eE5yRkYwU1A5bEhZMTlRalI3czBUMklUblQ3OVAtUVUzUDBYN21pY0lkVQ?oc=5",
+      "summary": "Telsey Advisory Group Cuts Stitch Fix (NASDAQ:SFIX) Price Target to $3.00 &nbsp;&nbsp; MarketBeat"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix projects FY 2027 revenue of $1.31B-$1.36B amid higher client acquisition costs",
+      "date": "2026-09-24",
+      "source": "Seeking Alpha",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9b24aec974e32b035556000c918ff&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4646468-stitch-fix-projects-fy-2027-revenue-of-1_31b-1_36b-amid-higher-client-acquisition-costs&c=11201397021202452717&mkt=en-us",
+      "summary": "Q4 FY2026 earnings call recap: revenue growth, record RPAC, EBITDA and FY2027 guidance amid consumer pressure and CAC headwinds—read now."
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Announces Fourth Quarter and Full Fiscal Year 2026 Financial Results",
+      "date": "2026-09-23",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdDNCMjA0VDVwR0I4Tk11bmtuSFYzbUJka0h1UHZaaTZtMmtDakU1cmxhYWFOemZjVDl5SHFtOUY3czYxWnBvcVZLSmZaVlVnV19LY2lqbjBjU1FrZzFDZ3JzTDdoVzRUV0l1a0lRYkNIMUxJQWctcDJ5dXZQSWxYeUZyd3FoZVRkQ0RkaVljUFMwSUlJRkY5SXRNSnNIVVQ3T2FTSnRqUmhYdWRCeERtanJGY0M4ZENoQzNLUkVBdmNxWUJWMU04SThJM09UZzNCWmc?oc=5",
+      "summary": "Stitch Fix Announces Fourth Quarter and Full Fiscal Year 2026 Financial Results &nbsp;&nbsp; Business Wire"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Q4 Earnings Call Highlights",
+      "date": "2026-09-23",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGFOanVrNDZjQ3JlMGNnUkY3TjVXYWI5WlBLMldsVjJiS2NLTEt3dlZoVjdyU1BlLVlxM2xIRkZRM0NqYTFJWVd3WnV4RWU2aTZGOEVEb1hhT3pneHdHSjZCSzBoYUdUUXpXZl9Jc2NVSjZNYzZzTE9oSldEOEI5YkF3SUpMYUIzYWNBeW56N2Zkb2hidl93?oc=5",
+      "summary": "Stitch Fix Q4 Earnings Call Highlights &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix (SFIX) Reports Q4 Loss, Misses Revenue Estimates",
+      "date": "2026-09-23",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHNqVmNZck1pcjhFaGZEVFVpSmpFVENfT1gzc00wZ1BXT19ybENXdFlHOU9aRzVpYUx6Q1RvU3RGcE9JX0RCT1EwbG5SWVp1Q1BZLU1oQjBSWHlaeFFpRjQ3VUNlQWE4WWZuNEZ0bXhkX1k4WVZ0SUlwTW51VlBMWGFOM2dtQ2JvbDBtMFJUNGZFd3hxM1E?oc=5",
+      "summary": "Stitch Fix (SFIX) Reports Q4 Loss, Misses Revenue Estimates &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix, Inc. Q4 2026 Earnings: Recap of $SFIX Earnings Call, Stock Forecast",
+      "date": "2026-09-23",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmtYTnhPTG85NWhncndKOGNDS0FjNjJVS1FxWEJKSUNxVmlwcGtqRmQteTlzalh2eEhTSU9JYUhZckNRMTMwcFByRW5zYlI4Y3JiQ19YSGdJSHREamZzMXZoeDhsXzVCamJHaU52dkNxT20tTW5rejk3eTk1VHNhOThOSGZZV1JTNzRmamlXVGw?oc=5",
+      "summary": "Stitch Fix, Inc. Q4 2026 Earnings: Recap of $SFIX Earnings Call, Stock Forecast &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix: Fiscal Q4 Earnings Snapshot",
+      "date": "2026-09-23",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbExYZzlwaWRTeHg5UW1WTG5YRGtCUnhWdGNlc2ZVcWxjb2E0VHNZRUtKOXVVWm5XTDZKWkhfekFER1BUMmJib1EtRHAyWk9ZNXpzdXdwdkYydDZfWl9wZjFXaWcwdjZNdmY0Si04VUFEYmtCbENnb1RMYzJ6bW9XZElxNTRXbk1GWWE2X0dCSkRkczZLMU1CUmJB?oc=5",
+      "summary": "Stitch Fix: Fiscal Q4 Earnings Snapshot &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Stock Drops After Q4 Revenue Comes in Below Estimates",
+      "date": "2026-09-23",
+      "source": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkZlNDJfal9tZi1ESDdYUXFMeEc1TWJxVFdYSTB5UUVIb2stTXZaN0g4blMxN3NPVWRMVU1IQkdwemJzeWthTVNzeVpJRVpTSGJBWG4xdHpGaWVtdDRVc0x1TXdzQ1BqQWYyd2daZXpYakcxc0ZYWU9XWHd6bnBZWl9wcXBjRFYxUDlsLTZ5YzhxWnFrTmppWGdmaUQzeTN2ZXA1bHZudHJxUnFZc1d5VVpUM2w3LU41aF9vS3FB?oc=5",
+      "summary": "Stitch Fix Stock Drops After Q4 Revenue Comes in Below Estimates &nbsp;&nbsp; Benzinga"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Fiscal Q4 Loss Narrows, Revenue Rises; Fiscal 2027 Revenue Guidance Set",
+      "date": "2026-09-23",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDZ1emYwTXdNRXVDRFJIM3dqOHJad0VHd1JiRFNZQktoWnVFcC1YWDE1elZrcEEtTlhHZGlLWHM3dWg4ZGpwRi1weExHVDhPOThXX1FVVnBBMzBZakV3UU1fbVMzakdYZmRSdFdBMnpPVUZDcFZlMTdkWXZRVmlrMGZ4R0dwVmQ2a0ZDa25uYlFQUkZ5?oc=5",
+      "summary": "Stitch Fix Fiscal Q4 Loss Narrows, Revenue Rises; Fiscal 2027 Revenue Guidance Set &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix sees soft consumer spending weighing on FY27 sales (SFIX:NASDAQ)",
+      "date": "2026-09-23",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkthTTVwMXBvSkFMaE5ZQ08yNmQxOUFvTkRnd3BYOHFVeG1fcFRXZEdSZlVjN09Md0pRWmZMeWNCdDNzdnFucE1TSjJUVTE4bWtqaVM4RFRSOEJYN3dsdENaX3VDcDg2bDBYcm5nZ3hxcTBWYUQ0azNLUHkwUmZ4SXAxcHB4dVg3S1JYOS1VRmxzV04ya3l6ZU9MOFpTZWVL?oc=5",
+      "summary": "Stitch Fix sees soft consumer spending weighing on FY27 sales (SFIX:NASDAQ) &nbsp;&nbsp; Seeking Alpha"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Q4 2026 slides show transformation progress, FY27 concerns",
+      "date": "2026-09-23",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLW15SC1SLUxLY0J2S2oxaTh5OTRnU0JTXy1KLTVLUTdaWWNQOVhZS1ZCUHNEOGlyczVYYWotMVYtdU1CcHVhWWNMM3JwOC1BVjZ2Qko3Qk5OdllCZ2tKSHZIc0JzYWpWZkhMRGx4UnVQeHA1VU56N09vajJRMU9wbTZ4cXU0aVZHSEpTbko5b2N4WHlXUk9YMFpmVXJmZE9sSWpxUnRNSVplbTRScmc2R1cyWlhjZkZKcXoxV3RiWml1RFk?oc=5",
+      "summary": "Stitch Fix Q4 2026 slides show transformation progress, FY27 concerns &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Transcript: Stitch Fix Q4 2026 Earnings Conference Call",
+      "date": "2026-09-23",
+      "source": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXQzWFZndmM3SnoyWmoxUXRLZXBIMlU5R0lyVXdtbmMyLUFkMjR2Qy1LUXZaQ01ZTnFTNW1Qb2NPS2lUYUE1c1o4Tk4wRkZwTVNGUkt2a2hYYjNBYnoyYmk4LVhxem1ySmJJRmhVWnRPZ3ZnTXFjX2JNQnhKZjRybW1QYjhjWWhLbmJYNXZTVTNLcjFTSUpES0xQdXFHMloz?oc=5",
+      "summary": "Transcript: Stitch Fix Q4 2026 Earnings Conference Call &nbsp;&nbsp; Benzinga"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Q4 Revenue Rises 4.2% to $324.4 Million",
+      "date": "2026-09-23",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1JlX3EyVzlIUWFpbDJfNkg3d1BWbXRkT29qYUdGX3k1Q1huaTVBR3Vpa1duZFZKdTc0cGpLclJqRi1HNE9QanI3MzRSUC1JN29yRWFqbnpvSmZhVk1jVnhyNHVYWV8xWW4teUw2anZBcmhrUlJLd09DdnpEeUFOZ3FaQ1FsUXhrR3ZId2ZfME8?oc=5",
+      "summary": "Stitch Fix Q4 Revenue Rises 4.2% to $324.4 Million &nbsp;&nbsp; Quiver Quantitative"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Why is Stitch Fix stock down 17% today?",
+      "date": "2026-09-23",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzYzZWtvYmlJak9zMWotM3JGU1loWFRYOHdpTHd0VHVJNWRpSVJCUVExbzI3Q2pzenMyUzNwdHFFeVNGc0Y1cjlmeUFyZGM3dDBfcUFNajAyR1BCbVh0YWZ3QnJWZjRpdDlMaHViVl92VjFBblhHeXpsdXlwbVRPYldSdlh1LTE4RFQ0MzZ0YUlRTjRWQWQ1UTQwWXZXMExO?oc=5",
+      "summary": "Why is Stitch Fix stock down 17% today? &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix earnings beat by $0.04, revenue fell short of estimates",
+      "date": "2026-09-23",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlBLTjVtM0xvcEx6TzNIampVUmNyTGo4VXE1RHVicW5Yb2NVcGMzTU9DMlQ0Snoya3RWMUZ3eTJhVHVIMFFBOGFuSTF4VjQ5SjE0bXZUcklpd28xOF9zYk1kVVY5c1o2MzFxb2lsMEZ4QlRjNW5ydmNzVnpkVE8xODhjMmVZTTBkYXlhTE5NdkRPWDNNMmFlbUhzWWw0WGdrY0pLaFZqLU9XelhVMlZXRg?oc=5",
+      "summary": "Stitch Fix earnings beat by $0.04, revenue fell short of estimates &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Q4 revenue slightly misses estimates as active clients decline",
+      "date": "2026-09-23",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVpCbjY0a3QtMDlvN016cUJET3ZFcHFDUTJsNmV0bkpPeGx1V0ZGMHExbWk1dW5zdnI1M1VyUUdsek5aQ1ZJeHEtdllWeTVwZFNPMEFuVENJeWRWNGY3ZG9VbVpGMGM2TnI4UGpCaGgwdVdCVXBvSnhwaWN6LUdtaTFoZ1Zkc2VsejRUNVluUDZBcG5hTHVGVWtTWV9HNExJbjdORzNPM1VNR1c3amhjd0FOdFdkdkFfXzZFZmk4ZUFmYWxnZlJpSGhtVnZSOVhDWFNjTENvVmR6WU0?oc=5",
+      "summary": "Stitch Fix Q4 revenue slightly misses estimates as active clients decline &nbsp;&nbsp; TradingView"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Q4 Net Revenue $324.40 Million, Up 4.2% Year-Over-Year",
+      "date": "2026-09-23",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUDNUQ081WUdmTFF0MXVId3NGQkhxVXZlamZMd2o0eklLVzU0ZkdfZkJUSzJ1OUxhZjJidzFyeExaYWZOV3hsMUN2ZTd5MnJkTDlXbkdEUmdSeno2YzhZNDFtRTE4VFVLSHo3QUdnSnQ5bVZYQ09hMmdMQ1RSS1BqOE03T1BIZm1saHBqNm9xeWpvTkZJcTl0WnJ0dGEzY0VZUXprRm5HVVU3Y0NXTEdRNkhPSGc4Rkc2SFV4eGozYUxRbVhINUNPdnptZnc?oc=5",
+      "summary": "Stitch Fix Q4 Net Revenue $324.40 Million, Up 4.2% Year-Over-Year &nbsp;&nbsp; TradingView"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix, Inc. (SFIX) Q4 FY2026 earnings call transcript",
+      "date": "2026-09-23",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWRpbGFRRE1KNVk2SWxvS2d5N2FZZmQ1Wlp6NFY3Z1RvVDU0bjJGXzJyeGtLd3kzRjNvd2pqOXo4UjFqeU1OYWNUYmZiWkp1bVpoSXU5d2YyQ2NQNVZnWGR2UjhISzFFd00wUXFPUThMellEN2dNWThSNzlCWGlScU9zb0dlTUFZYU94Y2xR?oc=5",
+      "summary": "Stitch Fix, Inc. (SFIX) Q4 FY2026 earnings call transcript &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "BRIEF-Stitch Fix Q4 EPS USD -0.02",
+      "date": "2026-09-23",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0cyenhrdHV4SDlBbmYwX0FaVVMxSjQzbkxURVJJQWlmTElDTW01aGJ5bGRKd2xpV2FWT04xQWtIekVoMk54QTZFenJOei1XbzU5WHc4VmttOEJwOFdvNzdyYzZ4d1BwWVRyWnVuUlZpVFBBNjJCOFNpd0dudmRxZnNPRExrZ0tyU195OUxWbVAxTlA0RXpyU3d6VzItY0YwRm5OaHRKRmVOZXNP?oc=5",
+      "summary": "BRIEF-Stitch Fix Q4 EPS USD -0.02 &nbsp;&nbsp; TradingView"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix reports FY2026 revenue $1.348B, adjusted EBITDA $53.4M and Q4 revenue $324.4M",
+      "date": "2026-09-23",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlMwT2ZBUkNlSEZOY0dER0VGZnJaWlNOZmRvTG5CRy1SSmZ5aXpsSWdZY3ZBeTZMZDA4Y1BJUW5XdVFKUDc4dkhoWDVJZkJRQmVRS0NtZjhBU21DWGthbTVMdkRIcThzektlaHRCMUZ6ay1SZlpfVUVIaVNDRnJWSjh3ZzJsb2x2dDEwakplMUxTMHhvcERJMDRSV3k0cUhIVlJ3YUlGVWotUVdlNEc4SWliSElEUzk0TGZXU2J1Z2FoV3lqNWhYeWhQcEtBaTQ3ZGllTEdpR1VRTU1xOG5F?oc=5",
+      "summary": "Stitch Fix reports FY2026 revenue $1.348B, adjusted EBITDA $53.4M and Q4 revenue $324.4M &nbsp;&nbsp; TradingView"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix plunges 18% on weak guidance despite Q4 earnings beat",
+      "date": "2026-09-23",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGlfNHVkSFlkQ3BrWWk4TzN4anFEYjQ1NWEtS2NtUzNMYk5CRTBrVDVsZ0xhNnlKbEpmeDh2QnkzY1NidFFrell2Ny1WWm1ZZWpjeWV4OGYzWUVFX1RvZHJCS0s0Tm4yUV8zcWtTaHVQeW5ybklzU2RfcXp6a2lqaUZ5ODJSTUlWX2dKQzdycy1xZHh1dEx5eFU1NExiZi1RSDVTNE1ONUNPeDJoSFZHQ1NJd2JPZDg?oc=5",
+      "summary": "Stitch Fix plunges 18% on weak guidance despite Q4 earnings beat &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix, Inc. Q4 2026 Earnings: Live Updates of $SFIX Earnings Call, Stock Forecast",
+      "date": "2026-09-23",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BM1hwMFA1SUVZbWVMYjNPMks2c2I3Q3NwVGdrelRwU0xNM0NZYWNqVnZncFZnM2JHTzhJbndzbnhWTncycGFjZ3dTUTVMaFBLdTE3OFg5ZF83RGpwSzFEQzVCcjNjWmNiR0tXU1QwcG11SVRw?oc=5",
+      "summary": "Stitch Fix, Inc. Q4 2026 Earnings: Live Updates of $SFIX Earnings Call, Stock Forecast &nbsp;&nbsp; AOL.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Earnings call transcript: Stitch Fix Q4 2026 beats EPS, shares sink on outlook",
+      "date": "2026-09-23",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUXhFTEdMSWF0RzJRZWJUd3FMNVBxOUdwN0RBNXlvUW5qNFMwNHNJNHI3RURKeWZtbGM2Wi14X2pUUHhlU0ozTEh2RlhYSWdXajBKRVZfdE8yWDkwRnFsd1JwS1NlYm1JUExpOUlZVUZyREdkX1dYWE5RTi1idkVhX3cxanFxeENaanpjaUF5NkowVVcyNVJrQi1adFNHTFhpY1VVQ3pvQmpzMFVLZzRRcXRTQnpBdGM1eDkzZjRjQXJxMTgxMjR3dDQySVk?oc=5",
+      "summary": "Earnings call transcript: Stitch Fix Q4 2026 beats EPS, shares sink on outlook &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Is Stitch Fix Inc (SFIX) Undervalued After Q4 Earnings Miss? GF Score: 66/100, Revenue of $324.4M",
+      "date": "2026-09-23",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekhiRnZiS0tRdGU0S0hJalNfTm9rcUtydTVHSnpBTDBQZU1ORHl2dDRmbzVCbFlaR0NFOE12TTFaTHVoaXc0WG1ubDYxQ25zLTQ5QThFeFhVNmYwcWhjdW9LSVRwWk5aWUxyaVNnRW1YbXBCbzhOR3NvejdyWmJfSXhzdXdJOWJjdFl6MDhpYlBjX1lGeklFUU1wajMwY29YbTBPbkFwelhQQXBTWENZMlE4WXFHcENWXzNUS1hPcFZYQ2p0OFYw?oc=5",
+      "summary": "Is Stitch Fix Inc (SFIX) Undervalued After Q4 Earnings Miss? GF Score: 66/100, Revenue of $324.4M &nbsp;&nbsp; GuruFocus"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stocks to Watch: MGM Resorts, Stitch Fix, NeoVolta, Everpure",
+      "date": "2026-09-23",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1lndXVoWTZsZ0M0QW9DeGJEOEZaQ0JiY0tOeVJmSEN0dVZqbnNFcFAzNFVlVzF4UlpjR0tYakEydDl1ZW5nSURGNDRtYVJkUGdkeTBOdGZ3WmM5QmVNcDNzTEt2aExBSnFseDRpMDQ2b2dmMzlubnVhSHBQeDg5ZS1wV21GLVdabWxybUlRUGdLbjN6ZWpIenBZSV9EX2l4ZkE?oc=5",
+      "summary": "Stocks to Watch: MGM Resorts, Stitch Fix, NeoVolta, Everpure &nbsp;&nbsp; Moomoo"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Tranche Update on Stitch Fix, Inc.'s Equity Buyback Plan announced on January 6, 2022.",
+      "date": "2026-09-23",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYUN6Q29pQ2JnbHljMDhKRlB0NnkzU2VIcDdfcUpic3VBMFhDTGdrRm1Yc0ZZM0RmdHN1SmVHcE1mMlU4aTJlZzJ3bk5mZnNuaC1lWUdXTXBHRzRONEx6MTRYQW5xYVVVbnVKS0x2OXB0cUg4bTJWbXZrWVN6ZjBKVnRCeGZBT3A1cmVJTGRlTWlyS251WUx6THdjU0pPSkZ1MHNOQlhnVVl0OU12TUVSVkNJRzNRX1lFVnVjUEJtWU1nRnRia0N6LURXZGJ0V1c5?oc=5",
+      "summary": "Tranche Update on Stitch Fix, Inc.'s Equity Buyback Plan announced on January 6, 2022. &nbsp;&nbsp; marketscreener.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix (NASDAQ:SFIX) Posts Earnings Results, Beats Expectations By $0.04 EPS",
+      "date": "2026-09-23",
+      "source": "MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGJQWnJaeGp1MXpHeHo3aVF1d29vcHVhZzB3cHJpTzdLc213dmxxMmllQmJvX0JVa0s1X0xaNFQ4Qlpob2xXUVYwMHNGbmRiQXpRZ2p4TG5sRWZvQllJRTMxbXdlQjh2RWpOUmV3SHNTMmlZbTZJb1NsTmxtWkpwRjREcWJaVFRYVjBDdDZaN2RxNkEtVkl2S3ppTXRjRENXc2RQcDUyZzlnVUQ5aTZJUVk3VmZmdmlaUGhmZlZvWGZzLVdZdmpUdUt6dDhUbWRSd2NoZA?oc=5",
+      "summary": "Stitch Fix (NASDAQ:SFIX) Posts Earnings Results, Beats Expectations By $0.04 EPS &nbsp;&nbsp; MarketBeat"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Reports 2.277 Million Active Clients in Q4 vs FactSet Analyst Consensus of 2.293 Million",
+      "date": "2026-09-23",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQekYyNU1TX3o3MGtka0pjcmNOeVQ1ajZGZjFOcDhHdmpvWUJ6eFdhWG9ITkFYaVFkZXpnQ1dNQURhdGdyNjB6bFh1LWEtTGpkX1pjeTl1Si15MHFuR1lOVVYxd2lUXzJHVGdhUFpHeGNMNFk5NHB1a1hVT1JLSXBfaERaY3RnVEpvZXJZUF9PUkxmQklNOW41YjNPazJ5YmMwN2trR2U3a0xZWFpIam81UG1QcHdGTWpJbER6dXVNbk0zcm1OS0JPRVBtclpfY3A2ekp6UkU2Wjc1SThmSG1ieUlqQjRZdkE?oc=5",
+      "summary": "Stitch Fix Reports 2.277 Million Active Clients in Q4 vs FactSet Analyst Consensus of 2.293 Million &nbsp;&nbsp; marketscreener.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Earnings To Watch: Stitch Fix (SFIX) Reports Q2 Results Tomorrow",
+      "date": "2026-09-22",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2phcUdybDNTcWJBdF80aHlXMjdKV0VXRUlCWWUwbXV6N2p3S1VOWm5JaEF4U084ZUJON0ZHN042X0dqeV96dDNCX0hCQktRcHNrRDN5WnhoUGNVbHNMU0NsVWRZSXJNZ05saTVROHVDcUZuTXJ0dVhxN2s2V3c3Qms5QVNjQzZOa1dBQzN6Vm0yNXhmaTFIZ3gwaw?oc=5",
+      "summary": "Earnings To Watch: Stitch Fix (SFIX) Reports Q2 Results Tomorrow &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Former Stitch Fix Old Navy executive Loretta Choy takes on Head of Digital role at Banana Republic",
+      "date": "2026-09-22",
+      "source": "Retail Technology Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQTB2Y1VFSTlURzE3Z1dwRFBSU0s1amFhWjZ4Z2hjU1I2S1JjNkhFTG9LVFZaaHl4XzNjTlFRRDc0a3hYY0Fxa0hTVlc5UHh6MUZ2YzE0V29DaHdDS2pZZEUwNXBtcV9NLVVkaEpZc3NndWRFRTJqVVczYXY4V0txS1dWc1N6WnFteHJKcDJrVEtscThFLXBvSmFXQ1BSQkZESlNLaWp2c1VVeHFJS25nU2hOakpFQ0U2ZlhSYkRTRmNnbWJvVDBMTW1mZ1kyUzBxZnhPZmNrcEU0M1p3aEpmNFk1cGxOdS1r?oc=5",
+      "summary": "Former Stitch Fix Old Navy executive Loretta Choy takes on Head of Digital role at Banana Republic &nbsp;&nbsp; Retail Technology Innovation Hub"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "STITCH FIX Q4 2026 Earnings Preview: Recent $SFIX Insider Trading, Hedge Fund Activity, and More",
+      "date": "2026-09-21",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWRjQnJ4c0tVSG0yTzdyWGlhd2ZqbHJ4NExmRG96NXFpLW9XUXN5Z2dBWjFYbWYteG1qM2pfSkpSdms2cG1oLTJyeV9aRW5NQ1hJcmFSQkJiNWxweXZIMFgtMGttc0taaXFURlhSR3phWDQ2Zl91bW96VjZiZ3gySU5WZVBQWmhCdEtBbjVmX1JBcUFHNk1yNHk2ZGZaa0czMFJjMExmX1BsTi1taEFlODdkTTlWQUV1RE9BdzlpNXRGWi1mRVU4UHM2LUxQdGFHQm40?oc=5",
+      "summary": "STITCH FIX Q4 2026 Earnings Preview: Recent $SFIX Insider Trading, Hedge Fund Activity, and More &nbsp;&nbsp; Quiver Quantitative"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Outlook Shows Slowdown After a Year of Solid Growth",
+      "date": "2026-09-24",
+      "source": "WWD",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkVaSzc2cmtOS2FrQmV2TWJiZkFJOTB5Skwzenl0TFRmSGJnanNlOVlpclNWWnFVa3B1MlJKakwxeXhBa213cWZLcWJtdmdfWnVZNnhVYXNqbWppa29reDFVQldyZThzUzFabEJnclhVX0xEd0J3Wjl3a3VGYXdJRzJSaG1mVDFIQjJnUE9Ob1FPVjdKUDRZ?oc=5",
+      "summary": "Stitch Fix Outlook Shows Slowdown After a Year of Solid Growth &nbsp;&nbsp; WWD"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix projects FY 2027 revenue of $1.31B-$1.36B amid higher client acquisition costs",
+      "date": "2026-09-24",
+      "source": "Seeking Alpha",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9b24db15449d5bf3c8d41430b9046&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4646468-stitch-fix-projects-fy-2027-revenue-of-1_31b-1_36b-amid-higher-client-acquisition-costs&c=11201397021202452717&mkt=en-us",
+      "summary": "Q4 FY2026 earnings call recap: revenue growth, record RPAC, EBITDA and FY2027 guidance amid consumer pressure and CAC headwinds—read now."
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Q4 2026 earnings show growth, and a tepid outlook",
+      "date": "2026-09-23",
+      "source": "Women's Wear Daily on MSN",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9b24db15449d5bf3c8d41430b9046&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2feconomy%2fstitch-fix-q4-2026-earnings-show-growth-and-a-tepid-outlook%2far-AA2cQHN2&c=4955812661128999896&mkt=en-us",
+      "summary": "CEO Matt Baer said the company can continue to expand."
+    },
+    {
+      "competitor": "Whering",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "3.4.33 → 3.4.116",
+      "released_at": "2026-09-23",
+      "release_notes": "What to wear? Already sorted.\nPlanner now suggests outfits based on your wardrobe and the weather, so getting dressed feels easier. You can also plan ahead for trips, weekends and events by changing your location."
+    },
+    {
+      "competitor": "Whering",
+      "type": "new_version",
+      "store": "google_play",
+      "detail": "3.4.33 → 3.4.116",
+      "released_at": "Sep 22, 2026",
+      "release_notes": ""
+    },
+    {
+      "competitor": "Acloset",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "6.38.0 → 6.38.1",
+      "released_at": "2026-09-23",
+      "release_notes": "- New Packing: manage the clothes, outfits, and even items not in your closet for your trip in one place, and get outfit recommendations based on your packed clothes and destination weather.\n- Set your own high and low temperatures from the Home or outfit recommendation screen to get outfits that fit the occasion.\n- Outfit and daily look dates now show the year and day of the week more clearly.\n- Find items with no value assigned in your closet and outfit book using the \"Not set\" filter."
+    },
+    {
+      "competitor": "Indyx",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "9.8.2 → 9.8.3",
+      "released_at": "2026-09-26",
+      "release_notes": "Finally here: sort your items and outfits by Most and Least Recently Worn — so you always know what you've been reaching for, and what's been quietly waiting. Both views are also now woven into your Dashboard.\n\nAlso new: a weekly calendar view on the Today tab to see your full week of outfits at a glance. And Refine — write a quick prompt on any Enhanced image and we'll take it exactly where you want it."
+    },
+    {
+      "competitor": "Save Your Wardrobe",
+      "type": "news",
+      "detail": "‘High quality repair at scale’: H&M teams up with Save Your Wardrobe in France",
+      "date": "2026-09-25",
+      "source": "Green Retail World",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZm5oWnpVU1d3dXZ0a0hMSDZjNG1iWGg0QTNFemtmRE9LTlFrQUZVeXRGYWRNMWQyVlp1NzBONUp2eVJZUkVMbkhfU2pyd0VZd2pDWnRhXy1MaEgwNVFEUURJeVBDVWlSRExCRFRZcnJSWkZmX2dxaXFjQzcwaUE3TXRYaXZWZVJ0TnhaajF6N1hYZ01VeDZZTGFHbzVTRVZ3VjNiUG1VQ190eXRRQXFNZ2hB?oc=5",
+      "summary": "‘High quality repair at scale’: H&M teams up with Save Your Wardrobe in France &nbsp;&nbsp; Green Retail World"
+    },
+    {
+      "competitor": "Save Your Wardrobe",
+      "type": "news",
+      "detail": "‘High quality repair at scale’: H&M teams up with Save Your Wardrobe in France",
+      "date": "2026-09-25",
+      "source": "Green Retail World",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZm5oWnpVU1d3dXZ0a0hMSDZjNG1iWGg0QTNFemtmRE9LTlFrQUZVeXRGYWRNMWQyVlp1NzBONUp2eVJZUkVMbkhfU2pyd0VZd2pDWnRhXy1MaEgwNVFEUURJeVBDVWlSRExCRFRZcnJSWkZmX2dxaXFjQzcwaUE3TXRYaXZWZVJ0TnhaajF6N1hYZ01VeDZZTGFHbzVTRVZ3VjNiUG1VQ190eXRRQXFNZ2hB?oc=5",
+      "summary": "‘High quality repair at scale’: H&M teams up with Save Your Wardrobe in France &nbsp;&nbsp; Green Retail World"
+    },
+    {
+      "competitor": "Save Your Wardrobe",
+      "type": "website_change",
+      "detail": "页面内容有变动，关键字段未变（可能是文案微调或新增区块）",
+      "url": "https://saveyourwardrobe.com/"
+    },
+    {
+      "competitor": "Doji",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "1.1.1 → 1.1.2",
+      "released_at": "2026-09-21",
+      "release_notes": "Bug fixes and performance improvements."
+    },
+    {
+      "competitor": "Daydream",
+      "type": "news",
+      "detail": "Talk to My Agent: What Smarter AI Means for Amazon Sellers, Daydream Shoppers, and JD Sports",
+      "date": "2026-09-24",
+      "source": "WWD",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGxRNlFkbGhHM19iWFZld0Qza213dGE0Z3E1V2g2RW8xXy1mRDRIZDVFbGg5LWpvbFFsUFFIeEJYcm9PNG1mZ2wyaGlFSDc2WVRMM3ZrRjZqSlVqOEYtNGhwcThPUWZBM0pjcVZFYndPUE9sdThXd2FjU2E0VW1TWW1xSDFSZVZIVzdBcXUwbm5kWVhLLUNDMkJWZ3AzMWRLb2JvZ3hpTQ?oc=5",
+      "summary": "Talk to My Agent: What Smarter AI Means for Amazon Sellers, Daydream Shoppers, and JD Sports &nbsp;&nbsp; WWD"
+    },
+    {
+      "competitor": "Daydream",
+      "type": "news",
+      "detail": "Talk to My Agent: Smarter AI from Amazon, Daydream, and JD Sports",
+      "date": "2026-09-24",
+      "source": "Women's Wear Daily on MSN",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9b35997824030961115959c70d04f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2ftalk-to-my-agent-smarter-ai-from-amazon-daydream-and-jd-sports%2far-AA2cUjLz&c=18254922404883319577&mkt=en-us",
+      "summary": "Here's a rundown of new AI-related updates in the fashion world."
+    },
+    {
+      "competitor": "Phia",
+      "type": "news",
+      "detail": "Beyond Phoebe Gates’ Phia: 5 female-owned fashion-tech apps to know",
+      "date": "2026-09-22",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQlBBdVdESXZWeVJLU29RV2VkM2wzMlRXZ0FqbkNzeVotUTRtNTRRRDNLek5uVE1wUmJBNVk2Y2daVVdkZ3ZOck56SGxDVTE0N204czYyVHN5VU9qcVhFcFozRWM0M2VocDFYbDFYQjlKZER5WkV6cFdubUR2QmF4cnNEVUdlSUstUmxuV2syVWcyUkZfRkxoMC1Gek9ZU2EtNVBTakdyb19XVmh3RkQtb2dFZXJPV0RCamlvZjFURTMzSXFyUUxlRWxULUxyMTVxNURjV2NsS2LSAdgBQVVfeXFMUGdsbWQyS1pRY21SaXlVb2sydUU1dFRIdkNPX09vX3R5TzVjUEtmTzhLQXZNYVNzMlVscUNxS0ZJbW9OdXI0R1A1a1RIY2h6SEJTaV9qLVR6WDJNQ1YzdGgwQ1dRNVhzck5xR3p2TUJUOUNSVThpZTVudW5hWGhRYngzUkdvMG1ZZGlqekFXallyMEdpelZBVmFuTkowWWt4ZTdLTGFyNmUzQnM5ZWtOa1I5Tm93THdCLXhPTDR5bjZWcnF1aXJvUGFrR2hleGtRQzJLVl9McG5F?oc=5",
+      "summary": "Beyond Phoebe Gates’ Phia: 5 female-owned fashion-tech apps to know &nbsp;&nbsp; South China Morning Post"
+    },
+    {
+      "competitor": "Phia",
+      "type": "news",
+      "detail": "Bill Gates said his children will inherit ‘less than 1%’ of his wealth; ex-wife Melinda Gates is making s",
+      "date": "2026-09-23",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPWHdZRUpWNjBjVTYwTkhxaXJEd0tnNmpONG9sSUxSU0ZKbjE2QkRuNkZBYk42anl1UWVwQWNjU1oxaWM0RmFzRm9GYjVzeWlodGs3V1ZtemdEalUyVFBleG1xRFRDTUFWLW9sSzE5bkxOcU9DbXRlek9NTzN5bnE5NkRYenhicHRRTGh0cXJ3V1lUMEFVYVBlY0xEQ1daMXhxcnB2R0E3OUI4a1J1OXVwbTV2RURJNnAyUldwb3JfaDdFekFnOGN0TXp0TVhOdnVNVElYTUswbEx0TVNET3Y4MU9pZXdBSlRwU1REck0yYWJCNEMzT3N1U3JYdS1IU0xVOTc0YW9YZTBDVlJSZXRPeGhwNFdIVnJSWXV3NjJXelEycFNudnlnM21HZF8zUUVNVklKVDkxZDQ4aGdzdWNodmNQQlpldHRjUU81RDZ6T1lSRDh1dEJ6bWlR0gHfAkFVX3lxTE9ObEFoY1Qwb3ZGakZBbUlNdHE4QnM2SHplUjdUUFBRd293YWhRYzNIYjkwckI0NzRzUV95Tnl0UWliR3lxY0szdnktUmNRRXRnNm9EVmFSX3lGQ0V5M2FYb3dXa3ROcEl6YmZEM0ktU2xsWTlvUG9OSFVUTlEwS1lLaFlLMTlzc3RvVFpKRFpxUTJyUUpZUHN5SGRYTFB6Zm5id21ISk91SEhOc0ktUHZfQkxGbHlEeHotdVVyTUpPWnZ4X1kyNFNQcWlWcGhhV3laMFRUTGx0aC1fdUlST3QxenpJWWRkQkRFcmRnQUprc1hYTWt2ZjBiaV9EdHVKTzFtcTUyNjZmUnZwZXMwTjJxcFZGbU9GbThXOHJRdE42eEdZSTB4YkN2b0pkNUdxZzkzZXpjN0Y0LUljS1R0UzBXbWs0Q3F4N2VmYm02M2RFTVZ4THJjU0RiUmtOb25OVQ?oc=5",
+      "summary": "Bill Gates said his children will inherit ‘less than 1%’ of his wealth; ex-wife Melinda Gates is making s &nbsp;&nbsp; The Times of India"
+    },
+    {
+      "competitor": "Phia",
+      "type": "news",
+      "detail": "Melinda French Gates refused to invest in her daughter’s startup. Earlier this year, it faced cookie-stuffing allegations",
+      "date": "2026-09-23",
+      "source": "Inc.com on MSN",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9b372fbb74423aaaabc6c2ab78b69&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fmelinda-french-gates-refused-to-invest-in-her-daughter-s-startup-now-it-faces-cookie-stuffing-allegations%2far-AA2cNNPV&c=4703066854922203124&mkt=en-us",
+      "summary": "As Phia continues to face scrutiny, some are revisiting Melinda French Gates’s decision not to invest in the startup."
+    },
+    {
+      "competitor": "Phia",
+      "type": "news",
+      "detail": "Beyond Phoebe Gates’ Phia: 5 female-owned fashion-tech apps to know",
+      "date": "2026-09-22",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQlBBdVdESXZWeVJLU29RV2VkM2wzMlRXZ0FqbkNzeVotUTRtNTRRRDNLek5uVE1wUmJBNVk2Y2daVVdkZ3ZOck56SGxDVTE0N204czYyVHN5VU9qcVhFcFozRWM0M2VocDFYbDFYQjlKZER5WkV6cFdubUR2QmF4cnNEVUdlSUstUmxuV2syVWcyUkZfRkxoMC1Gek9ZU2EtNVBTakdyb19XVmh3RkQtb2dFZXJPV0RCamlvZjFURTMzSXFyUUxlRWxULUxyMTVxNURjV2NsS2LSAdgBQVVfeXFMUGdsbWQyS1pRY21SaXlVb2sydUU1dFRIdkNPX09vX3R5TzVjUEtmTzhLQXZNYVNzMlVscUNxS0ZJbW9OdXI0R1A1a1RIY2h6SEJTaV9qLVR6WDJNQ1YzdGgwQ1dRNVhzck5xR3p2TUJUOUNSVThpZTVudW5hWGhRYngzUkdvMG1ZZGlqekFXallyMEdpelZBVmFuTkowWWt4ZTdLTGFyNmUzQnM5ZWtOa1I5Tm93THdCLXhPTDR5bjZWcnF1aXJvUGFrR2hleGtRQzJLVl9McG5F?oc=5",
+      "summary": "Beyond Phoebe Gates’ Phia: 5 female-owned fashion-tech apps to know &nbsp;&nbsp; South China Morning Post"
+    },
+    {
+      "competitor": "搭搭",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "5.2.0 → 5.2.1",
+      "released_at": "2026-09-22",
+      "release_notes": "①“AI优化图片” 功能升级  \n②新增 “批量优化图片”  \n③新增本地相册上传去重  \n④DIY搭配筛选新增属性  \n⑤修复了部分BUG，优化页面"
+    },
+    {
+      "competitor": "尽简衣橱",
+      "type": "news",
+      "detail": "真人ag百家_游戏资讯_2026 第三届动漫游戏节正式上线，全球二次元佳作集结盛夏",
+      "date": "2026-09-25",
+      "source": "womenofchina.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoSWZVOC1zcGx2TXhsN0VjSkpzbzBkaWpPaUVfS1o2Q2JLX2lkUmQ3NGU2bHBwRmNxRHc1VU1uWjBpX3pmbjFwRVdZZmlSYmxCYVZ4emVVdE0tSHdKNG84?oc=5",
+      "summary": "真人ag百家_游戏资讯_2026 第三届动漫游戏节正式上线，全球二次元佳作集结盛夏 &nbsp;&nbsp; womenofchina.com"
+    },
+    {
+      "competitor": "尽简衣橱",
+      "type": "news",
+      "detail": "德天空:五星IOS下载未报价桑托斯中场邦腾波 也无意引进",
+      "date": "2026-09-24",
+      "source": "womenofchina.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OdDZzN05ZS2JfSktvemdhVGg5RGhDUXZ1dVM0bjJ6NlFIbjVzSno0SFNLSVgtTjE3eTlUNDlJX3owM2ZsMjdaakV5QmFERmhnWmppWTRjTWhtdzhq?oc=5",
+      "summary": "德天空:五星IOS下载未报价桑托斯中场邦腾波 也无意引进 &nbsp;&nbsp; womenofchina.com"
+    }
+  ],
+  "change_count": 102
 }
