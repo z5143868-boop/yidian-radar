@@ -1,241 +1,255 @@
 {
-  "week": "2026-W41",
+  "week": "2026-W42",
   "first_run": false,
-  "compared_with": "2026-W40",
+  "compared_with": "2026-W41",
   "changes": [
     {
       "competitor": "Alta",
-      "type": "new_version",
-      "store": "apple",
-      "detail": "2.2.4 → 2.2.5",
-      "released_at": "2026-10-01",
-      "release_notes": "New features every week! Discover the explore page, Home Screen widget, event and trip planning, and so much more. Improved styling algorithm and more realistic avatars."
+      "type": "news",
+      "detail": "'Too Much Tony': New book teaches kids its okay to be themselves",
+      "date": "2026-10-11",
+      "source": "Yahoo",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc30d25fbf477492c1bd2142592b2a&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fvideos%2ftoo-much-tony-book-teaches-002526247.html&c=12058579676764250900&mkt=en-us",
+      "summary": "Dr. Jenny Wang, PhD, joins KRON4 to talk about her new book, \"Too Much Tony.\" ..."
+    },
+    {
+      "competitor": "Alta",
+      "type": "news",
+      "detail": "New Centretown restaurant shows promise for soup dumplings, dim sum in Ottawa",
+      "date": "2026-10-08",
+      "source": "Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZcExMNTVXYklpR2I1R19CWXVfZ2hGcDd5RklaUzNZV1F4NGt0Y05xcXprUkdITF9LelE4bXhDMDFKXzR4OFRVVnNxX1psaWpGZ2NjQnRFR29BQmEzeHNRaXBMakc?oc=5",
+      "summary": "New Centretown restaurant shows promise for soup dumplings, dim sum in Ottawa &nbsp;&nbsp; Ottawa Citizen"
     },
     {
       "competitor": "Stitch Fix",
       "type": "new_version",
       "store": "apple",
-      "detail": "11.23.0 → 11.24.0",
-      "released_at": "2026-09-28",
+      "detail": "11.24.0 → 11.25.0",
+      "released_at": "2026-10-05",
       "release_notes": "Recent updates in the Stitch Fix app:\n\n• Bug fixes & improvements. Updates make your experience even more seamless.\n\nWhat do you think of the Stitch Fix app? If you like us, please write a review in the App Store! Problems or suggestions? Please email hello@stitchfix.com."
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "SFIX Investors Have Opportunity to Join Stitch Fix, Inc. Fraud Investigation with SBS Law",
-      "date": "2026-10-04",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTEVpVTRlV29HNmJraEhEbFl5Ym9jeTJNbmlUOV9HTTl0YUwxZmR0RmpaV3I3eHJ0UWZMWlBjME5tMjdTSGxFTVhMNTZaRWNMTS1Ic01rZHhlemlwX0dkVldtU3hIOV9NcDF6NmlhY20xMnlheVQwcEpuZ3JjWDNlUjBweERtOGE3LS1FZS11Y042R0R5SnFncXBZYzlILUVaRXlQX2ZsRjM3YUN2cm1faWl4a00yeWdZMVFBVXBlbzh1ZkFrdTQwck5hYkNQNXpzNndfNmJNN01fb0ZZNGc?oc=5",
-      "summary": "SFIX Investors Have Opportunity to Join Stitch Fix, Inc. Fraud Investigation with SBS Law &nbsp;&nbsp; Business Wire"
+      "detail": "Stitch Fix (SFIX) Stock Fair Value Falls After Analysts Cut Growth Expectations",
+      "date": "2026-10-10",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1FHLVpBeC1PTWhKN1ZHMzBEZTV4bERUUWlCWll5dlZrUi02dmNiYmdKM3BtQW1oSHJTRk05VG41aDJBampIQ2ZZY0J6TkxWSjFRTFVtRFV0TjlYM2RXWW5qV3pENFVuVHpxMnZqRDdTekVrVlVVVWVYWkNhdlhyX3M1clBRMkRIZElkWHV6bmZTVTdpU3c?oc=5",
+      "summary": "Stitch Fix (SFIX) Stock Fair Value Falls After Analysts Cut Growth Expectations &nbsp;&nbsp; Yahoo Finance"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "UBS maintains Neutral on Stitch Fix, raises target to $4.5",
-      "date": "2026-10-03",
-      "source": "scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbE5VVVJFUUpMc0VkTlpQRERCSFRlTkwzenBTY0hqNm5hMWNsSmdTX20yWVFLcGlPRW9MY2YtWFFoQXlUd0duUUk3TnlSazQyWWFSV1VCVDZuMk5YZERJMXdhaElQSF9vZGJBNDFPN3dPM05DRG05Ui1CbWhNZVhBZmNnZFpLdklWb0QwbmdOb0xrU1RRY0JscnpIdHdUaGRLNU1MdzQtNW9aa2lHR1B1TTQ0Zm92ZVZIVUxwTQ?oc=5",
-      "summary": "UBS maintains Neutral on Stitch Fix, raises target to $4.5 &nbsp;&nbsp; scanx.trade"
+      "detail": "SFIX: Better Execution Helps, Client Growth Still Sets The Ceiling",
+      "date": "2026-10-09",
+      "source": "Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOWnNyTURqUnk1OHcwVTFxZzlkQldtQnZ3ajJCd1NoQVFuMVcwZjFJUFJvRWV0OEFOZkNKQXVuWmZ2TTM4S0JDZV8wYVlJT0ZyY2MtUmF4UnFmclJtTVFBbDdvYTN5TUZ5SUxLa1hjM1JkZkg4T0l3S01rMURyM3J6X01ydG5ZRExjX0JXMmFLZjh1ZUhxTi11MGFwejVWdDN0OURTMUlNZ25WT0ZlNmZtaEJDcW0yM3hqYzUtX0E5dWtmcFlfTUlqNThlNEpEYzhlTzFvWWNPcUNORFR4dlRTYlpKZXlxY0FxUEtkdkJ0dmFmUGVwNFBFYVI0NFlWcjY0UktPS09ESGdhMXUzLXdUNXB6dmJvcTlJelNiajUyZUJEdEpVXzNhdUk4Q0pUQXJJTU9HR2xEM0FuaGlrVkRSOVFtbVRFODlkSW9JS2NjbjQ?oc=5",
+      "summary": "SFIX: Better Execution Helps, Client Growth Still Sets The Ceiling &nbsp;&nbsp; Simply Wall Street"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix management will join a fireside chat in New York on Oct. 8",
-      "date": "2026-10-01",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0V4dFVHaTU5RTBiX2NFUUU2ejM3LXhNNmlLZUxONmRkb3pnOHRWNnlhdXlvc0RtVmtfTWk1bXIySDBGTXptSjFoWHhwejMxYS1XZU5XWFVFUVVrSThEYTNyaEMzZDJ1WXZwbUtWUy1FeGRlRi1yM3FRYW5OcU1ubWZ1VmJRb3MtWkZBbnEyOHVmX0tGNW54UURvcV9xczdyM1JvWU5WTnE0X0xWXzRRRA?oc=5",
-      "summary": "Stitch Fix management will join a fireside chat in New York on Oct. 8 &nbsp;&nbsp; Stock Titan"
+      "detail": "Stitch Fix at 2026 Global Consumer & Retail Conference: share gains build",
+      "date": "2026-10-08",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT09FeTRqLUFJV0h0Mk16SzJ3RE5XWno0anQtdUtrTWdBUkdLeGpBSEcyRHdEQUNBTFJ2UFhlNTN6aEp5dFU4MmNWTDdVaHp4VFI3ekFPSUFxYzItSk5PR21iXzJOZm1jMEhIa2dsVHBpQ0FZV1BRVmxtaFFXSnZJMDVNd0J2WF90WGRGUlNjWlo0ekhrbE80U0hVdnlNeHhkaGpOVnk1OWU4YmNValI3SDhKejZiOEJhU3cyMzU3cE1XMzFfcXc?oc=5",
+      "summary": "Stitch Fix at 2026 Global Consumer & Retail Conference: share gains build &nbsp;&nbsp; Investing.com"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Conference: AI, Client Retention Fuel Growth Ambitions",
+      "date": "2026-10-08",
+      "source": "MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1B4c25JQW9reGRjVlJNV3FPV1hyaDdMXzFLMnhONmVtSnRsY3RWeTBrWUFzTE85ZTRNMnc1Q3pNQmdsZ2w2ZVV0U2VzUzR2MVhhNE5ka0lUQUd2Tm1zZndiZEJkbGhxaDJ5RUYtQ2VMTkJGZzQ5SlhqazZFWjlycVZNN2hGNnZjU0hMWVJRejQzQlF5TzJ5YUladDJOM3VCNWJfaXQtV0Nsa1paTFlpN0ZuZFFkUE9zdTlqVGREY0E?oc=5",
+      "summary": "Stitch Fix Conference: AI, Client Retention Fuel Growth Ambitions &nbsp;&nbsp; MarketBeat"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
       "detail": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Stitch Fix, Inc. - SFIX",
-      "date": "2026-10-01",
+      "date": "2026-10-08",
       "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcHcyakIyYk40WHBDYUMwV1hqRUhDZVZyYTNUNXViaWlJUFR3VVEtMVVfZnVXT2R6dnpuUGZzMEFCSlNqMjRnUEE5alhraHdGUDEwLWpaM2M1R3lnR0pjaWdzN1ZFMjFuRjI0Nk40Y1NTSkpkNVZIWnAzUXdkWGtCcl9yR190ZVBwSVRuT1dpdDFZRzZGbDNZZmw4T2Q2dnhFWDZ2RlgxZ0lHeDk2a3FaaVE2bnhmQWlfTzdDNXZaajNpamZvQ3RjQlUydzd5Y1FxdW5hc2M5UnZuVlU2N09pdzVGNVVPUUd4c1VGVW1B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ3NNNGx4NTVhdElOVGMtNXhMb1Zxb0Y5a2k4T1NPTW0tcTl6akdySzZiOUlRcmpCb2pTcGxmV3cxQzlkVmMyOTdlbnhGMnlHRThmVnJnQlVjcW9iOWZGN3Z5Z1YyS3lhcWI2Sm9HcHhBcjM2NTlSNjN1b0VzUERxSzVTSndwZW1xSDdLVlBLWnUwdkVpTzRiMkU3OTZvM1pYZkprbTdZRktpQ09rMGYtS2FhWEhmajJPdGtJUERqb2hLVXU3RFI5cE5Eb0VUeElfbS0tNWJkRzZnamdZYW5Tb2xmV1pteE05UDhqTTBR?oc=5",
       "summary": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Stitch Fix, Inc. - SFIX &nbsp;&nbsp; PR Newswire"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "A former affiliate proposes selling Stitch Fix (SFIX) shares valued at approximately $132,500.",
-      "date": "2026-10-01",
+      "detail": "Is Stitch Fix's (NASDAQ:SFIX) Retail Turnaround Really Advancing?",
+      "date": "2026-10-08",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3BnUVdrZG1VOXk0VDEtUzBDSUhxM0RuRXpxZm1iQmQxQkpUa0QzdjZfWE5hN21IajdxOEo5eDFzUm8tdkdtM2NsVjhiaDBpdmNEekRmd28zbkFyWUpGRXdJUVNQZnNGRExfNkxWZHJZNTJmR0hDVE5rOWpiVGdITVh6bDFKd3h5bFBtcWZfeW81RW1qVEl1TUFrV1Fkb3JYTER2Z0pnOA?oc=5",
+      "summary": "Is Stitch Fix's (NASDAQ:SFIX) Retail Turnaround Really Advancing? &nbsp;&nbsp; Kalkine Media"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix highlights 6.4 percent growth and Stitch Fix stock costs EUR 2.39",
+      "date": "2026-10-08",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0RSY0gtUlVCTzZ2NUtsWXFwVHRJWGRXeEc5NFV5NWNBV3pmRDFPSTZZT3BPVlFzZkRrRWRXNzhGSjhkNk9wWVUtU2ZuTFpYWk9JOU1uR0ZyU0kwVm5oZFZKUHdwTTFPb0QxVjZoSmpRR1Jzc2VMYk8tZzBDdlh4ZXVZM0ptbHREa05xZmxsWnZ3Z01lV2NjUDZ3dkZna3RseTJNTnpWcG9pVjlwY1VNUWVNdXZQY3N3R3pKZjRrRUZtQV9QRV9Hd3U2SC1WakpE?oc=5",
+      "summary": "Stitch Fix highlights 6.4 percent growth and Stitch Fix stock costs EUR 2.39 &nbsp;&nbsp; AD HOC NEWS"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix Inc (NASDAQ:SFIX) Share Price | RNS News, Quotes, & Charts | SFIX |",
+      "date": "2026-10-07",
+      "source": "Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xT3FsMVk4OFVFeElPdDNST3FjX2ltRHVXM2ZWUmd4Yy1FZFdFRmNsQTFINERsQzlOcGEteU03MTNJYld5WkJKUGhCTjJrWm1xbnFselF3SnNEejNqRG0tSG5DZnNyYlE4NDVRYUxITjlXTG8?oc=5",
+      "summary": "Stitch Fix Inc (NASDAQ:SFIX) Share Price | RNS News, Quotes, & Charts | SFIX | &nbsp;&nbsp; Proactive financial news"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Anthony Bacos proposes selling $133K in Stitch Fix (SFIX) shares through Charles Schwab.",
+      "date": "2026-10-07",
       "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUI4eFdHbFlRVTAwVEcwUm5mbXRLYVA3UkN1bGhGTWRSeXJEM0FtMmFqaXppNDJydHVXSFlWVXpvSTlIdGxOU0xocmhzamxwMVRONW4wVlN1YWFXZXdpbElna1VfWS1helF3S19pODR1emh0YTZBMi0xcjBOYVlkUEZEYU1QN3lxTVA5RXlaOUltX2pjSVE?oc=5",
-      "summary": "A former affiliate proposes selling Stitch Fix (SFIX) shares valued at approximately $132,500. &nbsp;&nbsp; Stock Titan"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR29KYTdycTJPTUNRYkpVTHVKRWFuMURkTFpHbW1SUjdEbi1HTEh5QWRjZnl1cGhpWWEzNFRvX2J5MlEtVjJ6MkUyUnlDVU9udkVTZW1jZ3RJd0pfeDByYnJ0N2hfRzk0dDFEOWY0UFdyaEJHWUtTTHJCX1JyS2xmX3VwQmxKZWRYSDJPZGtBSlZacHBWLVE?oc=5",
+      "summary": "Anthony Bacos proposes selling $133K in Stitch Fix (SFIX) shares through Charles Schwab. &nbsp;&nbsp; Stock Titan"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix to Participate in 2026 Global Consumer & Retail Conference",
-      "date": "2026-10-01",
-      "source": "01net",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGRoNjFVOVprekVBQXAydFozSmROSU5MOHVmaVpieEZKWWJOc1RBejdXcUcyTUN3dVcxSVRwZU5ucDU4VmEzNTU4eXc4V0hvOWNxN2FndEo1a3ZQbGhvaU9PSTBOd2ptaS12LWZ4X0E4cU1tZmtXQmV3WloteFU0SkVmdHFsa3h6cUNuUlhuQ2xxOUE?oc=5",
-      "summary": "Stitch Fix to Participate in 2026 Global Consumer & Retail Conference &nbsp;&nbsp; 01net"
+      "detail": "Stitch Fix stock heads into October 8 conference after fiscal reset",
+      "date": "2026-10-07",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0lRVXRZczdacE9USkpGYjNjd3hoUmJPMXlUWl9wWVRscnM0OVdDRmdiZ1p5Ujg1c3RrTW5qX1p4YzNNVWdKaXJyMlUyVHdYeHd6VC1BT0tkNjl1NkdFRjVGM3JNVURUdi1tdzZkQkgxQ0JHcWxGUy0wWWVVNnp0a2FmOXhPdVBIOFhvZmVXcGpoS0REMWVHQlQyYUs2bmFnc2NEOERwekpBckpKREF3dFRkUzB6cDVZRjhRcnV1Q29yRldP?oc=5",
+      "summary": "Stitch Fix stock heads into October 8 conference after fiscal reset &nbsp;&nbsp; AD HOC NEWS"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Brokers Set Expectations for Stitch Fix Q1 Earnings",
-      "date": "2026-09-30",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZtdkx1VmVJa3VhbzNfMENnelZmRHVrRkp0emdjUDlSOXczLTFIUWhaSGg5dlhablBnY1FyTllKejdsTFpmMndLcDhicmIyTW9ueEZWVXF5Zk9LRmZpOHNVT3NhWUdZcksycUJDZjg1TnI1TnJXRDZyM0dSM0ZHanBaeU0yVkhlOUFzZXNhWm44d2xmVUFhbHRPRFY4dVA2b1FEaGlyVGdRbV9ZZHFaRDJXUFVJQQ?oc=5",
-      "summary": "Brokers Set Expectations for Stitch Fix Q1 Earnings &nbsp;&nbsp; MarketBeat"
+      "detail": "Stitch Fix stock gained 2.25 percent on October 7",
+      "date": "2026-10-07",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjVkYkE4b3JvSjdOTnduamNKQlpHTTV1TUpPUXozdlAxV09zczMyc2RZV2VzR2g3R05MRk9JX2JsTjJoZkZOVzh1UHBYS2JIX2JiOXpUY25Pd1FueXlEUUJJX3hvVGlHUWplZWV0YkxCRGxCbkE2MXlKUjZpMXdrVWc1SHpSM3ZXQ0ZuUUxidlJXUkJQU0RyeUZPRkZxNVZXQjc1V3puME54U0Q4?oc=5",
+      "summary": "Stitch Fix stock gained 2.25 percent on October 7 &nbsp;&nbsp; AD HOC NEWS"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Conferencia de resultados de Stitch Fix (SFIX) del T4 del año fiscal 2026: RPAC récord y perspectivas cautelosas para el año fiscal 2027",
-      "date": "2026-09-30",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKblZPMmxXN0pHX3hLbUtTcko2aHFrd1IxQ29pOXZIcUt4OHJEOUg2M0paRVRuZmVLSkI1ZmN5OWpseUNLSkY4WUZrblBaRTJUaTdPVThUMEVYajVZczlGcjU0ZE5YaWRSLV9xOUhUczlfcEZWWWc?oc=5",
-      "summary": "Conferencia de resultados de Stitch Fix (SFIX) del T4 del año fiscal 2026: RPAC récord y perspectivas cautelosas para el año fiscal 2027 &nbsp;&nbsp; TradingKey"
+      "detail": "What Stitch Fix (SFIX) Could Not Shake, And Where It Is Playing Out Again",
+      "date": "2026-10-06",
+      "source": "Webull",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUDVnXzlGaDVtdW9VSTc1Y29jMmVDR2V5S0cxbEtVZTlDUnc3bVFTd2NUVlpzTGNad0JKS3lreVdRdU1LY0IzMS0zMTlPekhDOU5UNlNaYmI?oc=5",
+      "summary": "What Stitch Fix (SFIX) Could Not Shake, And Where It Is Playing Out Again &nbsp;&nbsp; Webull"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Mizuho upgrades Stitch Fix stock rating on limited downside risk",
-      "date": "2026-09-29",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmZXUThsNmlMcGN6SFloYzFhT0dmMlhuQXJ1eGs5MU9QVjFSdXVITVRrYUl5XzhKOHUxdlNvVm5XeGMxZ1ZXV1ZnY2FuVGxkSDgxZ2hMZklvQTkwWWxadTZGaWt0c0JwZjlYYmdPUWhCUFB0ZGlwbjNPRkhQdklsc2NLdHRMNU1oLTcxUDhhc29PSXdLWjQ3QWlSdG8wMXJoQTZ3ckJSRFdobmp6RzJlOEdzcTdHdzlhSU95ZEFFeTFKQQ?oc=5",
-      "summary": "Mizuho upgrades Stitch Fix stock rating on limited downside risk &nbsp;&nbsp; Investing.com"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Stitch Fix (NASDAQ:SFIX) Upgraded to Neutral at Mizuho",
-      "date": "2026-09-29",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWndndF94SU5LZ0FpZWlsUWxlRmExTTZTV3BzbHcyU0pIMThFUjhraGJqM0pBbE1wd1VvOVJFVndyMmRmQS1ob3hjcGs3aF9Ea09jUWQ0bkFwQXF1aG1STVBsMThnVVNhQVpvbGQ0UTZJNVBJQkxiM0kyMUdwaFF0bkZFRnB0NmNIY0NEQkVPWWdtd0xmNDA0bGVyTXBNdzcxbUNsOHAzdE9UWWxXRktCdG9B?oc=5",
-      "summary": "Stitch Fix (NASDAQ:SFIX) Upgraded to Neutral at Mizuho &nbsp;&nbsp; MarketBeat"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Mizuho Securities Upgrades Stitch Fix(SFIX.US) to Hold Rating, Cuts Target Price to $2.5",
-      "date": "2026-09-29",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWlaUnV4RVJqRHF1U2k2TjFaa3YxMXI5SThSU0tLNTIzMFZaVFpjT3dKd0ZvVnFWbmF6NU5lNmlKSThYeXpvaUg4U1ZfN1RKYmJ4QUtBbUZfemU3WFJqYVVyU3JxXy1qLUtrbk1mVU5PUVdzQWNfYmhUYVU2S3M0eVhYSU9sbVpwajdfaEdId0N0MHFOVXgycnJDX045VWdiZ3doZGpfZW5Eemwt?oc=5",
-      "summary": "Mizuho Securities Upgrades Stitch Fix(SFIX.US) to Hold Rating, Cuts Target Price to $2.5 &nbsp;&nbsp; Moomoo"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Mizuho upgrades Stitch Fix to Neutral after 17....",
-      "date": "2026-09-29",
-      "source": "Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGtLUkZOWTNvbUoxcDNJd21UNUFtNW4xTGI5QzRYUllSSms5d3V0SFFGRlBQSkVvd1lvWGI2SWRNemljRURJcHNlS1BFYmNGRy1xWTgyLThLUXU2ME9iVTlPd0pyN0NzSDN4cGpnSmtINWVFNThqT2t6Ml9iM2gtektpb2dXdURoUG5FZjh0cw?oc=5",
-      "summary": "Mizuho upgrades Stitch Fix to Neutral after 17.... &nbsp;&nbsp; Pluang"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "What's Going On With Stitch Fix Stock Monday?",
-      "date": "2026-09-28",
-      "source": "Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjYzYjJLQWRoaG1kMm1COVRaUi02cWpLRklMeE5tTENFMkxJUVI0bG90ZDBfSkR1OS1SWmpPZFI0b3VMNmZ5WGFPR1dtV2hQZnFINU94UHRYbHo5end0bjM5UDd0dHVPak1lYWFnMWN2V1dfTlZsYk5XYnlBRXdWeGhwRFZaVGJIM0xRc25BUEJ1ek9tUGJOYTdZaVpXSUdRZkhqSzJVRQ?oc=5",
-      "summary": "What's Going On With Stitch Fix Stock Monday? &nbsp;&nbsp; Benzinga"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Stitch Fix Stock Plunges as Guidance Puts the Turnaround on Pause",
-      "date": "2026-09-28",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0tWUVFsMTRjVUdUa1laNFYtQVRjdDRMNGF6ZU0xWUxQZWo3dXpLSDhaSzB6NjlibHFzM0dfSDE0LUlUVzRIUEZLM3paTzN3YVQ5SF9ZRVppS0Q1ZkdzMXRac1kwa1lKdEVnTF9YZGJvbXRJNTVsZ3UxaGxrSFI5U0VhZjAtVmNEZlRxWE0tR1BobDVaa1NHZlJ1NkRGcXRFZ2tnNA?oc=5",
-      "summary": "Stitch Fix Stock Plunges as Guidance Puts the Turnaround on Pause &nbsp;&nbsp; MarketBeat"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "SFIX Stock Holds Gains As Earnings Beat Clashes With Soft Outlook",
-      "date": "2026-09-28",
-      "source": "StocksToTrade",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFdEUzbEp4aTk5eHlNX0MxLWZhdTM4UmpfckRuTmJnZExvU054QTZLczBrYl9jMVhoSDNiNEZITmlZa1NvQTBnLTc5NDJCRTFLdkFMWUI5ZWkza3JxbXRUemk3Umpadm9GbGxCbzhtSkx5SmUzY0E?oc=5",
-      "summary": "SFIX Stock Holds Gains As Earnings Beat Clashes With Soft Outlook &nbsp;&nbsp; StocksToTrade"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Stitch Fix (SFIX) Fixed its Checkout Mistake. Can it Fix its Shrinking Customer Base?",
-      "date": "2026-09-28",
-      "source": "Yahoo Finance",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2eecb7a6b4a35a72650e125d651cb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fstitch-fix-sfix-fixed-checkout-020446745.html&c=9761802645212691416&mkt=en-us",
-      "summary": "Stitch Fix, Inc. (NASDAQ:SFIX) has corrected a checkout mistake, but its outlook points to a customer problem that predates the error. Restoring access to repeat orders removes an obstacle. Rebuilding ..."
+      "detail": "Stocktwits Retail Therapy: Consumer Stocks Face Heat But Carnival, Mattel And Stitch Fix Buck The Trend",
+      "date": "2026-10-05",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV2gzbElONEN3SmtLbXJoNzJVai1lYXdmdjlyc0I4YjV1WUprR2hpR1BFLUtyWXBfZTZZazJZNVNpZ191cXlRZDk5MUhtR3FDY1Fab09ZNkhlaDBOREp4Z0RqajZSZlcwZDk4VGFhX1JYSjdMOURDOXFLYklRRFFobVVuMktRN2tMak8tR2ZyS19MMG5BZENrNFloOF9HZ0JWNHRaS0JqWGl5VFZYWjk1NV80TEYwRFZ1Y1dUMm93S28wOF9wY1lNZFU5QVBkTjg5OHBLd2pnU0lRLTBKTzdyYkFNTnRLM3IxSksySjA0SnZLVFU?oc=5",
+      "summary": "Stocktwits Retail Therapy: Consumer Stocks Face Heat But Carnival, Mattel And Stitch Fix Buck The Trend &nbsp;&nbsp; TradingView"
     },
     {
       "competitor": "Essembl",
       "type": "new_version",
       "store": "apple",
-      "detail": "0.2.30 → 0.2.31",
-      "released_at": "2026-10-01",
+      "detail": "0.2.31 → 0.2.32",
+      "released_at": "2026-10-06",
       "release_notes": "Your wardrobe is hiding in your camera roll, Essembl can now find your clothes in your photos and help you add them to your digital wardrobe. Pick your favorites, rediscover forgotten outfits, and spend less time uploading.\nDrastically improved initial load time of the app"
+    },
+    {
+      "competitor": "Whering",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "3.4.116 → 3.4.147",
+      "released_at": "2026-10-07",
+      "release_notes": "What to wear? Already sorted.\nPlanner now suggests outfits based on your wardrobe and the weather, so getting dressed feels easier. You can also plan ahead for trips, weekends and events by changing your location."
+    },
+    {
+      "competitor": "Whering",
+      "type": "new_version",
+      "store": "google_play",
+      "detail": "3.4.116 → 3.4.147",
+      "released_at": "Oct 5, 2026",
+      "release_notes": ""
     },
     {
       "competitor": "Acloset",
       "type": "new_version",
       "store": "apple",
-      "detail": "6.38.1 → 6.39.0",
-      "released_at": "2026-09-30",
-      "release_notes": "- Easier photo picking: tap \"Photos\" on any imported item, or use Auto Scan and Capture on the product page.\n- Faster, more accurate imports from stores and Gmail."
+      "detail": "6.39.0 → 6.41.0",
+      "released_at": "2026-10-08",
+      "release_notes": "- Now we support dark mode\n- Bug fixes and improvements"
+    },
+    {
+      "competitor": "Acloset",
+      "type": "website_change",
+      "detail": "页面内容有变动，关键字段未变（可能是文案微调或新增区块）",
+      "url": "https://acloset.app/"
     },
     {
       "competitor": "Save Your Wardrobe",
       "type": "new_version",
       "store": "apple",
-      "detail": "3.0.5 → 3.0.6",
-      "released_at": "2026-09-28",
+      "detail": "3.0.6 → 3.0.7",
+      "released_at": "2026-10-05",
       "release_notes": "This update includes bug fixes, and performance improvements."
     },
     {
       "competitor": "Save Your Wardrobe",
       "type": "website_change",
-      "detail": "主标题: 「Help Make Repair Affordable in Britain」→「We are the global standard for end-to-end aftersales solutions, powering every service beyond the point of sale.」",
+      "detail": "页面内容有变动，关键字段未变（可能是文案微调或新增区块）",
       "url": "https://saveyourwardrobe.com/"
     },
     {
-      "competitor": "Doji",
+      "competitor": "Style DNA",
       "type": "new_version",
       "store": "apple",
-      "detail": "1.1.2 → 1.1.3",
-      "released_at": "2026-10-02",
-      "release_notes": "Bug fixes and performance improvements."
+      "detail": "1.10.227 → 1.10.228",
+      "released_at": "2026-10-05",
+      "release_notes": "We’re constantly improving Style DNA to make your experience even better.\n\n• Performance improvements and bug fixes\n• Enhanced app stability and reliability\n• Small UI and usability refinements\n\nUpdate now to enjoy the latest improvements."
     },
     {
       "competitor": "Daydream",
       "type": "news",
-      "detail": "Daydream App Brings Conversational Support and Visual Shopping Experiences to iPhone users with New iOS 27 Capabilities",
-      "date": "2026-09-30",
-      "source": "PR Newswire",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2efcd70e3410ba2debf28c60c9a9a&url=https%3a%2f%2fwww.prnewswire.com%2fnews-releases%2fdaydream-app-brings-conversational-support-and-visual-shopping-experiences-to-iphone-users-with-new-ios-27-capabilities-302893809.html&c=13180941240820701446&mkt=en-us",
-      "summary": "Daydream, the AI-powered fashion discovery platform, launched conversational search and a shoppable camera roll that utilize the ..."
+      "detail": "Daydream Partners With Gap Inc. On AI-Assisted Shopping Rollout",
+      "date": "2026-10-09",
+      "source": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWU4N0JKRDF0aUpSVFNjZkdNUFdiUTVVV3BWVEIzYTRqeUgzVkZqNFZNWnMwaGFxYTl4enU4cXE3R3lEbE9hOWlaUkNUY2xRazcxd2hGWkNBWnlqMnIzMFptdWtlU2xtRE9iVGhBNkpySUZrdHlzZUxjR0J1NmVES0lqOTQwcHRxakxQUk9nU2oxLVNDNzVuTG9Bb1FFdjhBRnFZWm5ZMFBZYWppZGww?oc=5",
+      "summary": "Daydream Partners With Gap Inc. On AI-Assisted Shopping Rollout &nbsp;&nbsp; TipRanks"
+    },
+    {
+      "competitor": "Daydream",
+      "type": "news",
+      "detail": "Gap unveils AI-assisted shopping, three decades after its first website",
+      "date": "2026-10-05",
+      "source": "Retail Dive",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlFxQUFkNjI4NHN6YW1adndUSENVNk5nb2N6RHVaZl9wVFhKdU9TdldYZTNqcGVjQXhzWXF3VzkzVE9hSDVsZ19CZE9Nd3ZPbnlZSHNOM0VkY19kQXR1b1VTSmdYOGIzYmlEd2hGRG9zc051ajR6enZMZW93SnNuMFkybnRpUlhaM0VGLUllRlo4ck5aTzNF?oc=5",
+      "summary": "Gap unveils AI-assisted shopping, three decades after its first website &nbsp;&nbsp; Retail Dive"
     },
     {
       "competitor": "Phia",
       "type": "news",
-      "detail": "Phoebe Gates and the contentious debate over fair pay for influencers",
-      "date": "2026-10-04",
-      "source": "Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVprM1FNWlNnMWZ5cV96RHBLUGZEQzZiaXh5bWlsTWNLZm5PamNsOUF3enZYTFhqRURXQ1VXQzhMTzAtRUVmZWdydlZJZm9MRHZIYzV0VWZ2b0xGZkRnNzdEdklWb0w5N0FlSnJJbnRwc3E0NGxycnlHc2MtRDlsMFl1djF2akhKRk9oNTdqVVFieng5QUxn?oc=5",
-      "summary": "Phoebe Gates and the contentious debate over fair pay for influencers &nbsp;&nbsp; Fast Company"
+      "detail": "When Bill Gates admitted how a chat with his daughter Phoebe Gates made him understand 'Internet's 'big p",
+      "date": "2026-10-11",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQWV9Da1hYQlZoVDJlVlBTZDYtdmo4RWxCdTNucDRKd1NWQ3BuTmJDUXUzOG82VktRMDl3UHd1WlRHNEdycjAwUlI0NmtfU01OQXkzMm1MS3FZXzFLQXc4Ti1DVmVsbTRKb2FjRGR4bVd1RTl3a2xpM1FSQ0pxYzF2MlBMUktMM1RpaldrTk85b1NzUHl4Ujh1OC1CVG1kMVhSUXZNWVdmRnotMVhIeFBLN0E3NHRRYUlpNzY3QkN5b3BNUkU0VHJnSFBIOGFyOGJZR2pZcUh4ejR6S0ZaeGhLQlBrU0ZsT0dXVDZFbDBGdHlSXzlLbU1hdkd3ckhPZEVkOVRibV9jOHcxUHY2Zm1kbU5KX05ndFNFb0drRWM1NFRjc1hFWF9CemtCZHJOZjBGSFV4ZkcwZnQ2dnc4QzBuWUxRZHVLaVA3MndsX0M2dU5GMTRzU1dMSERvczlMdFdXQ1JpdkxCZEh3MnlLUUU3U3ROQnZKUlBlNzU0b9IBggNBVV95cUxQZ1VaR2FmUEdzUmI5czNxeWZ5Y1ZNdW5IVjUxcHpBbFM5R0JseGhfS1BlQ0hrY2VCclRIc1lFeHV3anlPWjBoT2N6WlQxRFFxODNaTDVKcUUtSkxfdVRNYjFpbFFGa1BmYmxkR0c0U2U3X05tZVplMGNYNTRZMFlmV01RYUREbHFmSFBzUThMLXhMWV9vNGVnNVhqcUVZeGpCaWU4cmlkaFRwa3RHOEZ4bmVOUUhMYWVZZEQ4Z3VrWkFMYTQ5OE5yS05pM3o1YllRZmdtS01NSFlaMXZZVWs2UlkwZUY3bU42eDZUeUEtVjdLT0tuNFhHcmczdkpvSW00TnMzY0JTN0VPOVQySmxlYXVDcGk5Y1hEVWFzQ3ZoZGJtb1hacHBKbkV6aXZJaVBBNElndTVpeEQySUZlYlY5SFU3MVRHekIxOEJoZGtaQUw4a2RTNzFIZm85ZzV0U2hTMHVXQnA3TWFkZFR4c25IYWpYOE5SM1RpVnA1aHcxZG5HZw?oc=5",
+      "summary": "When Bill Gates admitted how a chat with his daughter Phoebe Gates made him understand 'Internet's 'big p &nbsp;&nbsp; The Times of India"
     },
     {
       "competitor": "Phia",
       "type": "news",
-      "detail": "What to Know About Bill Gates and Melinda French Gates’ 3 Children Jennifer, Rory and Phoebe",
-      "date": "2026-09-29",
-      "source": "People.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWZTR29haDdDa1NEY1JxSkdNOGUtVENWVWtxT1FQWW5PNTAwUEd2bENRblNzZXRnZmpNSzc3OW4zdnRGUlZwNmdMaU9wUnZMUGkzWFc3bFo4MHpfQlhhSmpaMkIwZ0o5MmNuLTJlNVZqaDR5TVNGZC1WS0lpT1ZJZGdKTGRIWDBCNnlmZ2FNcjNrVVJWbHc?oc=5",
-      "summary": "What to Know About Bill Gates and Melinda French Gates’ 3 Children Jennifer, Rory and Phoebe &nbsp;&nbsp; People.com"
+      "detail": "Bill Gates' daughter's startup pulls feature after reports alleged misattribution of referral credit",
+      "date": "2026-10-05",
+      "source": "The Cool Down on MSN",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc31fc15da49a9be104890e58c4fc2&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fbill-gates-daughters-startup-pulls-feature-after-reports-alleged-misattribution-of-referral-credit%2far-AA2amIhK&c=13377386594060590770&mkt=en-us",
+      "summary": "Those attributed sales made up about 51% of Phia's credited sales in June 2026."
     },
     {
       "competitor": "柚子衣橱",
       "type": "new_version",
       "store": "apple",
-      "detail": "6.3 → 6.4",
-      "released_at": "2026-09-29",
-      "release_notes": "1. 新增统计：按照鞋码统计和按照衣服尺码统计\n2. 修复未选择场景的衣服不显示在”未分类“tab的问题"
+      "detail": "6.4 → 6.5",
+      "released_at": "2026-10-08",
+      "release_notes": "1. 网格显示模式下，衣服可以显示两个标签，比如同时显示衣服的品牌和穿着次数。"
     }
   ],
-  "change_count": 27
+  "change_count": 29
 }

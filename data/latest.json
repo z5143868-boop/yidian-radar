@@ -1,6 +1,6 @@
 {
-  "week": "2026-W41",
-  "collected_at": "2026-10-05T00:26:14Z",
+  "week": "2026-W42",
+  "collected_at": "2026-10-12T00:58:49Z",
   "competitors": [
     {
       "id": "alta",
@@ -12,9 +12,9 @@
           "version": "2.2.5",
           "released_at": "2026-10-01",
           "release_notes": "New features every week! Discover the explore page, Home Screen widget, event and trip planning, and so much more. Improved styling algorithm and more realistic avatars.",
-          "rating": 4.88381,
-          "rating_all_versions": 4.88381,
-          "rating_count": 15656,
+          "rating": 4.88471,
+          "rating_all_versions": 4.88471,
+          "rating_count": 16099,
           "price": "Free",
           "genres": [
             "Lifestyle",
@@ -25,6 +25,222 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-09",
+          "rating": 3,
+          "version": "2.2.5",
+          "title": "Problema no resuelto",
+          "body": "El app no me deja subir mas prendas a mi clóset .,se cierra al momento que querer escanear la ropa .\nY al momento no e recibido una contestación que ayude a resolver el problema .",
+          "author": "Ju Laredo"
+        },
+        {
+          "date": "2026-10-09",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "I am obsessed!!!",
+          "body": "I cannot begin to tell you how excited I am to get my hands on this app. Whoever created this is sent from heaven! Thank you!",
+          "author": "Bad Equipment"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "I love it!!",
+          "body": "This app helps me trying on clothes I could buy or clothes I already have, saving time on physically trying the clothes.",
+          "author": "DianaNez"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Life saver for my outfits",
+          "body": "As someone who’s always on the run, this app helps me make outfits without digging into the deep depths of my closet.",
+          "author": "Drakeywakey00"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Very helpful",
+          "body": "Good for lazy people like me lol 😆",
+          "author": "YouAreASuperstar!"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Please add more minimalist features!",
+          "body": "I would love the option to disable the feed and hide or reduce the social features. I just want a simple, clean app where I can organize my wardrobe and keep track of my clothes without all the extra distractions.\n\nAlso, PLEASE add the ability to write personal notes on individual clothing items! Tags aren’t always enough. Sometimes I just want to leave a small comment or reminder about a specific piece, and having a simple notes field would be so helpful.",
+          "author": "StefBomparola"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "I use this every day",
+          "body": "10 out of 10 would recommend!!!",
+          "author": "Bri-4"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "worth it",
+          "body": "ok honestly, the set up takes a while. photographing everything you own and then properly tagging it isn’t exactly “fun.” but if you suffer from outfit-decision-paralysis-induced-panic-attacks (like me), visually seeing everything on a screen BEFORE you enter the cavern that is your closet is a life changer. \n\nclear a sunday, get through it, it’s worth it.",
+          "author": "Sarahsquiiiiish"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "The best app EVER!",
+          "body": "MY FAVORITE APP EVER TO EXIST. Genuinely I love this app so much and it’s helped me finally step into curating the perfect outfits!",
+          "author": "hayleeleinsssss"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Help for the hopeless",
+          "body": "I always struggled with fashion then my friend recommended this app and I LOVE IT! It helps me put together outfits without having to deal with decision fatigue. As a person with anxiety and depression, just getting out of bed on some days is a challenge and then having to decide what to wear can be too much. Even on days I don’t feel the best, I look the best and that does help me feel a little bit better",
+          "author": "SandyCarrie"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "ITS THE BEGINNING OF THE FUTURE",
+          "body": "I love this app so much right now it helps you with so many ideas and low-key. It’s keeping me organized.",
+          "author": "pulafia_132"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Idk",
+          "body": "Its great but it keeps suggesting me other pieces and i said i dont wear pants or shorts but its still good",
+          "author": "Dia arsenal"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Super útil",
+          "body": "Además de útil y funcional, INNOVADORA. Contiene un calendario en donde puedes planear tu outfit de la semana, no tienes que medirte la ropa porque la app lo hace por ti recreando el Outfit con IA en un avatar IDENTICO a ti. También contiene sugerencias de outfit para esos Dias en los que no tenemos tiempo de pensar. ¡La amé!✨👗👢",
+          "author": "101angeles"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Amazing app",
+          "body": "I use Alta because I like to see what I wear the most and keep track of my previous outfits.",
+          "author": "jcheetahs"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "2.2.4",
+          "title": "LITERALLY A GAME CHANGER",
+          "body": "I always wear the same outfits because it’s always so me tall exhausting to put together outfits every day. This app has already revolutionized my wardrobe and truly make me love the items I’ve already purchased sitting in my closet! Cheers to no more over consumerism & maximizing your ALREADY AMAZING wardrobe. ✨",
+          "author": "acgutierrez910"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "La mejor app  ✨",
+          "body": "Está app me ayudó demasiado a organizarme ✨",
+          "author": "Quiara nena"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Great App!",
+          "body": "Really has helped me get organized and see what all I have in my closet, plus I’m not paying anything which is a big plus! It does take a minute to get used to your style though so just be aware of that.",
+          "author": "Chels._.Renee"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Clothes",
+          "body": "I love this app soooo much it makes it so much easier getting ready in the morning and getting all my clothes out and having a big mess. Just swipe and wear",
+          "author": "Kars.."
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "I feel like Cher from Clueless",
+          "body": "I mostly use Alta for outfit ideas and to help me figure out how to wear things I already own. I have a lot of clothes, so I like being able to see everything in one place and get ideas without feeling like I need to buy something new every time I don’t know what to wear. I have ADHD and once something is out of sight it’s out of mind, so the visualization is beyond helpful. I’ve shown people my Avatar and Prettify because its so aesthetically pleasing to have your outfits planned out and tracked. My friends and co-workers have downloaded it and laugh when I tell them I feel like I finally have Cher’s closet from Clueless which I’ve been dreaming about since being a little girl lol",
+          "author": "Noeldorn"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Fashionista in training",
+          "body": "I love clothes. However, I have a hard time putting together outfits. This app is a game changer in showing me my clothing and the combos I can wear and for what. I now feel more confident when I am out and about and love that I am wearing pieces that I wouldn’t have thought to put together. I haven’t uploaded my entire wardrobe and accessories, but I am getting there and I am so excited to do so. I feel like Cher Horowitz with this app.",
+          "author": "HelenaCohee"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Fantastic App",
+          "body": "I absolutely love this app. It’s easy to use and I never have to plan or match outfits. It does all the work for me. I have all my friends using it!",
+          "author": "Dmkh76"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Review",
+          "body": "I actually love this app it is kinda accurate but it is so much easier to make outfits now and now I can just go on this app and make a outfit for the day and it is so fun to make random outfits on your phone and not having to get up and put on the clothes",
+          "author": "Most most dangerous dog"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Best App for Fashionistas!",
+          "body": "I cannot recommend this app enough! Uploading pictures of your own clothes is a breeze; the AI is so intelligent in creating the photo. The avatar production truly mimics your face and body shape. I love the ability to incorporate the internet with my own closet, especially as a shopping addict and fashionista! I love that you can prompt the AI to give you looks and you can save them. It has really changed how I view my closet, making me think of styling my pieces in new ways. Thank you Alta Team!!!",
+          "author": "Tnmguent"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 4,
+          "version": "2.2.5",
+          "title": "Pretty good",
+          "body": "I think it’s a pretty good app. I would definitely recommend this to people although There’s a few bugs that may need to be fixed, but other than that, I would recommend this app to people",
+          "author": "Ella🌸🌺🌷🌻💐"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Feel put together",
+          "body": "This is the best use of AI. I feel like I finally see more to what is inside of my closet. Check this all daily for what to wear!",
+          "author": "Genieva D"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Love improvements",
+          "body": "I love that Alta team keeps improving the app, I’m new to it but I can have my wardrobe at my hands also search easily for anything ai want to buy a including on my wishlist.",
+          "author": "MsDe@2000!"
+        },
+        {
+          "date": "2026-10-03",
+          "rating": 5,
+          "version": "2.2.5",
+          "title": "Great app!!",
+          "body": "I was skeptical about a free app that you can upload you clothes and style. I’ve already uploaded over 150 items and it creates great images and recommendations. Love the avatar option too, definitely going to be using all the time & recommending to friends!",
+          "author": "JadeC10"
+        },
         {
           "date": "2026-10-03",
           "rating": 5,
@@ -40,14 +256,6 @@
           "title": "Feeling like 👚👖👗",
           "body": "Feeling clueless if you get the reference such a good app for people who wanna feel rich 💐",
           "author": "Ava🌷👙😝😊"
-        },
-        {
-          "date": "2026-10-03",
-          "rating": 5,
-          "version": "2.2.5",
-          "title": "The best app EVER!",
-          "body": "MY FAVORITE APP EVER TO EXIST. Genuinely I love this app so much and it’s helped me finally step into curating the perfect outfits!",
-          "author": "hayleeleinsssss"
         },
         {
           "date": "2026-10-02",
@@ -216,217 +424,28 @@
           "title": "Keep track of your closet!",
           "body": "The main reason I use Alta is to keep track of everything I have in my closet and actually see what I own. I love the idea of having a digital closet, kind of like the closet app in Clueless! It makes it much easier to remember what I have and think about different ways to style things. It has also helped me keep track of things I’m ready to sell on other platforms like Depop.",
           "author": "Emilie B A"
-        },
-        {
-          "date": "2026-09-29",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Easy and fun to use!",
-          "body": "I’ve always taken photos of outfits I like that I own and being able to upload those photos and have Alta separate the items into my virtual closet and give me new ideas is so fun! I love this app.",
-          "author": "Luna Mor"
-        },
-        {
-          "date": "2026-09-29",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Super helpful!",
-          "body": "I’ve been enjoying using the app and has helped me plan my outfits for an upcoming vacation",
-          "author": "AAjax369"
-        },
-        {
-          "date": "2026-09-28",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "LOVE Alta!!",
-          "body": "I am LOVING Alta! I am adding my clothes to it because I have so many that I literally am forgetting what I have. Looking forward to getting everything uploaded but am so pleased with this app!!",
-          "author": "meriahlyn"
-        },
-        {
-          "date": "2026-09-28",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "I am obsessed with this app!!!",
-          "body": "Love the ALTA App. It keeps my closet and brain super organized. It takes the mental load off of “what do I want to wear?” VS the “what do I actually wear?” \n\nI have already told my whole family and work friends about it and they are very interested to try too! I am excited to explore more of the app and upcoming outfits",
-          "author": "Priscpooh"
-        },
-        {
-          "date": "2026-09-28",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "My favorite app",
-          "body": "I really love this app. I use Alta because I had to part with the clothes in my closet and I had to purge. I felt like I had nothing to wear.  Now I feel like I have my own personal stylist assistant and I have plenty to clothes to wear. Best wardrobe app.",
-          "author": "Drpepperphene"
-        },
-        {
-          "date": "2026-09-28",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "10/10 from me",
-          "body": "I love this app it was sooo helpful cuz I always struggle to get my outfits picked out for school and stuff and this app helped me a lot",
-          "author": "Beckyyyyyyy￼"
-        },
-        {
-          "date": "2026-09-28",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Helpful, Promising app!",
-          "body": "Where to start - first, the photo transformation into closet items is the very best part of the app. I love that I can take ONE PHOTO and have it cleaned up and have proper lighting etc.\n\nHas an ability to track what I wear each day on a calendar view which is very intuitive.",
-          "author": "Jellybean Ghoulie"
-        },
-        {
-          "date": "2026-09-28",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Finally using my clothes",
-          "body": "I have a variety of pieces and quite a few basics, but I tend to use the same things over so this app has really helped me create some outfits and be more adventurous with what I’m wearing. I recommend recommended it to all of my friends, also helps for shopping, so I’m not buying similar items. Super easy to use and now every time I buy something I go ahead and add it in my closet on the app",
-          "author": "Isabel.s."
-        },
-        {
-          "date": "2026-09-28",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Incredible",
-          "body": "This app is incredible it will change my life, hard to believe something like this exists",
-          "author": "Veronica Tr"
-        },
-        {
-          "date": "2026-09-27",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Great and even helpful to buying cloths online!",
-          "body": "This is a pretty good app that helps me keep all my outfits organized. I even use it in another way, I upload photos of clothes I’m thinking about buying so I can check if I’m really sold on them before making a purchase.",
-          "author": "Kazsukki"
-        },
-        {
-          "date": "2026-09-27",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "The best closet app!",
-          "body": "It has every feature I wished the other ones had. 10/10 and only getting better. Where has this been all my life?!",
-          "author": "hilreeee"
-        },
-        {
-          "date": "2026-09-27",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "¡Me encanta!",
-          "body": "Una app muy buena, me encantan todos los outfits que puedo crear ¡Increíblemente recomendable y útil!",
-          "author": "Islen Cruz"
-        },
-        {
-          "date": "2026-09-27",
-          "rating": 1,
-          "version": "2.2.4",
-          "title": "pls read",
-          "body": "i hate this app it never makes outfits for any of the clothes i actually have it alwyays does random ones that are literally ugly that i don’t even have like bruh",
-          "author": "Seal_sunny"
-        },
-        {
-          "date": "2026-09-27",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Truly amazing",
-          "body": "It’s truly an that I finally found a free app to help me with my outfits",
-          "author": "INSTAGRAM brynlee.belveal"
-        },
-        {
-          "date": "2026-09-27",
-          "rating": 1,
-          "version": "2.2.4",
-          "title": "bad",
-          "body": "When i click to scan it opens but just a sec it closes the app so basically it doesn’t work",
-          "author": "parallel player"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Great For Outfit Inspiration",
-          "body": "This app, honestly surprised me. I thought that it was just gonna be like any other fashion assistance/outfit inspiration app, but it allows you to curate and cultivate your fashion choices and sense of style.",
-          "author": "DHerr7"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Best thing this decade",
-          "body": "Finally!!! I’ve been dreaming of this FOREVER!! 💖💖💖 Best thing to happen this decade!",
-          "author": "Livvi Joan"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Love Love Love",
-          "body": "I have never left an app review. I love this app. I open it every day. I love how it styles my closet. I love the suggestions. This is so much fun and has given me so many different outfits they never thought of in my closet. Awesome awesome awesome.",
-          "author": "CindyChis"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "AMAZING!!",
-          "body": "Omg this app literally changed my life. I’ve been having so much fun putting all of my clothes in the app and seeing all the different outfit combinations. I’ve been telling all my friends about this app and how they need it. I love how it takes such clear photos of the clothes with the AI feature and actually creates really cute outfits. I could not have imagined a better app to exist!",
-          "author": "Acamille123"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Muy bueno",
-          "body": "Amo",
-          "author": "basophia"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 4,
-          "version": "2.2.4",
-          "title": "Digital Closet Function is Great",
-          "body": "Styling function not so much. It puts the most random stuff together in combos no one would ever wear. The avatar try-on function is fun, when it works, but it doesn’t always. Overall I like it better than the other closet apps I tried, but I wish it was better at styling.",
-          "author": "Hbhelm"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Love this app!",
-          "body": "I’m obsessed with adding my clothes into this app! I have a horrible habit of wearing the same thing and never touching some pieces that I own because I simply don’t know how to style them or I forget they even exist. This app creates super cute outfits that I would’ve never thought of putting together!",
-          "author": "AKayLee55"
-        },
-        {
-          "date": "2026-09-26",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Wow",
-          "body": "I love this app! I have a color deficiency and this has been a life saver to match my clothes for work!",
-          "author": "JoAshley2"
-        },
-        {
-          "date": "2026-09-25",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Life Changing!",
-          "body": "This app is EVERYTHING! I am obsessed. After 2 pregnancies I have struggled to find my style and figure out what I even like to wear anymore.  This app helps so much! Not only did it help me declutter and organize my wardrobe but I can visually see what I have in my closet. It honestly makes me excited about my clothes again!",
-          "author": "ANK2020"
-        },
-        {
-          "date": "2026-09-25",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "Definitely Recommend This App",
-          "body": "I began using Alta after seeing a post about it on social media (I believe the platform was Reddit). I heard that it was created and managed by a small team, so I wanted to support the app. However, when I accessed the app, I was instantly surprised by the sheer capability of the app. I love that Alta generates outfits for different occasions, although I would love a feature to change the style of generated outfits to further match my style. I was also pleasantly surprised by the avatar, which is incredible for visualizing outfits, especially when I feel like I have no clothes. Alta is always consistent and something I can rely on. I definitely see a change in my daily routine, and I love cataloging outfits that I have worn to look back on.",
-          "author": "e62442"
-        },
-        {
-          "date": "2026-09-25",
-          "rating": 5,
-          "version": "2.2.4",
-          "title": "muy útil",
-          "body": "la mejor aplicación para crear tus outfit, puedes subir todas tus prendas y luego hacer los outfit con ellas agregar capas de ropa a demás qué puedes hacer tu avatar para ponerle la ropa y ver como se vería en la vida real hasta ahorita oct 2026 es gratis la super recomiendo a demás qué te da opciones de outfit qué puedes usar con tus prendas",
-          "author": "Deyloprz"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "date": "2026-10-11",
+          "title": "'Too Much Tony': New book teaches kids its okay to be themselves",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc30d25fbf477492c1bd2142592b2a&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fvideos%2ftoo-much-tony-book-teaches-002526247.html&c=12058579676764250900&mkt=en-us",
+          "source": "Yahoo",
+          "summary": "Dr. Jenny Wang, PhD, joins KRON4 to talk about her new book, \"Too Much Tony.\" ...",
+          "via": "bing",
+          "is_founder_news": true
+        },
+        {
+          "date": "2026-10-08",
+          "title": "New Centretown restaurant shows promise for soup dumplings, dim sum in Ottawa",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZcExMNTVXYklpR2I1R19CWXVfZ2hGcDd5RklaUzNZV1F4NGt0Y05xcXprUkdITF9LelE4bXhDMDFKXzR4OFRVVnNxX1psaWpGZ2NjQnRFR29BQmEzeHNRaXBMakc?oc=5",
+          "source": "Ottawa Citizen",
+          "summary": "New Centretown restaurant shows promise for soup dumplings, dim sum in Ottawa &nbsp;&nbsp; Ottawa Citizen",
+          "via": "google",
+          "is_founder_news": true
+        }
+      ],
       "website": {
         "url": "https://www.altadaily.com/",
         "title": "Alta | Your personal AI stylist that truly gets you",
@@ -447,12 +466,12 @@
       "market": "global",
       "app": {
         "apple": {
-          "version": "11.24.0",
-          "released_at": "2026-09-28",
+          "version": "11.25.0",
+          "released_at": "2026-10-05",
           "release_notes": "Recent updates in the Stitch Fix app:\n\n• Bug fixes & improvements. Updates make your experience even more seamless.\n\nWhat do you think of the Stitch Fix app? If you like us, please write a review in the App Store! Problems or suggestions? Please email hello@stitchfix.com.",
-          "rating": 4.69639,
-          "rating_all_versions": 4.69639,
-          "rating_count": 138867,
+          "rating": 4.6959,
+          "rating_all_versions": 4.6959,
+          "rating_count": 139816,
           "price": "Free",
           "genres": [
             "Shopping",
@@ -463,6 +482,78 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "11.25.0",
+          "title": "LOVE",
+          "body": "I love the Stitch Fix app. I think it’s an overall great app. I love and look forward to going on it every morning to try out the new style shuffle. I love the AI that’s included to see what looks good on you and I love another person’s opinion when picking out an outfit.",
+          "author": "Green spirits"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "11.25.0",
+          "title": "Everything is great!",
+          "body": "Super impressed with everything. The clothes, the ease of use and customer service. Also the AI tools really help with visualizing cool outfits.",
+          "author": "Jelly Bean 4"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "11.25.0",
+          "title": "My Only Way to Shop!",
+          "body": "Started using Stitch Fix when I realized how ‘challenged’ I was when it came to putting together a business casual wardrobe for my new job. The SF stylists sent me versatile pieces that grew my wardrobe not only for work, but for casual and even working out. There is a Stylist Note feature and they will send you specific requests, such as ‘I need some black jeans’. It couldn’t be easier—send back the pieces you don’t want, review the box before it’s sent and select or discard items, even ask for a different stylist (I love my current stylist and choose to keep her each time!) I have never gotten so many compliments and have learned what I like in clothes! Love that you can even shop on your own and the sizes are already built in. And the shoes!! Just be as detailed as possible on the style questionnaire with sizes, preferences and price point. Use the Style Shuffle feature and scroll some clothes and ‘heart’ what you like and you will get even more personalized style.  When my father u",
+          "author": "C4thyAk"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 2,
+          "version": "11.25.0",
+          "title": "Boring made functional",
+          "body": "I’m not happy with most of the items they send just boring and grandmaish I’m a young grandma still working and running a business and want more stylish clothing I will try one more time before I give up",
+          "author": "Lauralee35"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 2,
+          "version": "11.25.0",
+          "title": "Never what I asked for",
+          "body": "Just peeked at next fix. I don’t know why I bother to write suggestions to the person picking my fix, because nothing I say is ever regarded. Pants always shorter than my inseam length. Multiple pants suggested when I rarely wear them in FL. I said no pastels or whites-both in fix. Over age 60 - no knit bodycon dresses or 4” shorts. Hi neckline & sweater fabric not appropriate here in FL, but usually included in fix. Flannel pants even in last fix-for FL??? WTH?! Can the stylist you hire actually read??? I don’t understand why my notes to stylist are ignored. Even AI should do better than this. This will probably be my last fix because it’s not saving me time by suggesting stuff I blatantly told it I did not want. Then I have to waste time driving to FedEx to return it. I tell it my body type, things I hate, the weather here and fix suggests clothing inappropriate for most of it. Is there no one there that can tastefully and cutely style a fun woman over 60?",
+          "author": "Aimless34"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "11.25.0",
+          "title": "Love Stitch Fix",
+          "body": "I have tried other similar services and while those were a little less expensive, the clothes were cheap-looking and routine. Stitch fix designers are creative and provide unique looks and the quality is always high even though the cost is higher than others I have tried.",
+          "author": "Hey Laur"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 1,
+          "version": "11.24.0",
+          "title": "Down Hill",
+          "body": "I have always struggled with Stitch Fix and my style however since they deployed their AI feature it seems to have only gone down hill. No matter how much I interact with selections on the app, “Style for You” seems to be for anyone BUT me. The brands are also questionable, and the selection terrible. I’m increasingly disappointed with Stitch Fix.",
+          "author": "MZemla642"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "11.24.0",
+          "title": "Love Stitch Fix",
+          "body": "I love everything about Stitch Fix! Such an easy way to grow your style and  returning what doesn’t work is an easy process! Try it!",
+          "author": "DentalChic38"
+        },
+        {
+          "date": "2026-10-03",
+          "rating": 5,
+          "version": "11.24.0",
+          "title": "Great job",
+          "body": "I’ve been with stitch fix for 5 years and every time I go to my yayas I look forward for this stitch fix it always makes me confident in myself and everyday people will say \nwhere did you get my cloths from I would proudly say stitch fix I’ve never ever had a bad outfit thank you so so much for making my visits better every weekend",
+          "author": "Sigmaaaaaaaaaaaaaaaaaaaaaaa🤪"
+        },
         {
           "date": "2026-10-02",
           "rating": 4,
@@ -790,208 +881,112 @@
           "title": "Great experience",
           "body": "Everything I bought looks great after a year of wear. I was afraid it would be low quality, but that is not the case! Against the top department stores in my area, the prices are reasonable.",
           "author": "Lhous"
-        },
-        {
-          "date": "2026-09-09",
-          "rating": 1,
-          "version": "11.21.0",
-          "title": "Impossible to cancel",
-          "body": "The app has no way to find your order number. It’s impossible to cancel an impulse choice even within minutes. The app just keeps asking you to choose more and then why you didn’t choose to buy the 5 pairs of jeans with no way to say I don’t want to spend the money just now. \nInfuriating!\npost note: a developer shamed me in an email telling me this wasn’t appropriate. \nWell here’s more: I feel like an elegant, beautiful sticky spiders web. I want out. Stop talking to me. Stop trying to sell me clothes every month who the heck wants to have new clothes every single month your wardrobe can’t take it all to throw it away do you donate it? What do you do? It’s ridiculous\nPlus they send you things when you don’t want it and you have to pay 20 bucks just because an automatic styler bot sent you a package.",
-          "author": "SznArt"
-        },
-        {
-          "date": "2026-09-08",
-          "rating": 2,
-          "version": "11.21.0",
-          "title": "Style Choices & Style Shuffle",
-          "body": "The style options were promising at first but nearly a year into using the service, the results and choices have been disappointing. It’s like the feedback provided through the Style Shuffle is not captured or taken into consideration. I would think that the app would get to know your style by your Likes and Dislikes. And the stylist’s choice are more Miss than Hits. Most of items I’ve purchased were my own selections vs any of the stylists. Overall experience-disappointing.",
-          "author": "LizOre"
-        },
-        {
-          "date": "2026-09-08",
-          "rating": 2,
-          "version": "11.21.0",
-          "title": "Underwhelming",
-          "body": "I have tried Stitch Fix multiple times and haven’t been happy with most items. I ask for pieces that make outfits and are easy to wear. I end up with random pieces that are nothing I like on the shuffle or ask for. The outfits they show on advertisements or not even close to anything I have received. It’s very frustrating.",
-          "author": "Bran30M"
-        },
-        {
-          "date": "2026-09-07",
-          "rating": 5,
-          "version": "11.20.0",
-          "title": "Awesome",
-          "body": "Awesome",
-          "author": "Awesome sauce22"
-        },
-        {
-          "date": "2026-09-07",
-          "rating": 1,
-          "version": "11.20.0",
-          "title": "Welcome to the 1950s….",
-          "body": "Where clothing has gender and things like lifestyle activity lever body shape don’t matter only a generic size and how much you are willing to pay. They ignore the fact that in order to style you knowing what you do day-to-day matters what climate you live in what skin tone you have (for colors), what activities you do. If you don’t wear clothes that conform to your biological gender you’re in the wrong place. This company shovels clothes from brand deals. They don’t actually style you at all",
-          "author": "WhoAreYouExaxtly"
-        },
-        {
-          "date": "2026-09-07",
-          "rating": 5,
-          "version": "11.20.0",
-          "title": "Daily Fun",
-          "body": "Love this app.  I look forward to exploring new looks daily.  I wish there was a way to get a fix and add pieces from the app to get the 25% off if you don’t love 5 pieces in your fix (or if you want to buy more).  I get so many compliments on my outfits.  I LOVE Stitch Fix!  I especially love it because you carry pants and dresses in petite.",
-          "author": "Jcccacicec"
-        },
-        {
-          "date": "2026-09-06",
-          "rating": 5,
-          "version": "11.20.0",
-          "title": "Love!",
-          "body": "I never spend money on clothes, and my wardrobe gets so old. For me, stitch fix is worth it to get quality pieces once a month and build my wardrobe. I can choose items, adjust my sizes, and I generally enjoy my clothes for years. Love stitch fix!",
-          "author": "Latay B."
-        },
-        {
-          "date": "2026-09-04",
-          "rating": 3,
-          "version": "11.20.0",
-          "title": "Fixes",
-          "body": "I feel like my styles are not being met",
-          "author": "micheleruns"
-        },
-        {
-          "date": "2026-09-04",
-          "rating": 3,
-          "version": "11.20.0",
-          "title": "Stitch Fix",
-          "body": "I love the stylist idea but the app was a little confusing 🫤.  Thank you for your services 😁💯.",
-          "author": "Jesuslovesyou39"
         }
       ],
       "news": [
         {
-          "date": "2026-10-04",
-          "title": "SFIX Investors Have Opportunity to Join Stitch Fix, Inc. Fraud Investigation with SBS Law",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTEVpVTRlV29HNmJraEhEbFl5Ym9jeTJNbmlUOV9HTTl0YUwxZmR0RmpaV3I3eHJ0UWZMWlBjME5tMjdTSGxFTVhMNTZaRWNMTS1Ic01rZHhlemlwX0dkVldtU3hIOV9NcDF6NmlhY20xMnlheVQwcEpuZ3JjWDNlUjBweERtOGE3LS1FZS11Y042R0R5SnFncXBZYzlILUVaRXlQX2ZsRjM3YUN2cm1faWl4a00yeWdZMVFBVXBlbzh1ZkFrdTQwck5hYkNQNXpzNndfNmJNN01fb0ZZNGc?oc=5",
-          "source": "Business Wire",
-          "summary": "SFIX Investors Have Opportunity to Join Stitch Fix, Inc. Fraud Investigation with SBS Law &nbsp;&nbsp; Business Wire",
+          "date": "2026-10-10",
+          "title": "Stitch Fix (SFIX) Stock Fair Value Falls After Analysts Cut Growth Expectations",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1FHLVpBeC1PTWhKN1ZHMzBEZTV4bERUUWlCWll5dlZrUi02dmNiYmdKM3BtQW1oSHJTRk05VG41aDJBampIQ2ZZY0J6TkxWSjFRTFVtRFV0TjlYM2RXWW5qV3pENFVuVHpxMnZqRDdTekVrVlVVVWVYWkNhdlhyX3M1clBRMkRIZElkWHV6bmZTVTdpU3c?oc=5",
+          "source": "Yahoo Finance",
+          "summary": "Stitch Fix (SFIX) Stock Fair Value Falls After Analysts Cut Growth Expectations &nbsp;&nbsp; Yahoo Finance",
           "via": "google"
         },
         {
-          "date": "2026-10-03",
-          "title": "UBS maintains Neutral on Stitch Fix, raises target to $4.5",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbE5VVVJFUUpMc0VkTlpQRERCSFRlTkwzenBTY0hqNm5hMWNsSmdTX20yWVFLcGlPRW9MY2YtWFFoQXlUd0duUUk3TnlSazQyWWFSV1VCVDZuMk5YZERJMXdhaElQSF9vZGJBNDFPN3dPM05DRG05Ui1CbWhNZVhBZmNnZFpLdklWb0QwbmdOb0xrU1RRY0JscnpIdHdUaGRLNU1MdzQtNW9aa2lHR1B1TTQ0Zm92ZVZIVUxwTQ?oc=5",
-          "source": "scanx.trade",
-          "summary": "UBS maintains Neutral on Stitch Fix, raises target to $4.5 &nbsp;&nbsp; scanx.trade",
+          "date": "2026-10-09",
+          "title": "SFIX: Better Execution Helps, Client Growth Still Sets The Ceiling",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOWnNyTURqUnk1OHcwVTFxZzlkQldtQnZ3ajJCd1NoQVFuMVcwZjFJUFJvRWV0OEFOZkNKQXVuWmZ2TTM4S0JDZV8wYVlJT0ZyY2MtUmF4UnFmclJtTVFBbDdvYTN5TUZ5SUxLa1hjM1JkZkg4T0l3S01rMURyM3J6X01ydG5ZRExjX0JXMmFLZjh1ZUhxTi11MGFwejVWdDN0OURTMUlNZ25WT0ZlNmZtaEJDcW0yM3hqYzUtX0E5dWtmcFlfTUlqNThlNEpEYzhlTzFvWWNPcUNORFR4dlRTYlpKZXlxY0FxUEtkdkJ0dmFmUGVwNFBFYVI0NFlWcjY0UktPS09ESGdhMXUzLXdUNXB6dmJvcTlJelNiajUyZUJEdEpVXzNhdUk4Q0pUQXJJTU9HR2xEM0FuaGlrVkRSOVFtbVRFODlkSW9JS2NjbjQ?oc=5",
+          "source": "Simply Wall Street",
+          "summary": "SFIX: Better Execution Helps, Client Growth Still Sets The Ceiling &nbsp;&nbsp; Simply Wall Street",
           "via": "google"
         },
         {
-          "date": "2026-10-01",
-          "title": "Stitch Fix management will join a fireside chat in New York on Oct. 8",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0V4dFVHaTU5RTBiX2NFUUU2ejM3LXhNNmlLZUxONmRkb3pnOHRWNnlhdXlvc0RtVmtfTWk1bXIySDBGTXptSjFoWHhwejMxYS1XZU5XWFVFUVVrSThEYTNyaEMzZDJ1WXZwbUtWUy1FeGRlRi1yM3FRYW5OcU1ubWZ1VmJRb3MtWkZBbnEyOHVmX0tGNW54UURvcV9xczdyM1JvWU5WTnE0X0xWXzRRRA?oc=5",
-          "source": "Stock Titan",
-          "summary": "Stitch Fix management will join a fireside chat in New York on Oct. 8 &nbsp;&nbsp; Stock Titan",
+          "date": "2026-10-08",
+          "title": "Stitch Fix at 2026 Global Consumer & Retail Conference: share gains build",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT09FeTRqLUFJV0h0Mk16SzJ3RE5XWno0anQtdUtrTWdBUkdLeGpBSEcyRHdEQUNBTFJ2UFhlNTN6aEp5dFU4MmNWTDdVaHp4VFI3ekFPSUFxYzItSk5PR21iXzJOZm1jMEhIa2dsVHBpQ0FZV1BRVmxtaFFXSnZJMDVNd0J2WF90WGRGUlNjWlo0ekhrbE80U0hVdnlNeHhkaGpOVnk1OWU4YmNValI3SDhKejZiOEJhU3cyMzU3cE1XMzFfcXc?oc=5",
+          "source": "Investing.com",
+          "summary": "Stitch Fix at 2026 Global Consumer & Retail Conference: share gains build &nbsp;&nbsp; Investing.com",
           "via": "google"
         },
         {
-          "date": "2026-10-01",
+          "date": "2026-10-08",
+          "title": "Stitch Fix Conference: AI, Client Retention Fuel Growth Ambitions",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1B4c25JQW9reGRjVlJNV3FPV1hyaDdMXzFLMnhONmVtSnRsY3RWeTBrWUFzTE85ZTRNMnc1Q3pNQmdsZ2w2ZVV0U2VzUzR2MVhhNE5ka0lUQUd2Tm1zZndiZEJkbGhxaDJ5RUYtQ2VMTkJGZzQ5SlhqazZFWjlycVZNN2hGNnZjU0hMWVJRejQzQlF5TzJ5YUladDJOM3VCNWJfaXQtV0Nsa1paTFlpN0ZuZFFkUE9zdTlqVGREY0E?oc=5",
+          "source": "MarketBeat",
+          "summary": "Stitch Fix Conference: AI, Client Retention Fuel Growth Ambitions &nbsp;&nbsp; MarketBeat",
+          "via": "google"
+        },
+        {
+          "date": "2026-10-08",
           "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Stitch Fix, Inc. - SFIX",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcHcyakIyYk40WHBDYUMwV1hqRUhDZVZyYTNUNXViaWlJUFR3VVEtMVVfZnVXT2R6dnpuUGZzMEFCSlNqMjRnUEE5alhraHdGUDEwLWpaM2M1R3lnR0pjaWdzN1ZFMjFuRjI0Nk40Y1NTSkpkNVZIWnAzUXdkWGtCcl9yR190ZVBwSVRuT1dpdDFZRzZGbDNZZmw4T2Q2dnhFWDZ2RlgxZ0lHeDk2a3FaaVE2bnhmQWlfTzdDNXZaajNpamZvQ3RjQlUydzd5Y1FxdW5hc2M5UnZuVlU2N09pdzVGNVVPUUd4c1VGVW1B?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ3NNNGx4NTVhdElOVGMtNXhMb1Zxb0Y5a2k4T1NPTW0tcTl6akdySzZiOUlRcmpCb2pTcGxmV3cxQzlkVmMyOTdlbnhGMnlHRThmVnJnQlVjcW9iOWZGN3Z5Z1YyS3lhcWI2Sm9HcHhBcjM2NTlSNjN1b0VzUERxSzVTSndwZW1xSDdLVlBLWnUwdkVpTzRiMkU3OTZvM1pYZkprbTdZRktpQ09rMGYtS2FhWEhmajJPdGtJUERqb2hLVXU3RFI5cE5Eb0VUeElfbS0tNWJkRzZnamdZYW5Tb2xmV1pteE05UDhqTTBR?oc=5",
           "source": "PR Newswire",
           "summary": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Stitch Fix, Inc. - SFIX &nbsp;&nbsp; PR Newswire",
           "via": "google"
         },
         {
-          "date": "2026-10-01",
-          "title": "A former affiliate proposes selling Stitch Fix (SFIX) shares valued at approximately $132,500.",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUI4eFdHbFlRVTAwVEcwUm5mbXRLYVA3UkN1bGhGTWRSeXJEM0FtMmFqaXppNDJydHVXSFlWVXpvSTlIdGxOU0xocmhzamxwMVRONW4wVlN1YWFXZXdpbElna1VfWS1helF3S19pODR1emh0YTZBMi0xcjBOYVlkUEZEYU1QN3lxTVA5RXlaOUltX2pjSVE?oc=5",
+          "date": "2026-10-08",
+          "title": "Is Stitch Fix's (NASDAQ:SFIX) Retail Turnaround Really Advancing?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3BnUVdrZG1VOXk0VDEtUzBDSUhxM0RuRXpxZm1iQmQxQkpUa0QzdjZfWE5hN21IajdxOEo5eDFzUm8tdkdtM2NsVjhiaDBpdmNEekRmd28zbkFyWUpGRXdJUVNQZnNGRExfNkxWZHJZNTJmR0hDVE5rOWpiVGdITVh6bDFKd3h5bFBtcWZfeW81RW1qVEl1TUFrV1Fkb3JYTER2Z0pnOA?oc=5",
+          "source": "Kalkine Media",
+          "summary": "Is Stitch Fix's (NASDAQ:SFIX) Retail Turnaround Really Advancing? &nbsp;&nbsp; Kalkine Media",
+          "via": "google"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "Stitch Fix highlights 6.4 percent growth and Stitch Fix stock costs EUR 2.39",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0RSY0gtUlVCTzZ2NUtsWXFwVHRJWGRXeEc5NFV5NWNBV3pmRDFPSTZZT3BPVlFzZkRrRWRXNzhGSjhkNk9wWVUtU2ZuTFpYWk9JOU1uR0ZyU0kwVm5oZFZKUHdwTTFPb0QxVjZoSmpRR1Jzc2VMYk8tZzBDdlh4ZXVZM0ptbHREa05xZmxsWnZ3Z01lV2NjUDZ3dkZna3RseTJNTnpWcG9pVjlwY1VNUWVNdXZQY3N3R3pKZjRrRUZtQV9QRV9Hd3U2SC1WakpE?oc=5",
+          "source": "AD HOC NEWS",
+          "summary": "Stitch Fix highlights 6.4 percent growth and Stitch Fix stock costs EUR 2.39 &nbsp;&nbsp; AD HOC NEWS",
+          "via": "google"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "Stitch Fix Inc (NASDAQ:SFIX) Share Price | RNS News, Quotes, & Charts | SFIX |",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xT3FsMVk4OFVFeElPdDNST3FjX2ltRHVXM2ZWUmd4Yy1FZFdFRmNsQTFINERsQzlOcGEteU03MTNJYld5WkJKUGhCTjJrWm1xbnFselF3SnNEejNqRG0tSG5DZnNyYlE4NDVRYUxITjlXTG8?oc=5",
+          "source": "Proactive financial news",
+          "summary": "Stitch Fix Inc (NASDAQ:SFIX) Share Price | RNS News, Quotes, & Charts | SFIX | &nbsp;&nbsp; Proactive financial news",
+          "via": "google"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "Anthony Bacos proposes selling $133K in Stitch Fix (SFIX) shares through Charles Schwab.",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR29KYTdycTJPTUNRYkpVTHVKRWFuMURkTFpHbW1SUjdEbi1HTEh5QWRjZnl1cGhpWWEzNFRvX2J5MlEtVjJ6MkUyUnlDVU9udkVTZW1jZ3RJd0pfeDByYnJ0N2hfRzk0dDFEOWY0UFdyaEJHWUtTTHJCX1JyS2xmX3VwQmxKZWRYSDJPZGtBSlZacHBWLVE?oc=5",
           "source": "Stock Titan",
-          "summary": "A former affiliate proposes selling Stitch Fix (SFIX) shares valued at approximately $132,500. &nbsp;&nbsp; Stock Titan",
+          "summary": "Anthony Bacos proposes selling $133K in Stitch Fix (SFIX) shares through Charles Schwab. &nbsp;&nbsp; Stock Titan",
           "via": "google"
         },
         {
-          "date": "2026-10-01",
-          "title": "Stitch Fix to Participate in 2026 Global Consumer & Retail Conference",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGRoNjFVOVprekVBQXAydFozSmROSU5MOHVmaVpieEZKWWJOc1RBejdXcUcyTUN3dVcxSVRwZU5ucDU4VmEzNTU4eXc4V0hvOWNxN2FndEo1a3ZQbGhvaU9PSTBOd2ptaS12LWZ4X0E4cU1tZmtXQmV3WloteFU0SkVmdHFsa3h6cUNuUlhuQ2xxOUE?oc=5",
-          "source": "01net",
-          "summary": "Stitch Fix to Participate in 2026 Global Consumer & Retail Conference &nbsp;&nbsp; 01net",
+          "date": "2026-10-07",
+          "title": "Stitch Fix stock heads into October 8 conference after fiscal reset",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0lRVXRZczdacE9USkpGYjNjd3hoUmJPMXlUWl9wWVRscnM0OVdDRmdiZ1p5Ujg1c3RrTW5qX1p4YzNNVWdKaXJyMlUyVHdYeHd6VC1BT0tkNjl1NkdFRjVGM3JNVURUdi1tdzZkQkgxQ0JHcWxGUy0wWWVVNnp0a2FmOXhPdVBIOFhvZmVXcGpoS0REMWVHQlQyYUs2bmFnc2NEOERwekpBckpKREF3dFRkUzB6cDVZRjhRcnV1Q29yRldP?oc=5",
+          "source": "AD HOC NEWS",
+          "summary": "Stitch Fix stock heads into October 8 conference after fiscal reset &nbsp;&nbsp; AD HOC NEWS",
           "via": "google"
         },
         {
-          "date": "2026-09-30",
-          "title": "Brokers Set Expectations for Stitch Fix Q1 Earnings",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZtdkx1VmVJa3VhbzNfMENnelZmRHVrRkp0emdjUDlSOXczLTFIUWhaSGg5dlhablBnY1FyTllKejdsTFpmMndLcDhicmIyTW9ueEZWVXF5Zk9LRmZpOHNVT3NhWUdZcksycUJDZjg1TnI1TnJXRDZyM0dSM0ZHanBaeU0yVkhlOUFzZXNhWm44d2xmVUFhbHRPRFY4dVA2b1FEaGlyVGdRbV9ZZHFaRDJXUFVJQQ?oc=5",
-          "source": "MarketBeat",
-          "summary": "Brokers Set Expectations for Stitch Fix Q1 Earnings &nbsp;&nbsp; MarketBeat",
+          "date": "2026-10-07",
+          "title": "Stitch Fix stock gained 2.25 percent on October 7",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjVkYkE4b3JvSjdOTnduamNKQlpHTTV1TUpPUXozdlAxV09zczMyc2RZV2VzR2g3R05MRk9JX2JsTjJoZkZOVzh1UHBYS2JIX2JiOXpUY25Pd1FueXlEUUJJX3hvVGlHUWplZWV0YkxCRGxCbkE2MXlKUjZpMXdrVWc1SHpSM3ZXQ0ZuUUxidlJXUkJQU0RyeUZPRkZxNVZXQjc1V3puME54U0Q4?oc=5",
+          "source": "AD HOC NEWS",
+          "summary": "Stitch Fix stock gained 2.25 percent on October 7 &nbsp;&nbsp; AD HOC NEWS",
           "via": "google"
         },
         {
-          "date": "2026-09-30",
-          "title": "Conferencia de resultados de Stitch Fix (SFIX) del T4 del año fiscal 2026: RPAC récord y perspectivas cautelosas para el año fiscal 2027",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKblZPMmxXN0pHX3hLbUtTcko2aHFrd1IxQ29pOXZIcUt4OHJEOUg2M0paRVRuZmVLSkI1ZmN5OWpseUNLSkY4WUZrblBaRTJUaTdPVThUMEVYajVZczlGcjU0ZE5YaWRSLV9xOUhUczlfcEZWWWc?oc=5",
-          "source": "TradingKey",
-          "summary": "Conferencia de resultados de Stitch Fix (SFIX) del T4 del año fiscal 2026: RPAC récord y perspectivas cautelosas para el año fiscal 2027 &nbsp;&nbsp; TradingKey",
+          "date": "2026-10-06",
+          "title": "What Stitch Fix (SFIX) Could Not Shake, And Where It Is Playing Out Again",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUDVnXzlGaDVtdW9VSTc1Y29jMmVDR2V5S0cxbEtVZTlDUnc3bVFTd2NUVlpzTGNad0JKS3lreVdRdU1LY0IzMS0zMTlPekhDOU5UNlNaYmI?oc=5",
+          "source": "Webull",
+          "summary": "What Stitch Fix (SFIX) Could Not Shake, And Where It Is Playing Out Again &nbsp;&nbsp; Webull",
           "via": "google"
         },
         {
-          "date": "2026-09-29",
-          "title": "Mizuho upgrades Stitch Fix stock rating on limited downside risk",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmZXUThsNmlMcGN6SFloYzFhT0dmMlhuQXJ1eGs5MU9QVjFSdXVITVRrYUl5XzhKOHUxdlNvVm5XeGMxZ1ZXV1ZnY2FuVGxkSDgxZ2hMZklvQTkwWWxadTZGaWt0c0JwZjlYYmdPUWhCUFB0ZGlwbjNPRkhQdklsc2NLdHRMNU1oLTcxUDhhc29PSXdLWjQ3QWlSdG8wMXJoQTZ3ckJSRFdobmp6RzJlOEdzcTdHdzlhSU95ZEFFeTFKQQ?oc=5",
-          "source": "Investing.com",
-          "summary": "Mizuho upgrades Stitch Fix stock rating on limited downside risk &nbsp;&nbsp; Investing.com",
+          "date": "2026-10-05",
+          "title": "Stocktwits Retail Therapy: Consumer Stocks Face Heat But Carnival, Mattel And Stitch Fix Buck The Trend",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV2gzbElONEN3SmtLbXJoNzJVai1lYXdmdjlyc0I4YjV1WUprR2hpR1BFLUtyWXBfZTZZazJZNVNpZ191cXlRZDk5MUhtR3FDY1Fab09ZNkhlaDBOREp4Z0RqajZSZlcwZDk4VGFhX1JYSjdMOURDOXFLYklRRFFobVVuMktRN2tMak8tR2ZyS19MMG5BZENrNFloOF9HZ0JWNHRaS0JqWGl5VFZYWjk1NV80TEYwRFZ1Y1dUMm93S28wOF9wY1lNZFU5QVBkTjg5OHBLd2pnU0lRLTBKTzdyYkFNTnRLM3IxSksySjA0SnZLVFU?oc=5",
+          "source": "TradingView",
+          "summary": "Stocktwits Retail Therapy: Consumer Stocks Face Heat But Carnival, Mattel And Stitch Fix Buck The Trend &nbsp;&nbsp; TradingView",
           "via": "google"
-        },
-        {
-          "date": "2026-09-29",
-          "title": "Stitch Fix (NASDAQ:SFIX) Upgraded to Neutral at Mizuho",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWndndF94SU5LZ0FpZWlsUWxlRmExTTZTV3BzbHcyU0pIMThFUjhraGJqM0pBbE1wd1VvOVJFVndyMmRmQS1ob3hjcGs3aF9Ea09jUWQ0bkFwQXF1aG1STVBsMThnVVNhQVpvbGQ0UTZJNVBJQkxiM0kyMUdwaFF0bkZFRnB0NmNIY0NEQkVPWWdtd0xmNDA0bGVyTXBNdzcxbUNsOHAzdE9UWWxXRktCdG9B?oc=5",
-          "source": "MarketBeat",
-          "summary": "Stitch Fix (NASDAQ:SFIX) Upgraded to Neutral at Mizuho &nbsp;&nbsp; MarketBeat",
-          "via": "google"
-        },
-        {
-          "date": "2026-09-29",
-          "title": "Mizuho Securities Upgrades Stitch Fix(SFIX.US) to Hold Rating, Cuts Target Price to $2.5",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWlaUnV4RVJqRHF1U2k2TjFaa3YxMXI5SThSU0tLNTIzMFZaVFpjT3dKd0ZvVnFWbmF6NU5lNmlKSThYeXpvaUg4U1ZfN1RKYmJ4QUtBbUZfemU3WFJqYVVyU3JxXy1qLUtrbk1mVU5PUVdzQWNfYmhUYVU2S3M0eVhYSU9sbVpwajdfaEdId0N0MHFOVXgycnJDX045VWdiZ3doZGpfZW5Eemwt?oc=5",
-          "source": "Moomoo",
-          "summary": "Mizuho Securities Upgrades Stitch Fix(SFIX.US) to Hold Rating, Cuts Target Price to $2.5 &nbsp;&nbsp; Moomoo",
-          "via": "google"
-        },
-        {
-          "date": "2026-09-29",
-          "title": "Mizuho upgrades Stitch Fix to Neutral after 17....",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGtLUkZOWTNvbUoxcDNJd21UNUFtNW4xTGI5QzRYUllSSms5d3V0SFFGRlBQSkVvd1lvWGI2SWRNemljRURJcHNlS1BFYmNGRy1xWTgyLThLUXU2ME9iVTlPd0pyN0NzSDN4cGpnSmtINWVFNThqT2t6Ml9iM2gtektpb2dXdURoUG5FZjh0cw?oc=5",
-          "source": "Pluang",
-          "summary": "Mizuho upgrades Stitch Fix to Neutral after 17.... &nbsp;&nbsp; Pluang",
-          "via": "google"
-        },
-        {
-          "date": "2026-09-28",
-          "title": "What's Going On With Stitch Fix Stock Monday?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjYzYjJLQWRoaG1kMm1COVRaUi02cWpLRklMeE5tTENFMkxJUVI0bG90ZDBfSkR1OS1SWmpPZFI0b3VMNmZ5WGFPR1dtV2hQZnFINU94UHRYbHo5end0bjM5UDd0dHVPak1lYWFnMWN2V1dfTlZsYk5XYnlBRXdWeGhwRFZaVGJIM0xRc25BUEJ1ek9tUGJOYTdZaVpXSUdRZkhqSzJVRQ?oc=5",
-          "source": "Benzinga",
-          "summary": "What's Going On With Stitch Fix Stock Monday? &nbsp;&nbsp; Benzinga",
-          "via": "google"
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Stitch Fix Stock Plunges as Guidance Puts the Turnaround on Pause",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0tWUVFsMTRjVUdUa1laNFYtQVRjdDRMNGF6ZU0xWUxQZWo3dXpLSDhaSzB6NjlibHFzM0dfSDE0LUlUVzRIUEZLM3paTzN3YVQ5SF9ZRVppS0Q1ZkdzMXRac1kwa1lKdEVnTF9YZGJvbXRJNTVsZ3UxaGxrSFI5U0VhZjAtVmNEZlRxWE0tR1BobDVaa1NHZlJ1NkRGcXRFZ2tnNA?oc=5",
-          "source": "MarketBeat",
-          "summary": "Stitch Fix Stock Plunges as Guidance Puts the Turnaround on Pause &nbsp;&nbsp; MarketBeat",
-          "via": "google"
-        },
-        {
-          "date": "2026-09-28",
-          "title": "SFIX Stock Holds Gains As Earnings Beat Clashes With Soft Outlook",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFdEUzbEp4aTk5eHlNX0MxLWZhdTM4UmpfckRuTmJnZExvU054QTZLczBrYl9jMVhoSDNiNEZITmlZa1NvQTBnLTc5NDJCRTFLdkFMWUI5ZWkza3JxbXRUemk3Umpadm9GbGxCbzhtSkx5SmUzY0E?oc=5",
-          "source": "StocksToTrade",
-          "summary": "SFIX Stock Holds Gains As Earnings Beat Clashes With Soft Outlook &nbsp;&nbsp; StocksToTrade",
-          "via": "google"
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Stitch Fix (SFIX) Fixed its Checkout Mistake. Can it Fix its Shrinking Customer Base?",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2eecb7a6b4a35a72650e125d651cb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fstitch-fix-sfix-fixed-checkout-020446745.html&c=9761802645212691416&mkt=en-us",
-          "source": "Yahoo Finance",
-          "summary": "Stitch Fix, Inc. (NASDAQ:SFIX) has corrected a checkout mistake, but its outlook points to a customer problem that predates the error. Restoring access to repeat orders removes an obstacle. Rebuilding ...",
-          "via": "bing"
         }
       ],
       "website": {
@@ -1012,12 +1007,12 @@
       "market": "global",
       "app": {
         "apple": {
-          "version": "0.2.31",
-          "released_at": "2026-10-01",
+          "version": "0.2.32",
+          "released_at": "2026-10-06",
           "release_notes": "Your wardrobe is hiding in your camera roll, Essembl can now find your clothes in your photos and help you add them to your digital wardrobe. Pick your favorites, rediscover forgotten outfits, and spend less time uploading.\nDrastically improved initial load time of the app",
-          "rating": 4.54385,
-          "rating_all_versions": 4.54385,
-          "rating_count": 4595,
+          "rating": 4.54331,
+          "rating_all_versions": 4.54331,
+          "rating_count": 4653,
           "price": "Free",
           "genres": [
             "Lifestyle",
@@ -1028,6 +1023,22 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-08",
+          "rating": 1,
+          "version": "0.2.32",
+          "title": "Cant cancel!",
+          "body": "I’ve done everything possible and can’t get my money back. I had the app for 5 mins and realize it’s way to complicated",
+          "author": "Woods guada"
+        },
+        {
+          "date": "2026-10-03",
+          "rating": 1,
+          "version": "0.2.31",
+          "title": "False advertisement",
+          "body": "I thought the app will be free",
+          "author": "Theyhaveinvolved"
+        },
         {
           "date": "2026-10-01",
           "rating": 1,
@@ -1411,22 +1422,6 @@
           "title": "too expensive",
           "body": "i am not paying that much to have clothes picked for me!!!! yall should make a free version that gives you 1 outfit a day at max so the user can see if they should buy it or not",
           "author": "Grantl718"
-        },
-        {
-          "date": "2026-08-09",
-          "rating": 5,
-          "version": "0.2.27",
-          "title": "Great Start",
-          "body": "I am really enjoying this app so far! It’s worth the subscription cost IMO. \n\nMy biggest suggestion would be to create a separate category for outerwear and dresses - right now they all go under ‘top pieces’ which doesn’t let you get a really accurate wardrobe breakdown.",
-          "author": "12ah13aw17gh1890"
-        },
-        {
-          "date": "2026-08-07",
-          "rating": 1,
-          "version": "0.2.27",
-          "title": "Botched AI and Limited Styles",
-          "body": "The AI cannot generate images of graphical tees, and it even struggled with some common garments. The app also has no consideration for alternative, punk, and goth styles. The app also didn’t seem to understand I’m a man and kept asking if I would wear dresses and skirts when I was trying to train the AI.",
-          "author": "beefcakeboyman"
         }
       ],
       "news": [],
@@ -1448,12 +1443,12 @@
       "market": "global",
       "app": {
         "apple": {
-          "version": "3.4.116",
-          "released_at": "2026-09-23",
+          "version": "3.4.147",
+          "released_at": "2026-10-07",
           "release_notes": "What to wear? Already sorted.\nPlanner now suggests outfits based on your wardrobe and the weather, so getting dressed feels easier. You can also plan ahead for trips, weekends and events by changing your location.",
-          "rating": 4.66966,
-          "rating_all_versions": 4.66966,
-          "rating_count": 11806,
+          "rating": 4.66917,
+          "rating_all_versions": 4.66917,
+          "rating_count": 11873,
           "price": "Free",
           "genres": [
             "Lifestyle",
@@ -1463,18 +1458,74 @@
           "app_url": "https://apps.apple.com/us/app/whering-your-digital-closet/id1519461680?uo=4"
         },
         "google_play": {
-          "version": "3.4.116",
-          "released_at": "Sep 22, 2026",
+          "version": "3.4.147",
+          "released_at": "Oct 5, 2026",
           "release_notes": "",
-          "rating": 4.428571,
-          "rating_count": 27491,
-          "review_count": 547,
+          "rating": 4.4147725,
+          "rating_count": 27636,
+          "review_count": 546,
           "installs": "5,000,000+",
           "price": 0,
           "app_url": "https://play.google.com/store/apps/details?id=com.whering.app&hl=en&gl=us"
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "3.4.116",
+          "title": "Excelente App",
+          "body": "Me encanta la moda, la organización y la eficiencia… esta app tiene estas tres cosas y la verdad es que me ha ayudado muchísimo en mi día a día",
+          "author": "gab07k"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "3.4.116",
+          "title": "MUST READ",
+          "body": "This is an amazing app I use it everyday but there are some major flaws that have me on the edge first off the photos always turn out bad no matter what and you have to use the coin things to improve them get rid of those!",
+          "author": "carmen34224"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "3.4.116",
+          "title": "SO NEAT & FUN",
+          "body": "I’m having a blast with this app! Reminds me of polyvore!",
+          "author": "Taffychick123"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "3.4.116",
+          "title": "This is my favorite app",
+          "body": "I absolutely love this app!! This has revived my wardrobe, and has turned my slight obsession with clothes into a hobby. The randomize feature is so cool!",
+          "author": "Nickname.00001"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "3.4.116",
+          "title": "Love it",
+          "body": "I love how I can see all my clothes and when I’m busy or not able to make an outfit this app really helps.",
+          "author": "hi im eliana"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 4,
+          "version": "3.4.116",
+          "title": "I’m 40. Fun app. Some bizarre quirks.",
+          "body": "I grant that I am not this app target demographic, as I am a 40 year-old American woman who mostly only goes to church, volunteering, local concerts, and out with my husband and girlfriends. That being said, I find it very weird that there is no option to choose the occasions “church” or “class.” They have about five different versions of dating occasions and even “hangover,”  “baptism,” “graduation,” “maternity,” “gym,” and “work,” so the lack of “church” and “class/lecture” seems like a gap. The app is pretty good at removing backgrounds for free. It suggests some truly bizarre combinations of patterns and clothing that do not together go together, such as a black cardigan with a navy skirt (yes, I correctly tagged those colors on the garments), or a bright blue geometric cardigan with a floral print skirt. But it has also given some good ideas of combinations of garments I had not thought of. I definitely see using this for planning outfits for travel and outings. Some of the featur",
+          "author": "Kimberly888"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "3.4.116",
+          "title": "Tuff",
+          "body": "Lowk a good app",
+          "author": "K8flyfr"
+        },
         {
           "date": "2026-10-01",
           "rating": 5,
@@ -1820,60 +1871,94 @@
           "author": "two-ii"
         },
         {
-          "date": "2026-08-12",
+          "date": "2026-10-09",
           "rating": 4,
-          "version": "3.3.136",
-          "title": "Amazing App!",
-          "body": "I downloaded Whering cause I wanted something to track my closet, and it does exactly that. My only complaints could be it can be confusing to navigate at times, and the pricing for the items is in euros, so unless you use euros or want to calculate the exchange rate on everything in your closet, the estimate of what its worth will be a little off. I would love if they made it so you could choose your currency.",
-          "author": "Waxsolarpanels"
+          "version": "3.4.147",
+          "title": "",
+          "body": "This app is amazing! 😍 I absolutely love the possibilities it offers, especially the opportunity to explore different styling combos. One feature that would make it even better would be a version of the styling dress-me feature that includes a fourth layer for hijabs. 🙏 Rather than limiting the extra layer to outerwear, it would be amazing to have the option to style accessories, including hijabs, so I could build outfits inspired by my hijab and explore different combos!!",
+          "author": "Soumia Hifdi",
+          "thumbs_up": 0
         },
         {
-          "date": "2026-08-12",
+          "date": "2026-10-08",
+          "rating": 1,
+          "version": "3.4.147",
+          "title": "",
+          "body": "it is not working properly",
+          "author": "Vaishnavi Pathak",
+          "thumbs_up": 0
+        },
+        {
+          "date": "2026-10-07",
           "rating": 5,
-          "version": "3.3.136",
-          "title": "I’m Obsessed ✨",
-          "body": "I’ve been looking for something like this for a while and this app not only meets my expectations but has so so many features that I wasn’t even expecting it tracks everything clothes which is perfect If you love fashion like me! Not to mention the community on here is so cool and supportive I love the ability to style mutuals and friends! Anyway my only suggestion is that your different feeds should be able to actually refresh every time I’ve refreshed anything selfie or outfit or even recommended users it doesn’t actually refresh and shows the same 5 everything. Regardless so much love to this app!",
-          "author": "Stargrrrlsrock"
+          "version": "3.4.116",
+          "title": "",
+          "body": "love this app i use it everyday to plan my outfits. it helps me not neglect clothes in my wardrobe too as I can see everything way easier on my phone than in my wardrobe. id love to see an AI feature in the future to help plan outfits, they have same styling aids but they're not particularly useful and I think with all the data they get from us they'd be able to create a great tool!",
+          "author": "Lucy",
+          "thumbs_up": 0
         },
         {
-          "date": "2026-08-12",
+          "date": "2026-10-06",
+          "rating": 4,
+          "version": "3.4.116",
+          "title": "",
+          "body": "still exploring it",
+          "author": "Savar Suneja",
+          "thumbs_up": 0
+        },
+        {
+          "date": "2026-10-05",
           "rating": 5,
-          "version": "3.3.136",
-          "title": "Best Teacher Free Outfit Planner",
-          "body": "This is the best for me not to have to think about what to wear at 6 AM before teaching over 100 children. THANK YOU WHERING!!!!",
-          "author": "estellaangelie1212"
+          "version": null,
+          "title": "",
+          "body": "live laugh love whering",
+          "author": "perin de guzman",
+          "thumbs_up": 0
         },
         {
-          "date": "2026-08-11",
+          "date": "2026-10-04",
           "rating": 3,
-          "version": "3.3.136",
-          "title": "Good but needs improvement",
-          "body": "The app is great but it would be a lot better if you could shuffle through outfits you’ve created by season. I feel like once I’ve created an outfit trying to find what to wear is still difficult",
-          "author": "SASRS4"
+          "version": "3.4.116",
+          "title": "",
+          "body": "it's really good but cant identify A brand nor can it always tell the color. It alo takes a long time to put in all the info. It is really great though",
+          "author": "Imogen Goodman",
+          "thumbs_up": 0
         },
         {
-          "date": "2026-08-10",
-          "rating": 5,
-          "version": "3.3.136",
-          "title": "Best thing ever",
-          "body": "This is the best app ever. No ads or anything like other ones, you don’t have to pay, and it’s actually good. I love this app sm.",
-          "author": "Democracy1499 (rblx usr)"
+          "date": "2026-10-04",
+          "rating": 4,
+          "version": "3.4.116",
+          "title": "",
+          "body": "great app, easy layout and great sorting options. I wish there was am option to send an outfit request, for an occasion. For example, if I needed a beach outfit styled, I could \"post\" that request and people could send in style submissions for the occasion. My only other complaint is that it does not load very well when not using home internet, for me at least.",
+          "author": "Klaire Barnes",
+          "thumbs_up": 0
         },
         {
-          "date": "2026-08-10",
+          "date": "2026-10-04",
           "rating": 5,
-          "version": "3.3.136",
-          "title": "Whering is so recomended!!",
-          "body": "You upload your clothes on the app and you can tag them, this takes a bit but its so easy to pick out outfits! It's like having a dijitalsed closet and not having to try on outfits for the week",
-          "author": "Whering user"
+          "version": "3.4.116",
+          "title": "",
+          "body": "gud",
+          "author": "Hotos Assumi",
+          "thumbs_up": 0
         },
         {
-          "date": "2026-08-09",
-          "rating": 5,
-          "version": "3.3.136",
-          "title": "o….m….g",
-          "body": "I LOVE this app. I have such a hard time choosing my outfits, it saves so much time!! You can randomize outfits and so much more! all you have to do is upload a few photo and BAM, you have tons of different outfits to choose from. Totally 1000% recommend",
-          "author": "🎵✨Jesus loves you!✨🎵"
+          "date": "2026-10-04",
+          "rating": 3,
+          "version": "3.4.116",
+          "title": "",
+          "body": "good for cataloging my wardrobe. i wish the desktop version had more functionality beyond just viewing my items, i want to add product links, images, and prices on desktop. i wish i could view specific items from another person's outfit instead of having to search through their entire wardrobe. i wish it was easier to search for specific styles and that discover people stopped giving the same people.",
+          "author": "dollie heads",
+          "thumbs_up": 0
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 2,
+          "version": "3.4.116",
+          "title": "",
+          "body": "2 stars is a bit exaggerative but I really want to draw attention to a few frustrating hurdles. I have chosen whering as I use an android and an ipad together, which works great, BUT, having to remove 3 incorrect colours, 5 irrelevant tags, and move the item from the wrong category to the right one for every upload really needlessly slows things down. I can't see a way to turn these \"helpful\" features off and they're the main thing stopping me from updating my wardrobe.",
+          "author": "Freya Mckinlay",
+          "thumbs_up": 0
         },
         {
           "date": "2026-10-03",
@@ -1961,6 +2046,15 @@
           "rating": 5,
           "version": "3.4.116",
           "title": "",
+          "body": "I've been trying to save an item to my wishlist 4 times now, I add the name, photo, link, brand, and size and finish the whole process but then it just doesn't save it? I've reloaded the screen every time and tried to exit and re-enter the app but it's just not appearing in my list",
+          "author": "Megan L.G.",
+          "thumbs_up": 0
+        },
+        {
+          "date": "2026-09-26",
+          "rating": 5,
+          "version": "3.4.116",
+          "title": "",
           "body": "lovely",
           "author": "Liul Abriham",
           "thumbs_up": 0
@@ -1972,7 +2066,7 @@
           "title": "",
           "body": "I can't replace images or redo background removal anymore. Doing so results in items no longer having a transparent background, which I can't create outfits with.",
           "author": "Ayame Passe",
-          "thumbs_up": 26
+          "thumbs_up": 25
         },
         {
           "date": "2026-09-24",
@@ -2225,105 +2319,6 @@
           "body": "super fun and interactive",
           "author": "Rory Tate",
           "thumbs_up": 0
-        },
-        {
-          "date": "2026-08-30",
-          "rating": 5,
-          "version": "3.4.33",
-          "title": "",
-          "body": "good",
-          "author": "Ewa Stanisavljevic",
-          "thumbs_up": 0
-        },
-        {
-          "date": "2026-08-29",
-          "rating": 4,
-          "version": "3.4.33",
-          "title": "",
-          "body": "There should be a color corrector settings for clothes you add for example my camera takes pictures a little bit too low contrasty so they look a little bit weird when i upload i wish we could be able to instantly play with some image settings like their brightness hue contrast etc etc.",
-          "author": "nehir",
-          "thumbs_up": 1
-        },
-        {
-          "date": "2026-08-29",
-          "rating": 4,
-          "version": "3.4.33",
-          "title": "",
-          "body": "I'm tired of \"poor internet connection\" error. Everything is fine with my internet connection.",
-          "author": "Anastasia Boiko",
-          "thumbs_up": 1
-        },
-        {
-          "date": "2026-08-28",
-          "rating": 1,
-          "version": "3.4.33",
-          "title": "",
-          "body": "مش بيفتح لازم ايميل دا طتبيق وحش جدا",
-          "author": "Dina Mahmoud",
-          "thumbs_up": 0
-        },
-        {
-          "date": "2026-08-26",
-          "rating": 4,
-          "version": "3.4.33",
-          "title": "",
-          "body": "This is a great app, however you need to set your ai model to pick the colors after the item extraction not in parallel with it.",
-          "author": "Ahmed Saadoun",
-          "thumbs_up": 1
-        },
-        {
-          "date": "2026-08-24",
-          "rating": 3,
-          "version": "3.4.33",
-          "title": "",
-          "body": "I love using this app - it is very addictive to upload items and create outfits. However, I wish there were more category options like 'varsity jacket'. Also, I'd like to be able to filter to see public profiles only so I can make outfits easier for other users. I am glad there are no adds and all the neccesary features are free. EDIT: Also, when you add new brands, you can't search them up afterwards!",
-          "author": "Geet Kang",
-          "thumbs_up": 3
-        },
-        {
-          "date": "2026-08-23",
-          "rating": 3,
-          "version": "3.4.33",
-          "title": "",
-          "body": "all things good , but when try to upload items randomly shows poor internet connection, thats too annoying",
-          "author": "ADEEB PK (MRLX)",
-          "thumbs_up": 0
-        },
-        {
-          "date": "2026-08-23",
-          "rating": 5,
-          "version": "3.4.33",
-          "title": "",
-          "body": "⭐⭐⭐⭐⭐",
-          "author": "Sophie Raap",
-          "thumbs_up": 0
-        },
-        {
-          "date": "2026-08-22",
-          "rating": 5,
-          "version": "3.2.101",
-          "title": "",
-          "body": "I wish this had the option of adding perfumes tho",
-          "author": "Janushi Raichura",
-          "thumbs_up": 1
-        },
-        {
-          "date": "2026-08-21",
-          "rating": 5,
-          "version": "3.3.136",
-          "title": "",
-          "body": "amazing ❤️",
-          "author": "La reina",
-          "thumbs_up": 0
-        },
-        {
-          "date": "2026-08-21",
-          "rating": 3,
-          "version": null,
-          "title": "",
-          "body": "Unfortunately, I had to dock this app a star, and must reiterate my need for updates to be OPTIONAL. The most recent update (that I couldn't use the app at all without installing) made it so backgrounds are no longer removed when I replace an image. Right when I started taking better pictures of all my wardrobe items. :( It is impossible to create outfits with items that don't have a transparent background.",
-          "author": "Nic Calhooligan",
-          "thumbs_up": 0
         }
       ],
       "news": [],
@@ -2347,12 +2342,12 @@
       "market": "global",
       "app": {
         "apple": {
-          "version": "6.39.0",
-          "released_at": "2026-09-30",
-          "release_notes": "- Easier photo picking: tap \"Photos\" on any imported item, or use Auto Scan and Capture on the product page.\n- Faster, more accurate imports from stores and Gmail.",
-          "rating": 4.44214,
-          "rating_all_versions": 4.44214,
-          "rating_count": 5306,
+          "version": "6.41.0",
+          "released_at": "2026-10-08",
+          "release_notes": "- Now we support dark mode\n- Bug fixes and improvements",
+          "rating": 4.44588,
+          "rating_all_versions": 4.44588,
+          "rating_count": 5358,
           "price": "Free",
           "genres": [
             "Lifestyle",
@@ -2772,8 +2767,8 @@
         "pricing_signals": [
           "free"
         ],
-        "content_hash": "52fece129dff46f4",
-        "text_length": 6458,
+        "content_hash": "8b361500db0eae9f",
+        "text_length": 6372,
         "text_head": "Acloset — Your AI-Powered Smart Closet Features Magazine About FAQ Announcements Chrome Extension English English Русский Español Français Português Deutsch 한국어 日本語 简体中文 繁體中文 Italiano Nederlands Polski Українська Türkçe Bahasa Indonesia العربية Tiếng Việt Download App Features Magazine About FAQ Announcements Chrome Extension English English Русский Español Français Português Deutsch 한국어 日本語 简体中文 繁體中文 Italiano Nederlands Polski Українська Türkçe Bahasa Indonesia العربية Tiếng Việt Download App G"
       },
       "community": []
@@ -2788,9 +2783,9 @@
           "version": "9.8.3",
           "released_at": "2026-09-26",
           "release_notes": "Finally here: sort your items and outfits by Most and Least Recently Worn — so you always know what you've been reaching for, and what's been quietly waiting. Both views are also now woven into your Dashboard.\n\nAlso new: a weekly calendar view on the Today tab to see your full week of outfits at a glance. And Refine — write a quick prompt on any Enhanced image and we'll take it exactly where you want it.",
-          "rating": 4.7628,
-          "rating_all_versions": 4.7628,
-          "rating_count": 1602,
+          "rating": 4.76316,
+          "rating_all_versions": 4.76316,
+          "rating_count": 1613,
           "price": "Free",
           "genres": [
             "Lifestyle",
@@ -2801,6 +2796,78 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-09",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "Obsessed",
+          "body": "Took a hot minute to upload everything but my wardrobe choices are completely next level",
+          "author": "Crankymamabear"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "Fav app",
+          "body": "Best app for closet management, they consistently make the app better.",
+          "author": "Emseaver"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "So helpful!",
+          "body": "The free version of the app has so many features. It has helped me get control of my closet and define my own style.",
+          "author": "Dfr1019"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "changed how I get dressed",
+          "body": "I love this app so much and can’t recommend it enough. I even pay for the premium version! \n\nIndyx allows me to build more thoughtful, intentional outfits and to hone my personal style, all while being genuinely fun to use. I’ve turned at least 3 people onto it and they love it too. \n\nMy only suggestions: notifications for when your friends like your outfit, notifications for when friends post new outfits (I have to manually check), easier way to bulk tag outfits and items (I gave up on the tags feature because of this), and bulk add for adding to collections",
+          "author": "ingydar2032"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "Super helpful!",
+          "body": "When tempted to buy, I get into Indyx and style instead. Great for categorizing, organizing, styling, and experimenting. Thank you for the great app experience!",
+          "author": "AKprincesswarrior"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "Love this game lol",
+          "body": "You get to play paper dolls with your own closet. It is a bunch of work but it’s worth it",
+          "author": "Man lady's"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "The Most Useful App I Use",
+          "body": "I love using Indyx.  By helping me visualize outfits and see what is in my wardrobe, I can be more creative with style while not wasting a ton of money on new clothes.  To be able to plan outfits in advance and have them shown on the calendar is incredibly useful.  For someone like me who hates clothes shopping while simultaneously wondering why my style sucks, Indyx is so helpful by enabling me to see outfits without me actually having to try things on.  I love that.",
+          "author": "MsmashM"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "Game changer",
+          "body": "Love the app and the paid version. It has changed how I buy clothes, and helped me develop a better idea of what I do and don’t like and why. It’s helped break the cycle for me that “this next item” will be the one that makes everything work or helps me achieve “that look”. Overall I am just buying less and enjoying using the clothes I have more.",
+          "author": "Alejandra324"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "9.8.3",
+          "title": "Please let us access outfit details from the calendar! (Otherwise, my fave app)",
+          "body": "I am obsessed with this app. It’s helped me wear forgotten pieces and made my mornings much smoother. I’ve even replaced some of my online shopping time with creating outfits out of what I already own. It really is kind of like Cher’s closet. One thing - I REALLY wish you could get to outfit details through the calendar. It drives me crazy I can’t open an outfit from my calendar view.",
+          "author": "Umichchs"
+        },
         {
           "date": "2026-10-03",
           "rating": 5,
@@ -3128,78 +3195,6 @@
           "title": "Love - add batch edit!",
           "body": "This app is transforming my relationship to my wardrobe. Love it. Requesting a batch edit feature. It would save so, so much time !!",
           "author": "updownsidewaysSF"
-        },
-        {
-          "date": "2026-08-28",
-          "rating": 5,
-          "version": "9.8.0",
-          "title": "Love",
-          "body": "I love Indyx! Helps so much with morning outfit decisions, smarter packing, styling creativity, and having fun with clothes without mindless shopping.",
-          "author": "skb729"
-        },
-        {
-          "date": "2026-08-28",
-          "rating": 5,
-          "version": "9.8.0",
-          "title": "Can’t live without it",
-          "body": "Indyx has been such a game changer for me and is now part of my daily routine. It’s made getting dressed a fun creative outlet for me again and helped me to rediscover my personal style!",
-          "author": "harlyjaned"
-        },
-        {
-          "date": "2026-08-27",
-          "rating": 5,
-          "version": "9.8.0",
-          "title": "Easy to use and usefull",
-          "body": "Love to play around with my closet and do a better use of my own clothes",
-          "author": "Vanmorais71"
-        },
-        {
-          "date": "2026-08-27",
-          "rating": 5,
-          "version": "9.8.0",
-          "title": "So much fun!",
-          "body": "I love this app. So many free features and it really helps you explore your sense of style—and get more use out of your clothes!",
-          "author": "MissLynzie"
-        },
-        {
-          "date": "2026-08-27",
-          "rating": 2,
-          "version": "9.8.0",
-          "title": "blurry pics",
-          "body": "I really hate that the app destroys the quality of pictures you upload to try and get you to buy the enhance feature. It’s almost making the app unusable.",
-          "author": "uritza"
-        },
-        {
-          "date": "2026-08-26",
-          "rating": 5,
-          "version": "9.7.0",
-          "title": "You don’t need Premium to love it",
-          "body": "I have been using Indyx and it’s outfit making feature, it’s style quizzes, and its wardrobe guide blog for a little over a month, and its wardrobe works. If you are willing to assess the real problems in your wardrobe to make a substantial difference, use every feature of this app. It was designed to actually help you, not trick you out of your money. You get a free trail of Indyx for two weeks, which is really helpful for starting a habit, but after that, you can use everything you need to fix your wardrobe without it. Like most things, if you don’t want to put the effort in, it won’t be as helpful, but anyone looking to escape fast fashion should start here. Could not recommend more!",
-          "author": "Genevieve{}"
-        },
-        {
-          "date": "2026-08-26",
-          "rating": 5,
-          "version": "9.8.0",
-          "title": "Obsessed with this app",
-          "body": "It takes some time to build out your digital wardrobe, but once you do it is the best tool for packing, planning, etc. can’t give them enough stars!! Love the ability to forward emails for closet creation too",
-          "author": "mcmollyy"
-        },
-        {
-          "date": "2026-08-25",
-          "rating": 5,
-          "version": "9.7.0",
-          "title": "Great visual for outfits",
-          "body": "This is a great app that displays closet items with high detail and accurate colors which makes it easier to see how items will look in an outfit. Outfits are easy to save. Each item can have its own outfits as part of the item’s content which makes the outfit (s) easy to locate.",
-          "author": "keep an eye on things"
-        },
-        {
-          "date": "2026-08-25",
-          "rating": 5,
-          "version": "9.7.0",
-          "title": "Great App",
-          "body": "I use Indyx every day and never have to worry about what I’m going to wear. The social aspect (other people styling you/styling others) is also fun!",
-          "author": "Hoodiesandheadbands"
         }
       ],
       "news": [],
@@ -3221,8 +3216,8 @@
       "market": "global",
       "app": {
         "apple": {
-          "version": "3.0.6",
-          "released_at": "2026-09-28",
+          "version": "3.0.7",
+          "released_at": "2026-10-05",
           "release_notes": "This update includes bug fixes, and performance improvements.",
           "rating": 4.51246,
           "rating_all_versions": 4.51246,
@@ -3470,7 +3465,7 @@
         "pricing_signals": [
           "free"
         ],
-        "content_hash": "ed3295700acd5bff",
+        "content_hash": "7549a3a89b7aa922",
         "text_length": 8728,
         "text_head": "Save Your Wardrobe | The Global Standard for End-to-End Aftersales Solutions | Save Your Wardrobe We are the global standard for end-to-end aftersales solutions, powering every service beyond the point of sale. Our platform streamlines the entire post-purchase ecosystem—covering repairs, care, alterations, warranties, logistics, exchanges, compliance, customer experience, and data reporting. We give brands the infrastructure to operate efficiently, deliver exceptional customer experiences, and u"
       },
@@ -3486,9 +3481,9 @@
           "version": "10.1",
           "released_at": "2025-06-15",
           "release_notes": "10.1:\n\n- Choose between light, dark and system color schemes in the Settings screen\n- Exclude archived items from color stats and from the clothing search\n- Restore support for simultaneous pinch and drag of outfit components\n\n- Bugfixes (Thank you for reporting them!)\n  - Fixed an issue previewing certain clothing thumbnails while adding to an outfit\n  - Translation fixes\n  - Sync banner on Home screen will only be shown three times\n  - Fixed missing notification icon on shopping screen\n  - Fixed layout problem with outfit shuffle results\n  - Restored missing Print option for packing lists\n  - Made it harder to accidentally close Advanced Edit\n  - Fix issue with outfit layout on iPhone 12 mini and iPhone 13 mini\n  - Fix bug where clothing properties were not saved in certain cases when using Multiple Import\n  - Fix \"error encoding outfit components\" warning\n  - Packing list checklists and infographics are now grouped by category\n  - Fix for sending email when Apple Mail is not the default mail app\n\nAs always, if you have any feedback or need help with anything, please contact support@stylebookapp.com - we'd love to hear from you!\n\n10.0:\n\nWelcome to Stylebook 10, our most extensive update ever with 30+ new features. This update is the glow-up Stylebook needed! We’ve enhanced the core features, while still maintaining what customers love about the app.\n\nHere's the list of what's new:\n\nSYNC:\n- Automatically sync data between your devices with iCloud Sync\n- Restore your app data if you accidentally delete the app\n\nLANDSCAPE SUPPORT ON IPAD\n\nARCHIVE\n- Exclude items from Style Stats & protect your calendar streak!\n\nINSTAGRAM\n- Share your outfits directly to Instagram\n\nAI IMPORT TOOLS:\n- AI background removal: instantly cut out clothing items without any special background\n- Generate clothing images with AI*\n- Fix old images with \"Clean Up\"\n- Multiple-import tools with simultaneous background removal & bulk categorization\n\nIMPROVED IMPORT TOOLS:\n- Drag and drop photos fro",
-          "rating": 4.67806,
-          "rating_all_versions": 4.67806,
-          "rating_count": 8837,
+          "rating": 4.67835,
+          "rating_all_versions": 4.67835,
+          "rating_count": 8845,
           "price": "$4.99",
           "genres": [
             "Lifestyle",
@@ -3499,6 +3494,30 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-09",
+          "rating": 5,
+          "version": "10.1",
+          "title": "Closet at my fingertips",
+          "body": "Easy to use. Great for planning outfits for travel and everyday.",
+          "author": "Sue Sturr"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "10.1",
+          "title": "Transformed how I view my wardrobe",
+          "body": "I’ve used this app for years. I don’t think I’m exaggerating when I say it will change your life. I know exactly what I own, and more than once it has stopped me from the folly of buying something that duplicates what I already own. I can see patterns like which items I reach for the most and which items I should probably donate or sell. Dressing in the morning has become a pleasure rather than a frustrating “I have nothing to wear” experience. I also plan packing lists which makes packing so organized and easy. Could be my single all-time favorite app.",
+          "author": "東京都民1001"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 4,
+          "version": "10.1",
+          "title": "Love This App",
+          "body": "This is a great app for organizing your wardrobe, tracking cost per wear, and creating packing lists.   I use it everyday and generally love it.   What could be improved, connecting the closet and looks better.   If you delete an item from your catalog, if it was ever used in a look, it will keep popping back up in my inventory which is super annoying.   Lastly, I wish the developers would find a way to do with pictures what Indyx does and convert your picture or list purchases into clear, nice pictures that are edited beautifully.",
+          "author": "hmpeterson"
+        },
         {
           "date": "2026-09-28",
           "rating": 4,
@@ -3874,30 +3893,6 @@
           "title": "Developers PLEASE make another version of this app",
           "body": "This app has been a game changer and I love it. Now I just need developers to make a household inventory version!",
           "author": "Samantha Beeeeeee"
-        },
-        {
-          "date": "2025-11-10",
-          "rating": 4,
-          "version": "10.1",
-          "title": "Love love love, with one caveat/feature request",
-          "body": "This app is very helpful and works beautifully. The only disappointment is that I wish you could filter your closet from the closet view, without having to use the search feature. When I’m planning my outfits from the closet view on a daily basis, I would really like to have my stored, archived, or otherwise separated clothes filtered out so I can’t see them. That way the closet view has the ability to accurately reflect what’s physically hanging in my closet at any given point in time.",
-          "author": "Elezeer"
-        },
-        {
-          "date": "2025-11-06",
-          "rating": 5,
-          "version": "10.1",
-          "title": "Love it",
-          "body": "Fabulous app for those who love fashion and want to get to the most out of their clothes and accessories. It does require a decent amount of effort to get things entered and make looks. But have already seen the “fruits of my labor” wearing more stylish looks regularly. Excited to see future updates and enhancements roll out. Would love a web version just to be able to manage on another channel.",
-          "author": "Neon Dian"
-        },
-        {
-          "date": "2025-11-03",
-          "rating": 1,
-          "version": "10.1",
-          "title": "Wrong app for Men. Look for \"Stylebook Men\" instead.",
-          "body": "Purchased this to start tracking my closet, but saw  several typically female-gendered categories such as \"dresses\" and \"heels\" but missing typically male-gendered categories like \"suits\" or \"dress shoes\". Couldn't find an option to change category names or add new ones, or an option in settings that would switch. Upon further research there's another app called \"Stylebook Men\" that has these categories but is a separate app with a separate purchase.  Unfortunately it seems that Apple doesn't allow refunds for this app.",
-          "author": "wptvrn"
         }
       ],
       "news": [],
@@ -3919,12 +3914,12 @@
       "market": "global",
       "app": {
         "apple": {
-          "version": "1.10.227",
-          "released_at": "2026-08-27",
+          "version": "1.10.228",
+          "released_at": "2026-10-05",
           "release_notes": "We’re constantly improving Style DNA to make your experience even better.\n\n• Performance improvements and bug fixes\n• Enhanced app stability and reliability\n• Small UI and usability refinements\n\nUpdate now to enjoy the latest improvements.",
-          "rating": 4.29111,
-          "rating_all_versions": 4.29111,
-          "rating_count": 7492,
+          "rating": 4.29187,
+          "rating_all_versions": 4.29187,
+          "rating_count": 7500,
           "price": "Free",
           "genres": [
             "Lifestyle",
@@ -3935,6 +3930,14 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "1.10.227",
+          "title": "Great",
+          "body": "Obsessed with the try on feature!! It actually looks realistic and helps me visualize fits before buying.",
+          "author": "JussTiN147"
+        },
         {
           "date": "2026-09-25",
           "rating": 5,
@@ -4326,14 +4329,6 @@
           "title": "Unauthorized charges!!",
           "body": "Was charged almost $60 over three months despite deleting the app after 5 minutes. I did not sign up for a subscription or authorize charges. They won’t give me a full refund. There was no way to cancel through Apple since I never signed up and don’t even have the app! I had to email them and jump through hoops to even get a partial refund. Do not fall for this app!!!!",
           "author": "TorFor413"
-        },
-        {
-          "date": "2026-01-30",
-          "rating": 5,
-          "version": "1.10.216",
-          "title": "Game changer for my wardrobe!",
-          "body": "I LOVE this app — it has totally transformed my closet. The outfit suggestions help me see combinations I never would’ve thought of on my own, and I feel like a more empowered, confident, best version of myself every time I get dressed. It makes organizing and styling my wardrobe fun and effortless. Highly recommend for anyone who wants clarity and confidence in their style!",
-          "author": "Reneemarieash"
         }
       ],
       "news": [],
@@ -4698,9 +4693,9 @@
           "version": "3.8.3",
           "released_at": "2025-11-10",
           "release_notes": "* Fixed the sign-in error issue for Apple account.",
-          "rating": 4.41529,
-          "rating_all_versions": 4.41529,
-          "rating_count": 4344,
+          "rating": 4.41496,
+          "rating_all_versions": 4.41496,
+          "rating_count": 4345,
           "price": "$2.99",
           "genres": [
             "Shopping",
@@ -4710,7 +4705,408 @@
           "app_url": "https://apps.apple.com/us/app/smart-closet-your-stylist/id1198057728?uo=4"
         }
       },
-      "reviews": [],
+      "reviews": [
+        {
+          "date": "2026-10-04",
+          "rating": 3,
+          "version": "3.8.3",
+          "title": ":(",
+          "body": "i really liked the app and i paid for my stuff to be saved safely but i changed my phone and when i logged in my account my clothes were there but i can’t see them it just looks like they’re loading but they just don’t show and i don’t think they will :/ so i’ll have to uninstall it",
+          "author": "diann0o"
+        },
+        {
+          "date": "2026-08-09",
+          "rating": 4,
+          "version": "3.8.3",
+          "title": "Good App, Sign In/Out Could Be More Intuitive",
+          "body": "I like the app but I am currently struggling to find a way to sign out of the app so I can log in with the correct account. I even went so far as to delete and reinstall the app. It just signed me in under the wrong account automatically.",
+          "author": "PcLoadLetter29"
+        },
+        {
+          "date": "2026-07-12",
+          "rating": 3,
+          "version": "3.8.3",
+          "title": "Filter no longer works",
+          "body": "I’m not sure if there was an update or something, but when I’m trying to create a look, you can no longer filter by category. There’s a little check mark next to my category that says all to have to scroll through hundreds of items to try and find the type of thing I’m looking for is really no longer worth it. Can this bug be fixed please. I love the app otherwise",
+          "author": "Susan9787"
+        },
+        {
+          "date": "2026-05-04",
+          "rating": 5,
+          "version": "3.8.3",
+          "title": "Great app!",
+          "body": "Helps me keep my closet organized. Love the google search feature for importing images. Could use more streamlined editing and sorting though! There is no sort option.",
+          "author": "Gnhrcvkoj"
+        },
+        {
+          "date": "2026-03-10",
+          "rating": 1,
+          "version": "3.8.3",
+          "title": "Too much data sharing",
+          "body": "I feel that smart closet needs too much of our personal identifiers and so today I switched to a more privacy forward option option,",
+          "author": "GG245777543236"
+        },
+        {
+          "date": "2026-03-09",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Does not work anymore on iPad",
+          "body": "BUYER BEWARE! There is no longer customer service support. You can lose access to your data because there isn’t a way to access without the app.\n\nThe app has stopped allowing sign-in on iPad.",
+          "author": "Littlevulcan"
+        },
+        {
+          "date": "2026-02-04",
+          "rating": 1,
+          "version": "3.8.3",
+          "title": "What's the Point",
+          "body": "I completely couldn't believe that 2 years of collecting images for this app was gone in an update. The Pro Version is linked to my Facebook and it won't log in. \n\nI understand that apps sometimes do not care, right? However, the company won't even answer emails regarding this matter. What's the point of taking our money but not giving the dedicated users an heads up? This is tragic and neglectful of Rabbit Tech.",
+          "author": "D. Ni'Cole"
+        },
+        {
+          "date": "2025-12-28",
+          "rating": 1,
+          "version": "3.8.3",
+          "title": "Fix the categories please!!",
+          "body": "Categories are not showing up creating a set. Please fix this! Will give 5 stars when the categories are back functioning.",
+          "author": "liarae21"
+        },
+        {
+          "date": "2025-12-18",
+          "rating": 4,
+          "version": "3.8.3",
+          "title": "Helps me organize my outfits for the week!",
+          "body": "Love this app but reordering a LookBook Collection changes the order in other LookBook Collections.",
+          "author": "Si-Si Girl"
+        },
+        {
+          "date": "2025-12-01",
+          "rating": 1,
+          "version": "3.8.3",
+          "title": "Lost all my data",
+          "body": "I was suddenly logged out of my account and all my data is gone. I previously paid to have my data backed up, yet none of it is loading back when I attempt to log back into my account. I am missing my entire closet and lookbook, both of which I have accumulated over the course of years. I am hoping there’s a way to restore everything!!!!! Seems like a lot of people are dealing with this",
+          "author": "remy777dibs"
+        },
+        {
+          "date": "2025-11-23",
+          "rating": 1,
+          "version": "3.8.3",
+          "title": "Lost all my data",
+          "body": "Terrible app , I paid used it for a year, it’s a lot of work to add items over a year, all the wardrobe items disappeared… there’s no contact to reach to fix this issue , I don’t recommend",
+          "author": "mel0710"
+        },
+        {
+          "date": "2025-11-19",
+          "rating": 5,
+          "version": "3.8.3",
+          "title": "REVISED — Login works again!",
+          "body": "REVISED — Tried to log in last night & was able to access my closet. So happy I didn’t have to start from scratch with another app. Thanks for fixing the issue!\n\nLoved this app. Had spent hours over the years organizing my clothing as I lost 7 dress sizes. The app’s framework has reached its End Of Life as of Sept. 30, 2025. Emailed the developer about it but never received an answer.",
+          "author": "Tax 81"
+        },
+        {
+          "date": "2025-11-18",
+          "rating": 2,
+          "version": "3.8.3",
+          "title": "All My Account’s Data Disappeared",
+          "body": "I love this app, but with the most recent update I was signed out and when I signed back in all my accounts data was missing. Where did it go?? I had it backed up to an Apple ID account. My wardrobe entries and outfit collages are gone and I want them recovered! Reached out to support via email but haven’t gotten a response. Please help!",
+          "author": "eeb1999"
+        },
+        {
+          "date": "2025-11-15",
+          "rating": 3,
+          "version": "3.8.3",
+          "title": "PLEASE FIX CATEGORIES IN COLLAGE",
+          "body": "Before the app was disabled for sign in at the end of September this year, everything worked fine. Happy that the sign in is back but now when building a collage & going to filter by categories…none appear! This makes the app almost unusable because the main point is to build outfits & being able to filter by category is a key component of building at outfit. \n\nPLEASE PLEASE FIX",
+          "author": "noname3457543"
+        },
+        {
+          "date": "2025-11-14",
+          "rating": 4,
+          "version": "3.8.3",
+          "title": "Log in fixed!",
+          "body": "Finally able to log in with my Apple account & everything was saved in my closet",
+          "author": "CB7704"
+        },
+        {
+          "date": "2025-11-09",
+          "rating": 1,
+          "version": "3.8.2",
+          "title": "Latest update erased my closet",
+          "body": "I’ve used and loved this app for many years but the most recent update deleted everything but my profile pic",
+          "author": "Awkward Rube"
+        },
+        {
+          "date": "2025-11-08",
+          "rating": 1,
+          "version": "3.8.1",
+          "title": "App randomly crashed and deleted everything!",
+          "body": "This was one of my favorite, most convenient app until it started glitching and randomly signing me out of my account so certain clothing items I’d added would disappear. Eventually that glitch would start to happen more often and I began to get annoyed. However after having the app for years and inputing and editing thousands of clothing pieces, the app crashed and deleted everything from my account. I am very upset and don’t think I will be using this app again considering how much energy and time it took to input every clothing piece to begin with.",
+          "author": "yograndmammasmamma"
+        },
+        {
+          "date": "2025-11-07",
+          "rating": 1,
+          "version": "3.8.1",
+          "title": "New update Nov 2025 still not working!",
+          "body": "This app used to be good. And with my previous review it needed an update. Well unfortunately, it only worked for iPhone and not the iPad. And even with the update my entire closet that already existed is still missing. I was able to restore my purchase of the Pro version. I am writing this here because the company never responds to customer emails. So even though it’s a start, they still have a lot of work to do.",
+          "author": "Bossa Bella"
+        },
+        {
+          "date": "2025-11-03",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Make it work again",
+          "body": "I loved this app, but like another reviewer I got logged out and can’t log in again. I tried on my iphone, my mac and nothing. I even tried their website and was able to log in, but can’t see any of my clothes. It’s incredibly frustrating because I paid for both IOS and desktop apps, spent so much time curating everything and now I can’t even get a reply from the app’s developer.",
+          "author": "Fla617"
+        },
+        {
+          "date": "2025-11-01",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "FIX SIGN IN AND BACKUP PLEASE!!",
+          "body": "I’ve spent so much time and energy into my closet and I’m worried that it’s all gone :(",
+          "author": "iammas2"
+        },
+        {
+          "date": "2025-10-27",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "NO LONGER SUPPORTED",
+          "body": "DO NOT DOWNLOAD THIS APP OR MAKE ANY PURCHASES. THE DEVELOPER NO LONGER SUPPORTS THIS APP SO YOI ARE WASTING YOUR TIME DOWNLOADING IT. \n\nTHIS APP IS A SCAM. THERE WAS NO COMMUNICATION TO USERS THAT THE APP WAS BEING SUNSET. THOSE OF US WHO PAID FOR DATA TO BE BACKED UP WERE ROBBED. THERE WAS NO COMMUNICATION FROM THE DEVELOPER TO WARN USERS OF APP DELETION. ALL DATA WAS LOST. \n\nSCAM. SCAM. SCAM. SCAM. SCAM. SCAM. SCAM. SCAM.",
+          "author": "mckimyhk"
+        },
+        {
+          "date": "2025-10-23",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Can’t log in anymore",
+          "body": "After years of use and so much time used to photograph, upload, create looks the app simply doesn’t work anymore. Emailed the company many times and never got a response.",
+          "author": "Jolowndes"
+        },
+        {
+          "date": "2025-10-21",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Logged out and won’t log me back in",
+          "body": "Used this to organize costumes for my high school dance program. The app logged me out and now won’t allow me to log in. I have lost 100+ hours of work.",
+          "author": "Please Fix!!! There's a bug"
+        },
+        {
+          "date": "2025-10-21",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Complete Developer Failure",
+          "body": "MongoDB (the service that allows for cloud syncing data as well as signin) announced end-of-life support for applications— and the developers did not warn a single person that this would mean all app data would become inaccessible and login would fail going forward. \n\nI’d been using this app for five years— every single item in my closet had been added, I use it for packing/planning every day, and now I have lost all of my data forever. \n\nThis is a HUGE failure that reflects the developer’s lack of care for its users and for maintaining the app. This app should be banned from the App Store. Anyone who paid for Pro should immediately demand their money back.",
+          "author": "nalehuu"
+        },
+        {
+          "date": "2025-10-20",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Can’t log in anymore",
+          "body": "I can’t login to this app anymore, no support available",
+          "author": "Lberedagizaw"
+        },
+        {
+          "date": "2025-10-19",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Lost everything",
+          "body": "Updating my rating now to 1⭐️ as the app now will no longer log me in. I have lost everything; years of uploading garments, creating outfits, and making packing lists and calendars all down the drain. If you’re looking at downloading this, RUN. Run fast and run far from this smoldering pile of ashes of a once great app.  \n\n\nOld review: I recently opened the app to make a packing list and noticed many of my items and looks were missing. I checked a prior packing list and sure enough they were there, but missing from the main pages and unselectable in packing lists! It’s like the data is present but corrupt. SmartCloset devs please look into this! Please!!!\n\nETA: upon further review it appears if the look is on your calendar, it likely will be unavailable on the main lookbook page",
+          "author": "Himlerita"
+        },
+        {
+          "date": "2025-10-18",
+          "rating": 3,
+          "version": "3.7.1",
+          "title": "Suddenly logged out",
+          "body": "I love this app and was using it for years. I put in a lot of effort taking pictures of every single clothing piece i own. Then suddenly about a week ago, i got logged out of my account and haven’t been able to log back in, therefore losing access to all my closet and outfit combinations. Very frustrating and sudden with no easy way to contact support and get help.",
+          "author": "FarahMikhail"
+        },
+        {
+          "date": "2025-10-14",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Feel scammed. Stopped working with no warning and no opportunity to  back up data",
+          "body": "I have used this app regularly for several years and loved it, but suddenly it logged me out and wouldn’t let me log back in. It seems the app and website is not supported any more but there was absolutely no communication about this. I feel scammed because I paid for pro specifically to be able to download my backed up data and never even had the chance.",
+          "author": "Hhrs07"
+        },
+        {
+          "date": "2025-10-12",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Is the app gone?! What's going on?!! Can't log in",
+          "body": "I've been using this app for a few years now. I even use it for work- out of the blue stopped working, no access, no pictures,no info available, shows an error message. no customer service e-mail what's going on!?!!",
+          "author": "RoxMoix"
+        },
+        {
+          "date": "2025-10-11",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Stopped working :(",
+          "body": "Used to be an app I’d recommend to everyone but the login through gmail has stopped working. This app was one I used daily. Sad to have to find another app!",
+          "author": "Rock&roll2"
+        },
+        {
+          "date": "2025-10-07",
+          "rating": 2,
+          "version": "3.7.1",
+          "title": "I love the app",
+          "body": "I have been using the app for over 6 years now, but I can’t log in anymore. I used to log in through my Gmail but now it just keep loading! help, I don’t want to loose my entire closet completely. I paid for the pro version, so I can access my backup. But it seems like it’s data base is gone😤",
+          "author": "D_O534"
+        },
+        {
+          "date": "2025-10-07",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Impossible to Log In",
+          "body": "I was a loyal user since ~2020. For whatever reason, I have been logged out and there is no way to check my account, even on browser!",
+          "author": "_/\\/\\_O"
+        },
+        {
+          "date": "2025-02-21",
+          "rating": 2,
+          "version": "3.7.1",
+          "title": "Pretty good but",
+          "body": "Love this app! However I am running into an issue where when I go to upload a photo, nothing will load. I have uninstalled and reinstalled and it still does it :(",
+          "author": "jesstopolewski98"
+        },
+        {
+          "date": "2025-01-10",
+          "rating": 5,
+          "version": "3.7.1",
+          "title": "Great in-app web browser",
+          "body": "The in app web browser is amazing, remembers your Google account and everything. Great for looking up clothes",
+          "author": "squirrel.girl"
+        },
+        {
+          "date": "2025-01-03",
+          "rating": 3,
+          "version": "3.7.1",
+          "title": "Great but",
+          "body": "I just recently purchased the Pro account where I can sync to my other devices. However, my subcategories have been lost. I can still see them when I click on a specific item, however, that subcategory does not show up.",
+          "author": "emmmaaalu"
+        },
+        {
+          "date": "2024-11-18",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Waste of time",
+          "body": "this app deleted my entire closet and all the looks i created. no reason. i hate it",
+          "author": "Ajeburrah"
+        },
+        {
+          "date": "2024-07-27",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "DO NOT USE THIS APP",
+          "body": "I just lost multiple years worth of work when I tried to follow the instructions to back up the app so I could put it on my new tablet. Literally everything is gone. I’m begging you guys to use a different app so you don’t have to deal with this.",
+          "author": "bdnskdnek"
+        },
+        {
+          "date": "2024-07-19",
+          "rating": 3,
+          "version": "3.7.1",
+          "title": "Need specific types",
+          "body": "Need ability to specify shoe type (IE heels, boots, flats, sneakers etc)",
+          "author": "Kos9"
+        },
+        {
+          "date": "2024-06-07",
+          "rating": 5,
+          "version": "3.7.1",
+          "title": "Please fix Facebook login",
+          "body": "I haven’t been able to use the app for more than a year due to your Facebook login being out of date. Please fix it! Anyone who logged in with a Facebook account cannot use the app!",
+          "author": "greenaleydis"
+        },
+        {
+          "date": "2024-04-07",
+          "rating": 3,
+          "version": "3.7.1",
+          "title": "Not bad",
+          "body": "I wish there was an option to archive items I no longer own. I don’t want to completely delete them but I’d like to hide them. Other small things- it would be nice if we could add details like material, and the “auto” option for clearing the background of photos doesn’t work very well so I end up having to do it manually.",
+          "author": "Radbu107"
+        },
+        {
+          "date": "2024-01-20",
+          "rating": 2,
+          "version": "3.7.1",
+          "title": "Can’t search for items",
+          "body": "I’ve been using this app for awhile now and I love it but now for some reason when I try to search for an item the screen is blank. Also when I click on shop women, shop men, and designer A-Z the screen is also blank nothing pops up. I really enjoy making my outfits on here can you please help. Thank you!",
+          "author": "flowervibes"
+        },
+        {
+          "date": "2024-01-14",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Fix Facebook login issue or allow change login style",
+          "body": "I’ve loved this app for a while now, and have taken the time to curate my entire closet, but for months now I haven’t been able to log in or see anything because they have a Facebook connection issue that that won’t fix! This means all my work is useless and I can’t even get to my looks at all. There is currently no way to link accounts or change login styles away from Facebook. PLEASE FIX THIS!",
+          "author": "KBG—112467"
+        },
+        {
+          "date": "2023-12-19",
+          "rating": 4,
+          "version": "3.7.1",
+          "title": "I love this app!",
+          "body": "I do however wish you could add clothes to multiple categories. Overall, well worth the money!!",
+          "author": "kyleelavee"
+        },
+        {
+          "date": "2023-10-05",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Lost everything after 3 years of using",
+          "body": "I’ve been using this app for 3 years now, and I’ve not found another that does all that this one does, so I’ve used it almost every day to help me pick out outfits that work! However, I tried reinstalling it today to see if it would fix some glitch that kept me from seeing any of my images, and I lost EVERYTHING. 😩 It took me forever to get every piece from my closet uploaded and edited, and now it’s all gone.\n\nEdited to add: I have now lost my entire closet two times. This app crashes so much.",
+          "author": "SmashleyD"
+        },
+        {
+          "date": "2023-09-07",
+          "rating": 5,
+          "version": "3.7.1",
+          "title": "Best Closet APP",
+          "body": "I absolutely love this app.  It could use a few things, like being able to undo something you’ve edited. Also, when reorganizing your closet items it would be great to be able to select multiple items to move all into one area.  Like selecting jewelry to move together and then reorganize once it’s in the desired place.  The other thing I would recommend is being able to have more than one closet.  For example, I wear a uniform and suits for work, it would be nice to have a work closet to work with that would make it easier to keep separate including posting on the calendar.  It would be nice to be able to specify what event you wore an outfit to, such as an office meeting, vs work or personal party celebration, etc.  Otherwise IT IS THE BEST APP and I highly recommend it.",
+          "author": "preparingtx"
+        },
+        {
+          "date": "2023-08-27",
+          "rating": 2,
+          "version": "3.7.1",
+          "title": "No customer service",
+          "body": "I think this app is going out of business. I contacted them numerous times with no reply. I told them their system is glitchy. If you sign in or create an account, it ends up deleting your entire closet, versus if you don’t log in, everything is still there.",
+          "author": "Limited2Girl"
+        },
+        {
+          "date": "2023-08-09",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "Lost all data",
+          "body": "Was a great app till I opened it one day and my hours of work and almost all items had disappeared. I backed up constantly but nothing is restoring! Don’t waste your time with this app for no reason you might lose it all in the blink of an eye. I tried contacting them also but no one responded.",
+          "author": "2686cb818"
+        },
+        {
+          "date": "2023-05-04",
+          "rating": 1,
+          "version": "3.7.1",
+          "title": "charge fee again if you want to share the data with other device",
+          "body": "论收费比不上及简衣橱，甚至没有免费的搭搭好用，抠图不智能要自己调。自己抠过的上传又变成了白色背景要再抠一次，交互设计反人类，总是在创建新的穿搭时不明所以的点出来。老外设计的东西太坑爹。甚至这么贵了，如果想用别的设备看到上传的衣服还要再收费一次。强烈推荐用搭搭，一分钱不用，还比这好用，上传自动扣图识别分类比这方便多了。无语浪费钱。",
+          "author": "Foggy Moon"
+        },
+        {
+          "date": "2023-04-12",
+          "rating": 4,
+          "version": "3.7.1",
+          "title": "Wish you could hide off-season clothes",
+          "body": "My favorite wardrobe app, and I’ve tried a lot of them!\n\nThe one feature I want is to be able to hide off-season clothes. It would make it easier to find the outfit I’m looking for when logging my outfit or creating a collage.",
+          "author": "cori-taylor"
+        },
+        {
+          "date": "2023-04-02",
+          "rating": 4,
+          "version": "3.7.1",
+          "title": "Conflicted",
+          "body": "Ok so I use this on my android but I have an iPad I downloaded it for free on android \nyet was forced to pay for it on the apple App Store for my iPad and then I couldn’t even transfer my clothes/outfits from my android I even clicked backup option on iPad and paid around $5 yet I still can’t have the clothes transferred automatically\n now my only choice is manually since on android it’s only way of backup is through google drive and zip files \nI managed to download the zip files into my apples files and yes all the clothes was there but this means I have to download each photo just to upload it into smart closet on my iPad which I don’t have time for \nJust like only sign in all actions should be there regardless of the device \n\nI love smart closet but it really needs to fix this issue it’s frustrating",
+          "author": "silverroselulu"
+        }
+      ],
       "news": [],
       "website": {},
       "community": []
@@ -4724,19 +5120,27 @@
       "reviews": [],
       "news": [
         {
-          "date": "2026-09-30",
-          "title": "Daydream App Brings Conversational Support and Visual Shopping Experiences to iPhone users with New iOS 27 Capabilities",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2efcd70e3410ba2debf28c60c9a9a&url=https%3a%2f%2fwww.prnewswire.com%2fnews-releases%2fdaydream-app-brings-conversational-support-and-visual-shopping-experiences-to-iphone-users-with-new-ios-27-capabilities-302893809.html&c=13180941240820701446&mkt=en-us",
-          "source": "PR Newswire",
-          "summary": "Daydream, the AI-powered fashion discovery platform, launched conversational search and a shoppable camera roll that utilize the ...",
-          "via": "bing"
+          "date": "2026-10-09",
+          "title": "Daydream Partners With Gap Inc. On AI-Assisted Shopping Rollout",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWU4N0JKRDF0aUpSVFNjZkdNUFdiUTVVV3BWVEIzYTRqeUgzVkZqNFZNWnMwaGFxYTl4enU4cXE3R3lEbE9hOWlaUkNUY2xRazcxd2hGWkNBWnlqMnIzMFptdWtlU2xtRE9iVGhBNkpySUZrdHlzZUxjR0J1NmVES0lqOTQwcHRxakxQUk9nU2oxLVNDNzVuTG9Bb1FFdjhBRnFZWm5ZMFBZYWppZGww?oc=5",
+          "source": "TipRanks",
+          "summary": "Daydream Partners With Gap Inc. On AI-Assisted Shopping Rollout &nbsp;&nbsp; TipRanks",
+          "via": "google"
         },
         {
-          "date": "2026-09-29",
+          "date": "2026-10-06",
           "title": "The Vogue Business AI Tracker",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
-          "source": "vogue.com",
-          "summary": "The Vogue Business AI Tracker &nbsp;&nbsp; vogue.com",
+          "source": "Vogue",
+          "summary": "The Vogue Business AI Tracker &nbsp;&nbsp; Vogue",
+          "via": "google"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "Gap unveils AI-assisted shopping, three decades after its first website",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlFxQUFkNjI4NHN6YW1adndUSENVNk5nb2N6RHVaZl9wVFhKdU9TdldYZTNqcGVjQXhzWXF3VzkzVE9hSDVsZ19CZE9Nd3ZPbnlZSHNOM0VkY19kQXR1b1VTSmdYOGIzYmlEd2hGRG9zc051ajR6enZMZW93SnNuMFkybnRpUlhaM0VGLUllRlo4ck5aTzNF?oc=5",
+          "source": "Retail Dive",
+          "summary": "Gap unveils AI-assisted shopping, three decades after its first website &nbsp;&nbsp; Retail Dive",
           "via": "google"
         }
       ],
@@ -4760,21 +5164,21 @@
       "reviews": [],
       "news": [
         {
-          "date": "2026-10-04",
-          "title": "Phoebe Gates and the contentious debate over fair pay for influencers",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVprM1FNWlNnMWZ5cV96RHBLUGZEQzZiaXh5bWlsTWNLZm5PamNsOUF3enZYTFhqRURXQ1VXQzhMTzAtRUVmZWdydlZJZm9MRHZIYzV0VWZ2b0xGZkRnNzdEdklWb0w5N0FlSnJJbnRwc3E0NGxycnlHc2MtRDlsMFl1djF2akhKRk9oNTdqVVFieng5QUxn?oc=5",
-          "source": "Fast Company",
-          "summary": "Phoebe Gates and the contentious debate over fair pay for influencers &nbsp;&nbsp; Fast Company",
+          "date": "2026-10-11",
+          "title": "When Bill Gates admitted how a chat with his daughter Phoebe Gates made him understand 'Internet's 'big p",
+          "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQWV9Da1hYQlZoVDJlVlBTZDYtdmo4RWxCdTNucDRKd1NWQ3BuTmJDUXUzOG82VktRMDl3UHd1WlRHNEdycjAwUlI0NmtfU01OQXkzMm1MS3FZXzFLQXc4Ti1DVmVsbTRKb2FjRGR4bVd1RTl3a2xpM1FSQ0pxYzF2MlBMUktMM1RpaldrTk85b1NzUHl4Ujh1OC1CVG1kMVhSUXZNWVdmRnotMVhIeFBLN0E3NHRRYUlpNzY3QkN5b3BNUkU0VHJnSFBIOGFyOGJZR2pZcUh4ejR6S0ZaeGhLQlBrU0ZsT0dXVDZFbDBGdHlSXzlLbU1hdkd3ckhPZEVkOVRibV9jOHcxUHY2Zm1kbU5KX05ndFNFb0drRWM1NFRjc1hFWF9CemtCZHJOZjBGSFV4ZkcwZnQ2dnc4QzBuWUxRZHVLaVA3MndsX0M2dU5GMTRzU1dMSERvczlMdFdXQ1JpdkxCZEh3MnlLUUU3U3ROQnZKUlBlNzU0b9IBggNBVV95cUxQZ1VaR2FmUEdzUmI5czNxeWZ5Y1ZNdW5IVjUxcHpBbFM5R0JseGhfS1BlQ0hrY2VCclRIc1lFeHV3anlPWjBoT2N6WlQxRFFxODNaTDVKcUUtSkxfdVRNYjFpbFFGa1BmYmxkR0c0U2U3X05tZVplMGNYNTRZMFlmV01RYUREbHFmSFBzUThMLXhMWV9vNGVnNVhqcUVZeGpCaWU4cmlkaFRwa3RHOEZ4bmVOUUhMYWVZZEQ4Z3VrWkFMYTQ5OE5yS05pM3o1YllRZmdtS01NSFlaMXZZVWs2UlkwZUY3bU42eDZUeUEtVjdLT0tuNFhHcmczdkpvSW00TnMzY0JTN0VPOVQySmxlYXVDcGk5Y1hEVWFzQ3ZoZGJtb1hacHBKbkV6aXZJaVBBNElndTVpeEQySUZlYlY5SFU3MVRHekIxOEJoZGtaQUw4a2RTNzFIZm85ZzV0U2hTMHVXQnA3TWFkZFR4c25IYWpYOE5SM1RpVnA1aHcxZG5HZw?oc=5",
+          "source": "The Times of India",
+          "summary": "When Bill Gates admitted how a chat with his daughter Phoebe Gates made him understand 'Internet's 'big p &nbsp;&nbsp; The Times of India",
           "via": "google",
           "is_founder_news": true
         },
         {
-          "date": "2026-09-29",
-          "title": "What to Know About Bill Gates and Melinda French Gates’ 3 Children Jennifer, Rory and Phoebe",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWZTR29haDdDa1NEY1JxSkdNOGUtVENWVWtxT1FQWW5PNTAwUEd2bENRblNzZXRnZmpNSzc3OW4zdnRGUlZwNmdMaU9wUnZMUGkzWFc3bFo4MHpfQlhhSmpaMkIwZ0o5MmNuLTJlNVZqaDR5TVNGZC1WS0lpT1ZJZGdKTGRIWDBCNnlmZ2FNcjNrVVJWbHc?oc=5",
-          "source": "People.com",
-          "summary": "What to Know About Bill Gates and Melinda French Gates’ 3 Children Jennifer, Rory and Phoebe &nbsp;&nbsp; People.com",
-          "via": "google",
+          "date": "2026-10-05",
+          "title": "Bill Gates' daughter's startup pulls feature after reports alleged misattribution of referral credit",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc31fc15da49a9be104890e58c4fc2&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fbill-gates-daughters-startup-pulls-feature-after-reports-alleged-misattribution-of-referral-credit%2far-AA2amIhK&c=13377386594060590770&mkt=en-us",
+          "source": "The Cool Down on MSN",
+          "summary": "Those attributed sales made up about 51% of Phia's credited sales in June 2026.",
+          "via": "bing",
           "is_founder_news": true
         }
       ],
@@ -4799,9 +5203,9 @@
           "version": "5.2.1",
           "released_at": "2026-09-22",
           "release_notes": "①“AI优化图片” 功能升级  \n②新增 “批量优化图片”  \n③新增本地相册上传去重  \n④DIY搭配筛选新增属性  \n⑤修复了部分BUG，优化页面",
-          "rating": 4.08499,
-          "rating_all_versions": 4.08499,
-          "rating_count": 1059,
+          "rating": 4.08098,
+          "rating_all_versions": 4.08098,
+          "rating_count": 1062,
           "price": "免费",
           "genres": [
             "生活",
@@ -4812,6 +5216,14 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-03",
+          "rating": 2,
+          "version": "5.2.1",
+          "title": "充了vip还不够",
+          "body": "还要换着花样来逼你充永久会员，说好的解析一次消耗1点，正常会员每天10次，但我请问呢，解析了有5次没？就没点数了，让你升级永久vip，我只能说我真是才第一天用就充个会员，当充智商税了，请以后要用这app的都注意了，特别是冲着ai来的用户，想用ai解析啥的不仅要充钱，还不能只充几个月，因为限点数，且用的次数都没到给的次数就完了。",
+          "author": "MrsLiar"
+        },
         {
           "date": "2026-09-30",
           "rating": 5,
@@ -5203,14 +5615,6 @@
           "title": "登录避免更换手机数据不见",
           "body": "希望能够登录自己的账号 这样更换手机不会找不到之前数据",
           "author": "卢安娜."
-        },
-        {
-          "date": "2025-05-11",
-          "rating": 5,
-          "version": "4.6.0",
-          "title": "AI搭配功能yyds",
-          "body": "可以收纳很多衣服，并根据衣服推荐穿搭，真的很棒！如果首饰和配饰也可以一起搭配就更好了！期待！",
-          "author": "大白兔0574"
         }
       ],
       "news": [],
@@ -5227,9 +5631,9 @@
           "version": "1.1.16",
           "released_at": "2026-06-05",
           "release_notes": "修复一些已知问题",
-          "rating": 4.79774,
-          "rating_all_versions": 4.79774,
-          "rating_count": 1330,
+          "rating": 4.80112,
+          "rating_all_versions": 4.80112,
+          "rating_count": 1433,
           "price": "免费",
           "genres": [
             "生活",
@@ -5240,6 +5644,30 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-08",
+          "rating": 1,
+          "version": "1.1.16",
+          "title": "为什么要自动扣图变ai",
+          "body": "上传的衣服和ai后的完全两模两样了，产品经理在干什么？？还不能设置不要ai美化，原本好好的产品设计现在变成这样，不用了",
+          "author": "xxxxlkji"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 4,
+          "version": "1.1.16",
+          "title": "把你的自动ai美化关上行不",
+          "body": "没选就是不需要啊 老老实实抠图吧 既然有ai美化按钮 我需要的话自己会按啊",
+          "author": "白猫186"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "1.1.16",
+          "title": "挺好的",
+          "body": "方便，不需要额外付费。",
+          "author": "scorpionstar"
+        },
         {
           "date": "2026-09-24",
           "rating": 5,
@@ -5615,30 +6043,6 @@
           "title": "很智能很方便哦",
           "body": "比较好用，关键免费的",
           "author": "lingtree"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 3,
-          "version": "1.1.7",
-          "title": "挺好用的衣橱APP，但是页面太丑了",
-          "body": "点进app首页，瞬间觉得很low，颜色多点选择，品牌最好能选择，没有的再自己输入",
-          "author": "cihesicu"
-        },
-        {
-          "date": "2026-01-23",
-          "rating": 5,
-          "version": "1.1.6",
-          "title": "从淘宝直接导入好方便",
-          "body": "如题",
-          "author": "格里莫的风"
-        },
-        {
-          "date": "2026-01-14",
-          "rating": 5,
-          "version": "1.1.6",
-          "title": "非常好",
-          "body": "非常好很方便",
-          "author": "哈hskdj"
         }
       ],
       "news": [],
@@ -5681,9 +6085,9 @@
           "version": "2.22.4",
           "released_at": "2026-05-15",
           "release_notes": "修复了一点问题",
-          "rating": 4.78551,
-          "rating_all_versions": 4.78551,
-          "rating_count": 23624,
+          "rating": 4.78535,
+          "rating_all_versions": 4.78535,
+          "rating_count": 23653,
           "price": "免费",
           "genres": [
             "生活",
@@ -5694,6 +6098,38 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-09",
+          "rating": 2,
+          "version": "2.22.4",
+          "title": "为啥一直让评价，时时刻刻让评价",
+          "body": "严重影响使用体验，基本不评价用不了了，每点一个按钮弹一次，既然你一直要评价就送你2星不要再烦我了，再烦打1星",
+          "author": "Britneying"
+        },
+        {
+          "date": "2026-10-09",
+          "rating": 5,
+          "version": "2.22.4",
+          "title": "好",
+          "body": "特别简单，对得起名字极简，喜欢这种简单的功能又刚刚好",
+          "author": "看不懂你手机号"
+        },
+        {
+          "date": "2026-10-09",
+          "rating": 5,
+          "version": "2.22.4",
+          "title": "不知道怎么搭",
+          "body": "可以帮我搭配吗？",
+          "author": "没烦恼咯"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 4,
+          "version": "2.22.4",
+          "title": "希望优化日历记录占内存的问题",
+          "body": "最近每天用日历记穿搭，内存就变很大。日历用到的图片不需要那么高清，可以做一些优化吧？",
+          "author": "Heeilu"
+        },
         {
           "date": "2026-09-29",
           "rating": 5,
@@ -6061,38 +6497,6 @@
           "title": "要是能够引入龙虾就好了",
           "body": "来帮我挑衣服买衣服。给它甩一堆我喜欢的穿搭图，然后它根据我已有单品，选择出适合我且我缺的单品；根据每天的天气、心情、场合帮我进行搭配！",
           "author": "徒然窅日"
-        },
-        {
-          "date": "2026-03-10",
-          "rating": 3,
-          "version": "2.22.3",
-          "title": "功能还行 但是只能放30个单品",
-          "body": "功能上不错 单品实在太少了 30个 都不够一个季节衣服了",
-          "author": "ChloeWZY"
-        },
-        {
-          "date": "2026-03-08",
-          "rating": 5,
-          "version": "2.22.3",
-          "title": "很好用",
-          "body": "好用 但是不知道为什么没有看到账户注册登陆选项 是直接和苹果id绑定了吗",
-          "author": "爆闪大西瓜"
-        },
-        {
-          "date": "2026-03-07",
-          "rating": 5,
-          "version": "2.22.3",
-          "title": "好用",
-          "body": "希望作者一直更新！",
-          "author": "过几天的效果发动"
-        },
-        {
-          "date": "2026-03-07",
-          "rating": 5,
-          "version": "2.22.3",
-          "title": "好用",
-          "body": "衣橱软件非常多，最终就留下了这个版本，好用。\n衣服太多，记不住，用这个就很好",
-          "author": "大锦鲤666"
         }
       ],
       "news": [],
@@ -6109,9 +6513,9 @@
           "version": "4.3.0",
           "released_at": "2026-09-02",
           "release_notes": "优化图片抠图体验，支持更精准裁剪和快速切换原图。\n网页订单导入支持识别分享文本中的商品链接，图片导入更稳定。\n新增单品与搭配的评分统计和筛选功能。",
-          "rating": 4.88565,
-          "rating_all_versions": 4.88565,
-          "rating_count": 927,
+          "rating": 4.88482,
+          "rating_all_versions": 4.88482,
+          "rating_count": 955,
           "price": "免费",
           "genres": [
             "生活",
@@ -6122,6 +6526,102 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-10",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "挺好的",
+          "body": "页面简单明了，操作方便，整体上满足我的需求。",
+          "author": "慵懒的骆驼"
+        },
+        {
+          "date": "2026-10-10",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "无袖衣橱",
+          "body": "可以根据自己的习惯分类调整，整理衣服一目了然，还没有多余的广告，简洁，喜欢喜欢",
+          "author": "小樱桃吃包包"
+        },
+        {
+          "date": "2026-10-10",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "有用的电子衣橱",
+          "body": "相见恨晚啊，整理超级方便，自动扣图省了不少麻烦，还能自定义分类，买衣服前都会看上一眼 特别好 还能搭配衣服",
+          "author": "很好啊这软件"
+        },
+        {
+          "date": "2026-10-08",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "操作方便，页面简洁",
+          "body": "很好，特意为我买的饰品下载的，用起来一目了然，好开心",
+          "author": "梦见狮子乐园"
+        },
+        {
+          "date": "2026-10-07",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "电子衣橱",
+          "body": "非常不错 以后再也不会出现买同样一件衣服的糊涂事了 💓💓💓还能方便搭配",
+          "author": "好运123月"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "挺好用",
+          "body": "简洁流畅，在两个软件里研究了好几天，打算先尝试这个，目前没开会员两个都无广告，这个页面上衣服小一点，看着整齐些",
+          "author": "kk·z"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "电子衣物管理好帮手哦",
+          "body": "平时衣服比较多，经常出门不知道穿什么。用了无忧衣橱之后，整理清楚很多，搭配也有思路了。会员开通方式简单，永久会员对我来说挺划算的，有需要的朋友可以试试。",
+          "author": "joyshine..."
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "使用体验",
+          "body": "用了一天，体验感很好，简洁的界面，清晰的分化，我很喜欢，第一次喜欢到想给app写评论，很不错！",
+          "author": "可以OK没问题"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "整理衣服太方便啦",
+          "body": "个人觉得非常好用，衣服多了有时候收起来就不记得有哪些衣服了，用了淘宝的那个衣橱感觉界面和使用不太适合我，无忧衣橱用起来方便顺手更适合我这个J人",
+          "author": "Wanderingmia1"
+        },
+        {
+          "date": "2026-10-05",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "J 人狂爱",
+          "body": "衣服太多就会发现新买的衣服之前买过同样的了\n支持淘宝和剪贴板导入，可以按照季节和颜色查看衣服，界面干净简单，爱了爱了",
+          "author": "Iris-0829"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "无忧衣橱好用",
+          "body": "很有性价比的一款软件 没有广告 界面简洁清晰 分类多元 没有闪退情况 开终生会员比较值",
+          "author": "梧昵"
+        },
+        {
+          "date": "2026-10-03",
+          "rating": 5,
+          "version": "4.3.0",
+          "title": "降低物欲神器",
+          "body": "买了很多衣服，试穿的时候喜欢，过后就丢到衣橱里再不见天日。这款app很好的解决了我的衣橱管理问题，知道自己有多少东西以后再也不乱消费了",
+          "author": "泉清"
+        },
         {
           "date": "2026-10-02",
           "rating": 5,
@@ -6425,102 +6925,6 @@
           "title": "无忧衣橱",
           "body": "这款app非常好用 满足了我对衣橱的所有幻想 方便一目了然确认衣服种类及数量",
           "author": "M22222277868"
-        },
-        {
-          "date": "2026-08-22",
-          "rating": 5,
-          "version": "4.0.1",
-          "title": "很实用的app",
-          "body": "超级好用，可以把衣服分类整理，换季不用在翻箱倒柜，出门前一晚可以手动搭配，不用麻烦的试衣服，超级方便的app",
-          "author": "鹿尤呀"
-        },
-        {
-          "date": "2026-08-21",
-          "rating": 5,
-          "version": "4.0.1",
-          "title": "好",
-          "body": "好评，好用",
-          "author": "1013Candice2018"
-        },
-        {
-          "date": "2026-08-20",
-          "rating": 5,
-          "version": "4.0.1",
-          "title": "推荐！！！",
-          "body": "之前用过很多这种衣服的app 感觉这个分类齐全 操作也方便",
-          "author": "Olivas de chocolate"
-        },
-        {
-          "date": "2026-08-19",
-          "rating": 5,
-          "version": "4.0.1",
-          "title": "非常好用的电子衣橱！",
-          "body": "特别方便，可以任意搭配尝试效果qwq",
-          "author": "安替可_"
-        },
-        {
-          "date": "2026-08-17",
-          "rating": 5,
-          "version": "4.0.1",
-          "title": "电子衣橱！",
-          "body": "终于找到了很好用的电子衣橱！J人狂喜中",
-          "author": "周周粥w"
-        },
-        {
-          "date": "2026-08-17",
-          "rating": 5,
-          "version": "4.0.1",
-          "title": "超级推荐",
-          "body": "很实用，大大提高了衣服利用率，告别穿搭纠结，体验感很棒！！",
-          "author": "Piwaicha"
-        },
-        {
-          "date": "2026-08-16",
-          "rating": 5,
-          "version": "4.0.0",
-          "title": "宝藏电子衣橱",
-          "body": "把衣服全部录入之后，早上再也不用翻箱倒柜纠结穿什么，还能避免重复买同款，衣物利用率直接变高，太实用了✨",
-          "author": "dyxx&"
-        },
-        {
-          "date": "2026-08-15",
-          "rating": 5,
-          "version": "4.0.0",
-          "title": "好用",
-          "body": "很实用的app，这样买衣服可以对照看看有没有相似的款式，省钱了",
-          "author": "金fhknn"
-        },
-        {
-          "date": "2026-08-15",
-          "rating": 5,
-          "version": "4.0.0",
-          "title": "很好用的电子衣橱",
-          "body": "挑了好多家还是这家页面干净整洁，整理起来也方便，很喜欢！",
-          "author": "榴莲忘返啊"
-        },
-        {
-          "date": "2026-08-14",
-          "rating": 5,
-          "version": "4.0.0",
-          "title": "非常不错的衣橱管理app",
-          "body": "衣服太多想要管理，之前用无边际，发现越来越卡。后来发现了这个APP，很多地方优化得很好，很方便",
-          "author": "JacquelineLee-0"
-        },
-        {
-          "date": "2026-08-13",
-          "rating": 5,
-          "version": "4.0.0",
-          "title": "子分类怎么变成两行了？",
-          "body": "原本很好的子分类，怎么变成两个竖长条的排列了啊？？？？强迫症看着要难受死了",
-          "author": "TeresaYeee"
-        },
-        {
-          "date": "2026-08-12",
-          "rating": 5,
-          "version": "3.15.0",
-          "title": "挺好用的软件",
-          "body": "导入数据很方便，功能也比较全，可以很方便进行分类",
-          "author": "ZJslam"
         }
       ],
       "news": [],
@@ -6534,12 +6938,12 @@
       "market": "cn",
       "app": {
         "apple": {
-          "version": "6.4",
-          "released_at": "2026-09-29",
-          "release_notes": "1. 新增统计：按照鞋码统计和按照衣服尺码统计\n2. 修复未选择场景的衣服不显示在”未分类“tab的问题",
-          "rating": 4.94894,
-          "rating_all_versions": 4.94894,
-          "rating_count": 1469,
+          "version": "6.5",
+          "released_at": "2026-10-08",
+          "release_notes": "1. 网格显示模式下，衣服可以显示两个标签，比如同时显示衣服的品牌和穿着次数。",
+          "rating": 4.94912,
+          "rating_all_versions": 4.94912,
+          "rating_count": 1474,
           "price": "免费",
           "genres": [
             "生活",
@@ -6550,6 +6954,14 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-03",
+          "rating": 5,
+          "version": "6.4",
+          "title": "好用 一点都不卡",
+          "body": "用了好几个app 上传图片卡的要命 只有这个很快！",
+          "author": "月亮比我灯泡亮"
+        },
         {
           "date": "2026-09-29",
           "rating": 5,
@@ -6941,14 +7353,6 @@
           "title": "简洁好用，J人福利！",
           "body": "浅浅试用了一下，界面清爽，还可以同时线上和本地备份，最喜欢的是同时有价格和使用次数！这个大大的好评，可以充分评估衣服的利用率！",
           "author": "不吃面包边边"
-        },
-        {
-          "date": "2025-04-24",
-          "rating": 5,
-          "version": "2.6",
-          "title": "非常不错👍",
-          "body": "可以的",
-          "author": "看我！这里！"
         }
       ],
       "news": [],
@@ -6992,9 +7396,9 @@
           "version": "2.1",
           "released_at": "2026-07-24",
           "release_notes": "-新增了整体穿搭功能，可以试穿衣服和配饰的整体效果",
-          "rating": 4.69871,
-          "rating_all_versions": 4.69871,
-          "rating_count": 1321,
+          "rating": 4.69962,
+          "rating_all_versions": 4.69962,
+          "rating_count": 1325,
           "price": "免费",
           "genres": [
             "工具",
@@ -7005,6 +7409,38 @@
         }
       },
       "reviews": [
+        {
+          "date": "2026-10-10",
+          "rating": 5,
+          "version": "2.1",
+          "title": "应该不错",
+          "body": "正在尝试试穿",
+          "author": "无人木人"
+        },
+        {
+          "date": "2026-10-09",
+          "rating": 5,
+          "version": "2.1",
+          "title": "好用",
+          "body": "好用",
+          "author": "把v幸福男女吃"
+        },
+        {
+          "date": "2026-10-06",
+          "rating": 5,
+          "version": "2.1",
+          "title": "Ai",
+          "body": "喜欢",
+          "author": "Djdnekcndns"
+        },
+        {
+          "date": "2026-10-04",
+          "rating": 5,
+          "version": "2.1",
+          "title": "good",
+          "body": "绝",
+          "author": "燕麦片MoMo"
+        },
         {
           "date": "2026-09-24",
           "rating": 5,
@@ -7372,38 +7808,6 @@
           "title": "Ai试穿",
           "body": "这款app很好用",
           "author": "Lbj1984"
-        },
-        {
-          "date": "2026-06-14",
-          "rating": 1,
-          "version": "2.0",
-          "title": "试穿",
-          "body": "差评，不好用",
-          "author": "我想活成未来的样子"
-        },
-        {
-          "date": "2026-06-11",
-          "rating": 5,
-          "version": "2.0",
-          "title": "好穿",
-          "body": "真的很好用这个软件",
-          "author": "小葫芦呀呀"
-        },
-        {
-          "date": "2026-06-11",
-          "rating": 5,
-          "version": "2.0",
-          "title": "能抓住核心需求",
-          "body": "能抓住最核心的需求，没那么复杂",
-          "author": "果断的红豆"
-        },
-        {
-          "date": "2026-06-10",
-          "rating": 5,
-          "version": "2.0",
-          "title": "好用",
-          "body": "好用",
-          "author": "还在念旧吗"
         }
       ],
       "news": [],
@@ -7451,524 +7855,414 @@
   ],
   "industry_news": [
     {
-      "date": "2026-10-05",
-      "title": "具身智能入驻商圈 人机互动焕新消费- 首页幻灯片",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vczRkQVQwcVJFeWJ4UHYxRktzeDdfZzlVTExNQmtBZjdkMHhjaUlqWU9hSi1nTjFMbVRlVXRvVC1yMmJ5QXhlQy1vMElZRVVxdVkwdU1ydjIza0s4VzBj?oc=5",
-      "source": "workercn.cn",
-      "summary": "具身智能入驻商圈 人机互动焕新消费- 首页幻灯片 &nbsp;&nbsp; workercn.cn",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "科技消费新趋势|假期抱一台机器人回家！千元及以下情感陪伴款成热门",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Eb01OTzJraG05MHd2N1paWXlLTmZ3R3FRcDhBbVBUMVpNblhFV1BFQ2hBNFh0Qmg4bFNoeVp3N2tROFRMNmJIZA?oc=5",
-      "source": "凤凰网",
-      "summary": "科技消费新趋势|假期抱一台机器人回家！千元及以下情感陪伴款成热门 &nbsp;&nbsp; 凤凰网",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "AI 陪伴机器人"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "瑞草区利用AI陪伴机器人和尿液检测仪照护孤立家庭- 阿视亚经济",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96NzdxX2tSLTlvUWJCQkdKaVdIVWhvZzQta1ZnSDZxMnBNdmRGcXdsRDdmeFRPTnB2UjRldlhqS2VwWWpWUEE1am5TbUxYRVVCRHFSMEkwcUNabmo1TUNyQmx3YUs?oc=5",
-      "source": "아시아경제",
-      "summary": "瑞草区利用AI陪伴机器人和尿液检测仪照护孤立家庭- 阿视亚经济 &nbsp;&nbsp; 아시아경제",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "AI 陪伴机器人"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "具身智能入驻商圈 人机互动焕新消费",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEZVWmdNVF9Md0tXTGd3ekxHS1hjWncwdXJHVU92SnhIekoyRlQ2NHo4a2lmOExTS2x2LWNRbEN2NkVqYnVUR1pkcElGd2YtTWY1U2ZJUktzYS15MEdhdjB0UjZXMGJpcGlqTHZOM0JDWTdyVkpLQU1KU3h0S2xwWnRsMGN4Wk9rZkRRbUFlbFcxalRLM0tGNXZ3?oc=5",
-      "source": "新华网客户端",
-      "summary": "具身智能入驻商圈 人机互动焕新消费 &nbsp;&nbsp; 新华网客户端",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "具身智能入驻商圈 人机互动焕新消费(7)#",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFd21XZFBkTXQ2YzZSdnpsbThMNTRRbW5IVFhROUNNRTB0SHVjYzlOYmpQTk1jbV9uenl1ZWNfaElrTDFGRTREaQ?oc=5",
-      "source": "凤凰网",
-      "summary": "具身智能入驻商圈 人机互动焕新消费(7)# &nbsp;&nbsp; 凤凰网",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "具身智能入驻商圈 人机互动焕新消费(5)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xd2ZBWTZLNXpZVnJTSks5MnJyd3ltY0cxaFZDN0tSOVFzOGlTWHFMV0d4dGdoVHE0a3BkU0ZCUFBvMGVKQXRiVQ?oc=5",
-      "source": "凤凰网",
-      "summary": "具身智能入驻商圈 人机互动焕新消费(5) &nbsp;&nbsp; 凤凰网",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "From AI Companion Robots to Smart Urinalysis — Seocho-gu Rolls Out Smarter Integrated Care for Isolated Households",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2f06788f24bcb9ac38db8a23051a4&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10892834&c=3101054721655576308&mkt=en-us",
-      "source": "Herald Business",
-      "summary": "Seocho-gu in Seoul will run a pilot smart integrated care project using AI companion robots and smart urine chemical analyzers through December. The project exp ...",
-      "via": "bing",
-      "group": "AI 陪伴",
-      "from_query": "AI companion robot elderly"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "三折叠与AI百花齐放，为何带不动手机大盘？丨双节专题_投资者网_媒体广场_财经",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VS29RY3Q3TFR3Z1BGVUlfY2dYMU5SbEJoYWhzbnMxcUhNUHNPVm1TWVVwNURSN0ZGZDF6SjhxZzZ1LVJ6VkZIZV9kaEljS1A5S0VIcVQ3OTNxVmVaMUpiWQ?oc=5",
-      "source": "证券之星",
-      "summary": "三折叠与AI百花齐放，为何带不动手机大盘？丨双节专题_投资者网_媒体广场_财经 &nbsp;&nbsp; 证券之星",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "SiMa.ai Raises $150M, Hits $1.45B Valuation [2026]",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xXzg0QlpQSHZYYlpVclpJOUZWUUJuRUpyYU9JbFpmaUtPMmdDTXc5QlJCa2lZbEUwOVVsUUx1ckZ3dXdQUGpfdWl3eFd6b1hvY3ZNQzQ5ZjY4U1UzUHJGT0pxbEhPeEE1ZkZCMHpVYTF6azctZUhjaGRQRVNNQQ?oc=5",
-      "source": "tech-insider.org",
-      "summary": "SiMa.ai Raises $150M, Hits $1.45B Valuation [2026] &nbsp;&nbsp; tech-insider.org",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "consumer AI hardware funding"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "量化派的“物理AI”实景新突破：机器人“手打柠檬茶”12步验证世界模型驱动下的精细操作_行业新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPRUg3X2xzS1ByR3NUdG5kWkp2aUJZYXd6c2FIQTJZSFpKbkJlTU1HV1JWNWt3T3VNQlNUakQ1VThBY1ZhUXA4RDNEWHJFVndBcE1IWGoxUmhXeV9jWjkxY1MyeEM?oc=5",
-      "source": "证券之星",
-      "summary": "量化派的“物理AI”实景新突破：机器人“手打柠檬茶”12步验证世界模型驱动下的精细操作_行业新闻 &nbsp;&nbsp; 证券之星",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "银河通用消费级机器人开卖了，7.9万起售",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQW9zbjlTbG5UOElQWkU5UUlJVE9BdkNBOHJxalNLcnZldEFaLUhRQmRKcUZsRVdsMVU3dXNhbER5bmU3aE9Pdw?oc=5",
-      "source": "智源社区",
-      "summary": "银河通用消费级机器人开卖了，7.9万起售 &nbsp;&nbsp; 智源社区",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "【国内动态】机器人玩转国庆！成都“智创国庆”机器人系列活动火热开展",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVk4b0RQcjJxV09GS3BnLVYxSUtZZ3dvbGU2eDdUQzdlaWxsYXN4UHRZV3lncDlaeWZkd28yaF9xRmFic29RWkI3UDZMWGtCU0hjOEpfUUpOSTNUYjk4enhKNFVGdU5rWE5IMEIxbG5ZanltVnZxb2Q3Q0xadUF1U3hBdEthZTdMNzZySQ?oc=5",
-      "source": "搜狐网",
-      "summary": "【国内动态】机器人玩转国庆！成都“智创国庆”机器人系列活动火热开展 &nbsp;&nbsp; 搜狐网",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "江西于都：纺服产业带动老区出海",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2RBR0VRNWxsMk1iRWFRcWVqNGJiS2hXanZORUxzX0hxeVFoOW1YM2FNQjZMYV9NejhOR2tyWXZkQVhiVkZ2SWRRU3NpODJ3djJnSzVmdEZCemg1V3MtcWREMTVNalFJRzF0b090M3VVdVY4ajFacjhuYXRYSXZzdHQxS3BnNERhN0tJd25hSHBJQWRremxORg?oc=5",
-      "source": "新浪财经",
-      "summary": "江西于都：纺服产业带动老区出海 &nbsp;&nbsp; 新浪财经",
-      "via": "google",
-      "group": "服装行业",
-      "from_query": "服装 品牌 出海"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "千城百县看中国｜江西于都：纺服产业带动老区出海",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2f049a5e143a3b3886101c04be239&url=http%3a%2f%2fjx.xinhuanet.com%2f20261002%2ffafd0ea97d744ea99e0bea99d4357407%2fc.html&c=15049439225856636919&mkt=en-us",
-      "source": "新华网江西频道",
-      "summary": "江西于都地处赣南老区，是中央红军长征集结出发地。在这片红色土地上，纺织服装已成为富民强县的首位产业，全县共有纺织服装企业3850余家，全行业产值突破千亿元大关。近年来，于都不断融通供应链、延伸产业链，搭建国际直采对接平台，推动“于都智造”从产品出海迈向品牌出海。 近期，英国买手考察团来到于都，走访多家服装企业，实地观摩服装裁剪、缝制、成衣检验等流程，详细了解面料研发、生产工艺和品控体系，重点咨询女 ...",
-      "via": "bing",
-      "group": "服装行业",
-      "from_query": "服装 品牌 出海"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Conway Research lands a16z backing for Underdog, a private AI that never leaves your device",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2f05b9acd4c299de9209983beb64b&url=https%3a%2f%2fcryptobriefing.com%2fconway-research-underdog-private-ai-funding%2f&c=1544947703171280028&mkt=en-us",
-      "source": "Crypto Briefing",
-      "summary": "Sigil Wen's Conway Research gets backing from a16z, Khosla Ventures and Hummingbird VC for Underdog, a private AI that runs on Macs and iPhones.",
-      "via": "bing",
-      "group": "新消费硬件",
-      "from_query": "consumer AI hardware funding"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "走向“家庭场景”！20款家庭AI产品集中亮相",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3dCX0hGQ2hfbE1KYXFEbnJ6NWtCN1E4MDBJODNsaTU4ZEtSX2ZyYzJ4eEF2NUdJczd0QW85OGQ2Sjc0cHcyTHFUM2tUUE5rOWFhWF9XS3Y1bXBKeV9POHc0WUtwSEQ3b0tLMm9RRUZYajZldjM2SFk5OVE2MTB3SkFORGY?oc=5",
-      "source": "广州日报新花城",
-      "summary": "走向“家庭场景”！20款家庭AI产品集中亮相 &nbsp;&nbsp; 广州日报新花城",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "AI 陪伴机器人"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "2026年人形机器人价格降至两万元区间，供应链成熟与功能精简推动低价化",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ubk55UjdsX2JTOFlOM19ORzc2ZUlpYWh6bUNVdmNrSk9YSzk0N1d4WlRJbUZZRFh1RTYybEhRTnRtTEV1NVZSYXpUNVFWdGpqek9aQw?oc=5",
-      "source": "虎嗅网",
-      "summary": "2026年人形机器人价格降至两万元区间，供应链成熟与功能精简推动低价化 &nbsp;&nbsp; 虎嗅网",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "AI 陪伴机器人"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "上纬新材发布可变形个人机器人启元T1，将亮相2026世界人工智能大会",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TQWs1MUgzOWZMN21wMkptY0ZOUWd6QlRiRVE0WDRDSm1zd0diczdGeUlvUnpNUUgwVnk5eldxOHlLVDZYWGQyX1FOVUljMndQN3RzWkMzcU5oeWhIN0Jrei04Tl9lQmVxTHAzVW51SE1pQjBEbkVlZklB?oc=5",
-      "source": "content.foshanplus.com",
-      "summary": "上纬新材发布可变形个人机器人启元T1，将亮相2026世界人工智能大会 &nbsp;&nbsp; content.foshanplus.com",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "机器人玩转国庆成都“智创国庆”机器人系列活动火热开展- 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3MFFmdGRkbHFfLThlTEZjaWhHdzJ2dkxzYmJNUDJsRzZJeFJYdkdLLUtGaG1qVldxSndMNk5BQkhNOUl3NFlkalFYNG9OQTc5Tzh1M3UwU2RMRmJqYzBZb0N2dG8yRHBNUVhxUUJRZUxtWEMtc2lUX1F6Vzg?oc=5",
-      "source": "sc.chinadaily.com.cn",
-      "summary": "机器人玩转国庆成都“智创国庆”机器人系列活动火热开展- 中国日报网 &nbsp;&nbsp; sc.chinadaily.com.cn",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "机器人当上“一日店长”！这个国庆，“成都造”具身智能机器人走进文旅消费新场景",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTFwVWp5Wm1ITDU5bnJZNHlQYzkwbVRmTnRkZU4xZE9sZ1VuWmN0SDZRMjlCcE9XOXp5a0Y4RExYTTliRU1hNkZ6NkJDd29YQnRuX2tzbWJUc3pGem1Ga0FXeXk1UkUwYldncVVtWGJaWWlRMWlZMjJXUUh1R2dGS0c1cmMxMzA1cjNkWG04QWJlSEpMc0dUbnJHaHRKTGRnUnZiZHBfOA?oc=5",
-      "source": "新浪财经",
-      "summary": "机器人当上“一日店长”！这个国庆，“成都造”具身智能机器人走进文旅消费新场景 &nbsp;&nbsp; 新浪财经",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "AI眼镜上半年出货暴涨263%：96%是无屏，94%是Meta",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tMXdxem5UUDFET3A4WFo3SGR4SjFpZ3pNeGFqc3Fib3FzZDhzMloxTDZHXy1RUGxJNGJ4NF9RaEFwMGpBb25Hd0VHeEJ0MXJNRXVwbQ?oc=5",
-      "source": "AgeClub",
-      "summary": "AI眼镜上半年出货暴涨263%：96%是无屏，94%是Meta &nbsp;&nbsp; AgeClub",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "CES 2026爆火出圈，麻将胡了PG开启全球消费级具身智能时代",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JTW5UOVNPancyeDAtZkNOQ1dFQWJkdExZU1pxUkdnTllscENLRElqNmlRTEhQR2xOR0NUTXdua3Jyb3RYWDFmbUhOMHgzTnJ6d3g4eG9EYlYzbm1BRUlaMmwtNUNRckNObGVzSVlQejF3OGV1VnA1Ug?oc=5",
-      "source": "DoNews",
-      "summary": "CES 2026爆火出圈，麻将胡了PG开启全球消费级具身智能时代 &nbsp;&nbsp; DoNews",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "2026武汉国际银发经济博览会闭幕",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wNElmTmljT3Jfc1hOa2hxZThsb1ZkRDNpTG93S0Vya2dESDdVdk00QWxGa2UtSl9MZGkzRmpVSHdOMUlwSGt3M3J1ZFVDTlZfV2hGOUIwY3hpamYwN002MEhFOVBSN1hQ?oc=5",
-      "source": "hb.chinanews.com.cn",
-      "summary": "2026武汉国际银发经济博览会闭幕 &nbsp;&nbsp; hb.chinanews.com.cn",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "银发经济 AI"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "第29届虎门服交会将于10月30日启幕 聚焦品牌出海与电商生态融合",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2f049a5e143a3b3886101c04be239&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082663691_121119293&c=11948204706057329217&mkt=en-us",
-      "source": "搜狐",
-      "summary": "第29届中国（虎门）国际服装交易会、第13届虎门国际电商节和2026大湾区（虎门）时装周，定于2026年10月30日至11月3日在东莞虎门举行。本届盛会以“焕新无界 赢领共生”为主题，旨在通过打通展示、发布、交易与转化闭环，赋能本土服装企业开拓全球市场，共绘大湾区时尚产业新蓝图。 作为享誉海内外的“中国服装服饰名城”，虎门拥有规模庞大的产业集群和成熟发达的市场体系，常年引领服装时尚产业发展潮流。本 ...",
-      "via": "bing",
-      "group": "服装行业",
-      "from_query": "服装 品牌 出海"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Flow Engineering Raises $50M to Accelerate Agentic Hardware Development",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWnBtNnZydUdZU2d0Wl9GLVBWS2RFekpQcWRCa1BMc1ZET0RpZ1lVTmZNc0hnclM4MVpUaDEzeFJOZjlOY3IyMTVtWmF6eGlPQ1hFbmxhNUdrdHJHRzhQbXh4MTZiNFBiWXJXM0YxWktVR184RXRQQtIBeEFVX3lxTE9YWnBtNnZydUdZU2d0Wl9GLVBWS2RFekpQcWRCa1BMc1ZET0RpZ1lVTmZNc0hnclM4MVpUaDEzeFJOZjlOY3IyMTVtWmF6eGlPQ1hFbmxhNUdrdHJHRzhQbXh4MTZiNFBiWXJXM0YxWktVR184RXRQQg?oc=5",
-      "source": "Ventureburn",
-      "summary": "Flow Engineering Raises $50M to Accelerate Agentic Hardware Development &nbsp;&nbsp; Ventureburn",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "consumer AI hardware funding"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Samsung Electro-Mechanics Secures Customer Funding for $5 Billion Substrate Expansion",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVAtNHFVR1ZHTHJtMDhCR2ZIR1BJcVc3eXFLaDhYU3hGMmhKb3hwdF8zUkZMTktkZm9hdXM1MnRqbnlaOGIyZDNob0NkblhhdGtFRTlpcWswYUIybHhrUXRTNV8yT0U4bmV3UXp5YmRqS0kwNWNEbm1KT3ZBVjhrV21OdXlWNlJOYkJHdHEzU0JZYTBnaFRKUjRaUUwtczdF?oc=5",
-      "source": "briefasia.com",
-      "summary": "Samsung Electro-Mechanics Secures Customer Funding for $5 Billion Substrate Expansion &nbsp;&nbsp; briefasia.com",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "consumer AI hardware funding"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "独居老人有了“AI搭子”，涂鸦智能Doova机器人上线！",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XakI3MEpZTlFYb2ltc3RvSEF0MkF3em9DRlRtSTliLXdwUWY4aWRFS25LdkoxRTBDMURvcGxpMWVjT3JHVjFEVThHVUd4V0RPWjlNNQ?oc=5",
-      "source": "AgeClub",
-      "summary": "独居老人有了“AI搭子”，涂鸦智能Doova机器人上线！ &nbsp;&nbsp; AgeClub",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "AI 陪伴机器人"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "解码万亿蓝海新机遇！首部中国—东盟银发经济蓝皮书发布",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GT2hMWFVwdkpnTTl4Y245dTI4QXFDS2VpRnlhTGh3YnpRZzB5QzY5TmpHTHJQYWpEc1FQOVVUM1Nqb0ZEbVNHQVRscUdIRjh4Z3QzTXBrS3Jsdw?oc=5",
-      "source": "finance.tom.com",
-      "summary": "解码万亿蓝海新机遇！首部中国—东盟银发经济蓝皮书发布 &nbsp;&nbsp; finance.tom.com",
-      "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "银发经济 AI"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "The Vogue Business Funding Tracker",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02b2Y4OEVBeU4yMzJ6UFdZNlFOZzBMWWdfVGVJaWVIVnREZVM2OEZBdkRfQ21lWlR3T1QxSHZ6dHZDVHR6VU82U1YzY2xObU1UejJ4QzVRRXpvM3R5SXBGdDMyNXRaTnBNTmlSRnQ3OHhsZw?oc=5",
-      "source": "vogue.com",
-      "summary": "The Vogue Business Funding Tracker &nbsp;&nbsp; vogue.com",
-      "via": "google",
-      "group": "赛道",
-      "from_query": "AI stylist app funding"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "The Vogue Business AI Tracker",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
-      "source": "vogue.com",
-      "summary": "The Vogue Business AI Tracker &nbsp;&nbsp; vogue.com",
+      "date": "2026-10-11",
+      "title": "Amazon is reportedly circling Decart after Nvidia and Anthropic both walked away",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONy1kbUM5WnEyOXRQNUJ5VGhtNDhfa3F1U0hUUUFYSFJocGVHeG1KWXBDVHZDREZ6VnlJdEIyTW9XZHVVQ0cway1DeUNid0JZNUlFN3NjdFZHcXpDN19HUEx3a2JDalJSV1BubERvdHlody1PZU04cDgwMUV6LVYxVkwwRjBKZjB5Y0xwYU85M2VITUYzVmkwX3A2Yk50Y3JnLVhCaExHcENWNlln?oc=5",
+      "source": "Startup Fortune",
+      "summary": "Amazon is reportedly circling Decart after Nvidia and Anthropic both walked away &nbsp;&nbsp; Startup Fortune",
       "via": "google",
       "group": "赛道",
       "from_query": "virtual try-on startup funding"
     },
     {
-      "date": "2026-09-29",
-      "title": "AI情感智能珠宝Shakespeare完成数千万元天使轮融资",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92N1ptdUVQcE8wTkY2Yk9xaHFQdW5DTVVEV3oxXzJQeHpkVTlBLUpaSXdTVU5CSW1KbzlXNTl2N3MyX0FFVUxPcWZ1ekMwNHBjZFE?oc=5",
-      "source": "搜狐网",
-      "summary": "AI情感智能珠宝Shakespeare完成数千万元天使轮融资 &nbsp;&nbsp; 搜狐网",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "智能穿戴 消费电子 融资"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "AI眼镜的“iPhone时刻”，还有多远？_个股掘金",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByNE50X184NFVhZDhrVkdhQnI2clpxbE5jNXp0ZzdVNWFoUWRveV8zWmt5Y3lrNm9yQnQxeFdsYU9GOV9DS3QtNU03SFBwV2M4end5Ml9VYjREclh0dnR3SkVB?oc=5",
-      "source": "证券之星",
-      "summary": "AI眼镜的“iPhone时刻”，还有多远？_个股掘金 &nbsp;&nbsp; 证券之星",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "AI眼镜迈向“安卓规则”定义权之战",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iMHdJMmJSWjJuVTdRUGFKWkhEdG9nT0dDWlFkY1ZycFJZRnI3ejV0TFBXa2dPZDFjbEd2NGJ1NUYwalhkOUg3V3BmNnJfdUUyYmF1VVBDWFBjdER0SFR3cWVjVXc?oc=5",
-      "source": "DoNews",
-      "summary": "AI眼镜迈向“安卓规则”定义权之战 &nbsp;&nbsp; DoNews",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "AI眼镜的“iPhone时刻”，还有多远？",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TUm5oVW8zM1JQWUVYcFJ5TnpVRDdhN3dpUmttV1lNVVhBa0R5VzVVNklueW8zU08yT0Fna3FLN2VDWDlYRloxU3BmRjBoTVN5?oc=5",
-      "source": "富途牛牛",
-      "summary": "AI眼镜的“iPhone时刻”，还有多远？ &nbsp;&nbsp; 富途牛牛",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "曝影石入局AI眼镜赛道主打内容创作拍摄或搭千问模型_CNMO",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oZGZWOFMyYU5kY3ZBLUJsaXRlbmh3bkR3a1RTNUc3eVBJWVBJNGN1UzFPZURHUG5jSE8xa2lPX2JtQ3kzWHJMdTdPMA?oc=5",
-      "source": "CNMO",
-      "summary": "曝影石入局AI眼镜赛道主打内容创作拍摄或搭千问模型_CNMO &nbsp;&nbsp; CNMO",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "哈崎机器人：陪伴机器人的竞争优势在于「主动性」| Founder 100",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTQ5UFl0RndZalJoZGNpSFhkc0IwMTJoQzlnNU92dnhmdHB4eDg3cjI0SWJ4ZUlnN0Ztbjc0eVB4am9YZTNWTnRucWVpOVNFSlIzYUJoT1VUbDA3SWRUYUp5ak01aURHRGRCOXNVeXZQYUgteGhLeEIyYm5yNk5Bc2R1UkFSa0E?oc=5",
+      "date": "2026-10-11",
+      "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPajZFTUIzREdRTEJSc0JfTWpJVWl0UUlteXZDZ2Vxd1ljYlZPU29vMUd6RGxsNldTMWpVSi1ON1VWRFZMVm5DTHV0a2xLRV9yU20yT2xvTy1BMnJnTmV0N29JU3dmdlBmc1VDeHJjOG9abmkxNEtDdnZ4V2xKRWVnLUVhblBKVnI5RnRYa1ByamtyNkIwZVJIM0xJOUdqQU1sdkNBMU5aOVdoOFlCOFAxdWZMY255VWRxYk01RzZxZXVPaEdIR3dFUmpJZHZ1dEJjbUxKMkpWSlZNT3VKVElkRmE0Sm9waE9PdzJOeExKN1Rsd2l2emVXUFgtdlU1WGREN1pobWJoc0tQX3hNbTlFREU4ZTN6THREUG9NUUduNUduQ29DdUpJa3J6RGVxTG1xOThHUFU5MA?oc=5",
       "source": "新浪财经",
-      "summary": "哈崎机器人：陪伴机器人的竞争优势在于「主动性」| Founder 100 &nbsp;&nbsp; 新浪财经",
+      "summary": "抱歉，AI眼镜目前仍是个“鸡肋” &nbsp;&nbsp; 新浪财经",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "一副AI眼镜，难倒“眼镜之都”的小店主",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CZkRFaXpZeVBDb0tpbFVPZWN3bVBPcEFSNzZ5TzhXUWh6a1VsSkZLdl9uRFAtTXg2S0YzSUZmcnBSdlRzNUZBX1FaMGVaR1hmOGZJ?oc=5",
+      "source": "创业邦",
+      "summary": "一副AI眼镜，难倒“眼镜之都”的小店主 &nbsp;&nbsp; 创业邦",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "一家儿童机器人公司推出物理AI模型平台，即将完成超3000万美元的融资",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05TVd3ZDM4MFlVVC1kNnNwa0E0dWdVc1JkZ2Q4Q0hxM3FQWW0zWG5fbjB1SzZpWjdER0xpM2Y0b3RQVzNGMTdHMEZ1T1JCWDU1VkM1ZkIzc3VvSlZEYWR4VHI0RG9VNjVIT2Vobnk0a181Vy1zSk1QeUxLQmdnMkk?oc=5",
+      "source": "新浪网",
+      "summary": "一家儿童机器人公司推出物理AI模型平台，即将完成超3000万美元的融资 &nbsp;&nbsp; 新浪网",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "AI 陪伴机器人"
     },
     {
-      "date": "2026-09-29",
-      "title": "消费级3D打印店落户商圈，智能制造的“桌面战事”升温",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUckFQa2YzaEFhNkdpYXc0SkpUamUtenpTMnhLbFV1aU1KbjdBdWF4NUhXQmJoTnl5QWJDdEt4SWJGV2ZSb0tKLWx2MmhDUEhDVndsOVY5Nld0UlhzcHJKUldhalgtUnV1T3k3U3BmNHFOQQ?oc=5",
-      "source": "京报网",
-      "summary": "消费级3D打印店落户商圈，智能制造的“桌面战事”升温 &nbsp;&nbsp; 京报网",
+      "date": "2026-10-11",
+      "title": "中国AI产品消费热潮涌动：智能眼镜成新宠",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGNyQlZjMXozaGhUejVXY1N0cGVTbHI4TUx5dzMzSkt2ZUU2Z2M1UTl3R3Y0Q2dMQVFoV0VfdWZ4VjNoLUFLaHdSa0JMZy1HZHZVUWZwcmNOaHhjYThoXzlidEh6MTdQZGw1SXRUN05pMlVyM19NYTZQNTdtYnRWcWg0eFR3QzVn?oc=5",
+      "source": "搜狐",
+      "summary": "中国AI产品消费热潮涌动：智能眼镜成新宠 &nbsp;&nbsp; 搜狐",
       "via": "google",
       "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
+      "from_query": "AI 陪伴机器人"
     },
     {
-      "date": "2026-09-29",
-      "title": "东盟AI银发经济 | 对话广西广东商会会长林育生 粤桂携手助推银发产业跨境合作",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yWVoyd0Z0UHpFb2RvWk9CbW8zb2JTanFJOVlfSkR2aVl0VnpIQ2lPeEVTVnU3NlFHVkVXSjZKTE1QTGVadHZqVDAwUFU3NmVlSUNiZ1pCSmp2WnU0eDlBMVJESkFFcGVJWjQyZWZ0M3J6T1lPOXNiaThkdWRkdw?oc=5",
-      "source": "央视网",
-      "summary": "东盟AI银发经济 | 对话广西广东商会会长林育生 粤桂携手助推银发产业跨境合作 &nbsp;&nbsp; 央视网",
+      "date": "2026-10-10",
+      "title": "教人摆姿势的相机App，融资千万",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54a0xhRlBUTk1aM2JUOE5oX09Eb2F6VGk5RVVDOWFFWXJaeFFOVm9HUlpXVXFwQ2tqQS0zX0tJTXRQUGtmcW8wbWw4dUhvMXgwRnJDYV9ON0ZhTkNQSEdxSmtKQWp0djc5ZEpQZlFLejY3Zw?oc=5",
+      "source": "ThePaper.cn",
+      "summary": "教人摆姿势的相机App，融资千万 &nbsp;&nbsp; ThePaper.cn",
       "via": "google",
-      "group": "AI 陪伴",
-      "from_query": "银发经济 AI"
+      "group": "赛道",
+      "from_query": "AI 穿搭 App 融资"
     },
     {
-      "date": "2026-09-28",
-      "title": "刘珂：用 AI 做衣服，让工人多赚钱｜Founder 100（002）",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fZHNRLXNfMmVXcWNiQzRvd3IyckxkWHowMlVuMUpvbVZkZnJBaFRUdWsxUW0zeUdCMG9ULVpxbEE2b3JSa3VSR1oyN3c?oc=5",
-      "source": "极客公园",
-      "summary": "刘珂：用 AI 做衣服，让工人多赚钱｜Founder 100（002） &nbsp;&nbsp; 极客公园",
-      "via": "google",
+      "date": "2026-10-10",
+      "title": "国企要闻 | 广州轻工集团纺织公司全链赋能纺织服装产业高质量发展",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc326c8f5344c29dd02646becdcffd&url=https%3a%2f%2fwww.sohu.com%2fa%2f1086091350_121106875&c=15773961966247060143&mkt=en-us",
+      "source": "搜狐",
+      "summary": "纺织服装是广东传统优势产业，在这一庞大产业生态中，广州纺织工贸企业集团有限公司（下称纺织公司）作为广州市时尚消费品产业集群纺织服装细分领域“链主”企业，正以“链主领航、协会搭台、全链共振”为路径，持续把自身的规模实力与全链条服务能力向产业链开放，为广东纺织服装产业向价值链高端攀升注入强劲动能。 纺织公司依托年营业收入超百亿元的产业体量，多次联合协会举办供需对接会，累计链接超20万家企业资源，推动时 ...",
+      "via": "bing",
       "group": "服装行业",
-      "from_query": "服装行业 AI"
+      "from_query": "服装 品牌 出海"
     },
     {
-      "date": "2026-09-28",
-      "title": "全球AI眼镜2025年出货量达870万台 2026年有望突破千万台",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03MlZDcGt4OUZBTXV1dWpYV1dHNW5QekFXa0g0ckRpdXdoLUZOSWRFRlgyRkhZQU91Z2c1eUEzOGZLTklSUmw1QW8xMGpJcVFTT2lMRlQ5cGtFRDZvcFd2UXNSZw?oc=5",
-      "source": "东方财富",
-      "summary": "全球AI眼镜2025年出货量达870万台 2026年有望突破千万台 &nbsp;&nbsp; 东方财富",
+      "date": "2026-10-10",
+      "title": "极米AI眼镜即将开售，投影老大能否打造“第二增长曲线”？",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHJ6bFVfTk1ZMlBweWxVcld4ZnNOdG5nU29vd2k1Yk1yTHowbDdYcVpYUzd6SGRoRXNKUThObnN6dllKX0szZmdNZzVfUmtRRWNqRWhTd25leDAtSURnWmtPSzhMZm1raGRRUEhzekw5ZFl0SkdRd2tRMFkyeDktenpCM2JSZlJUR3hjZGtVcw?oc=5",
+      "source": "新浪网",
+      "summary": "极米AI眼镜即将开售，投影老大能否打造“第二增长曲线”？ &nbsp;&nbsp; 新浪网",
       "via": "google",
       "group": "新消费硬件",
       "from_query": "AI 眼镜 出货"
     },
     {
-      "date": "2026-09-28",
-      "title": "Omdia：2026年上半年全球AI眼镜出货量增长超一倍，创下420 万副的历史新高",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1WnFMMFBDTmhJelV1QzJhcVNLX1NLUmdiMUJWWlVORm5kcTJIMFgyMGg1cmpld3pWbUswdHZBWXA0RlNTQ2JhVHlLVzNaempTMmpaalRNLWVuVXBTN0NBVHpqdmhpLVU5RlpB?oc=5",
-      "source": "Business Wire",
-      "summary": "Omdia：2026年上半年全球AI眼镜出货量增长超一倍，创下420 万副的历史新高 &nbsp;&nbsp; Business Wire",
-      "via": "google",
+      "date": "2026-10-10",
+      "title": "870万台繁荣背后：AI眼镜卖得动，戴不住",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc327ba769457a9ddd1138d5aaed30&url=https%3a%2f%2fnews.10jqka.com.cn%2ffield%2f20261010%2f680551418.shtml&c=14721161846819497457&mkt=en-us",
+      "source": "同花顺财经",
+      "summary": "如今的智能眼镜正在出现分化。 市场研究机构Omdia数据显示，2025年全球AI眼镜出货量达到870万台，同比增长322%。不过，进入2026年，不同类型产品的市场表现出现了明显差异。IDC数据显示，第二季度中国智能眼镜出货量同比下降8%，其中AR/ER眼镜却增长了123%。 厂商也在做出不同的选择。有的眼镜主打拍摄和AI助手，有的面向观影、游戏等娱乐场景，还有新品主动取消摄像头，将轻量化和全天佩 ...",
+      "via": "bing",
       "group": "新消费硬件",
       "from_query": "AI 眼镜 出货"
     },
     {
-      "date": "2026-09-28",
-      "title": "独家｜影石正在研发主打拍摄的智能眼镜",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mWENNZnkwblNVYzVqcXVWUXlzZXlvRnBMa090OXlsRlVKSjJhZmZIcnkzeWQ2OWpma3JFcDBDZU95NzBkZlViYjU0T01sNXFBMk1EbTlrSWRfU1E?oc=5",
-      "source": "蓝鲸财经",
-      "summary": "独家｜影石正在研发主打拍摄的智能眼镜 &nbsp;&nbsp; 蓝鲸财经",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "VITURE联合创始人团队推出VONDER AI眼镜，今日预定299美元起，无摄像头与显示",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoVmx3UmljcFpROGRobkVTd0F6ZEQ5Z2RwTWRScHBkc2tzN0E0Mm04MGtwbjEzZ09ndFhSMGcweG5CU251NmJQcDR3aw?oc=5",
-      "source": "VR陀螺",
-      "summary": "VITURE联合创始人团队推出VONDER AI眼镜，今日预定299美元起，无摄像头与显示 &nbsp;&nbsp; VR陀螺",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "AI 眼镜卖爆了！全球出货量暴涨 263%：Meta 独占 94% 份额",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RMUFfS0xxWFBzWXo0b0Q4OFZxbnJwNnc0MTJfT2ktRm90RGtydGZGUThBWU9BaU1GMV9neEkzV1V4Z2xESW0zUmE0MWpJN2Zsb1YzR2tFdkw?oc=5",
-      "source": "白鲸出海",
-      "summary": "AI 眼镜卖爆了！全球出货量暴涨 263%：Meta 独占 94% 份额 &nbsp;&nbsp; 白鲸出海",
-      "via": "google",
-      "group": "新消费硬件",
-      "from_query": "AI 眼镜 出货"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "SiMa.ai Reaches $1.45B Valuation with $500 Million in Total Funding to Scale Physical AI in Humanoids, Automotive, and Drones",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTWRadmI2ZzBjcDAxbnhRZkd2WlNLTUtnREhsQXRndExfaDM4dnhhQ0R5MkY2UFJZaDhGNjdMUmR4MFJJUDQ1UTdSWllFQVB5WlRMSzVXSDZEVHphSll2TjVtX3UtVTlhb3NkV1c0WVAtZXNzSHFMQ1E4dm03V2FrOVItTXZ6aXd3aFpyMWozel9KMFBZSE5yWDJ5UTFTdnNMeHJsWTQ5dzRIUFY1WDVvdlFJdlZpYm5XZ3ctaXFfS0tZOXE4SVNSZHFLVTkwY0E2YTBKVnpFMlk4Mk9GX25NeFVNbHppZkpkR2M2RWdKNlRLVkVHUWdjZ1QzRzU3ZVVPZ0pFT3c2V3pic1hmR3lOY2hR?oc=5",
-      "source": "Business Wire",
-      "summary": "SiMa.ai Reaches $1.45B Valuation with $500 Million in Total Funding to Scale Physical AI in Humanoids, Automotive, and Drones &nbsp;&nbsp; Business Wire",
+      "date": "2026-10-10",
+      "title": "The case for hardware in the AI era is getting more compelling",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzVGV3RJLUNQMWE0cDZmM3lkQ083V1RQckI1ZHhDaHB5dDRNa21LSklRSjJseHhrUUJ2NkhLMHVkV1YzaDQwWHBZMUhmZmpyTGZUdkdnN2tqQ3I3eU00UEFmNUlrZXRRRjlRZzhwSjh6ZjUyUFFSRG02TGVhdXJReDA1WXJ4QzV1TjNkS3ZScFJTZmF0MU42eWtuNWFKZHFibzZPNjU1RDk5ZTUxd2JuMGZaNmc4bGdQRXdDV0l6VQ?oc=5",
+      "source": "Yahoo Finance",
+      "summary": "The case for hardware in the AI era is getting more compelling &nbsp;&nbsp; Yahoo Finance",
       "via": "google",
       "group": "新消费硬件",
       "from_query": "consumer AI hardware funding"
     },
     {
-      "date": "2026-09-28",
-      "title": "对话 Robopoet 孙兆治：全行业销量最高的 AI 陪伴玩具，Fuzozo 是如何「养成」的？",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5ZHRkLTNJMnBNTnhDa2RmMkJQdWNubk5uSnV1Tmd1bEMwUlBqek5HTmRSTHV5SXdZbnQyOHE1THlEWC1ZR0pIeGpEWF9KMHAzOXVfWWZn?oc=5",
-      "source": "QQ News",
-      "summary": "对话 Robopoet 孙兆治：全行业销量最高的 AI 陪伴玩具，Fuzozo 是如何「养成」的？ &nbsp;&nbsp; QQ News",
+      "date": "2026-10-10",
+      "title": "陪伴机器人8月线上市场：芙崽登顶灵宇宙收缩，AI毛绒挂件成爆品",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zb2hJYmkyY0szclBqam9LYmJ2V2RZcU9JUXZ2aFRtbnRqb2l1SWVVM1Vjb2RSZEtWaGhwY1VXM2NRd20yT0trRW1raWQtZG9KX2FOclFzcUdHak1VQ19zc0NQM0FxUE9D?oc=5",
+      "source": "我的钢铁",
+      "summary": "陪伴机器人8月线上市场：芙崽登顶灵宇宙收缩，AI毛绒挂件成爆品 &nbsp;&nbsp; 我的钢铁",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "AI 陪伴机器人"
     },
     {
-      "date": "2026-09-28",
-      "title": "具身智能进上海商圈，线下体验能否打开19999元消费入口？",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTJiRXQwdTBQUkNwODl3N2I4VTVycTlPTUV5bTczakVHWXFPcjhkbG9OMDd3OXhDTldMRUFBZkxEbko1Ri1xV1JGWjRmNElWMlZsMVlnWGJZaHVlMnRya1dPcFJkcFdVOWs5Y0VkQ3V3VGxpeTZIa2pWdjVfYkVqYVBnRFZMTXFXSHYtS1NyOA?oc=5",
-      "source": "21财经",
-      "summary": "具身智能进上海商圈，线下体验能否打开19999元消费入口？ &nbsp;&nbsp; 21财经",
+      "date": "2026-10-10",
+      "title": "看清“专业照护缺人”：医疗级陪伴机器人如何将“人力难覆盖”优化为“全时段在场”的辅助",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95U1FSRnFiRVZEcXB0UlVZV1g1ZnNqX3pobmg3a0V6akR6dmMyY3dLRVdLaHFadlE5MTlRR3NpMF9GUjJ6X1Z6OG1sRDZZS2l0cEVQSTROMjg?oc=5",
+      "source": "驱动之家",
+      "summary": "看清“专业照护缺人”：医疗级陪伴机器人如何将“人力难覆盖”优化为“全时段在场”的辅助 &nbsp;&nbsp; 驱动之家",
       "via": "google",
       "group": "AI 陪伴",
-      "from_query": "具身智能 消费"
+      "from_query": "AI 陪伴机器人"
     },
     {
-      "date": "2026-09-28",
-      "title": "具身智能机器人进驻文旅场景，南方基金钟贇持续关注机器人产业链",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfWVhGQl9EM3ZJd2gycWtDRElTT2pZUXhDVjFrUWpWdE9uaUtRSHBZcHFsUDBlcXd6d21LMkpDS1FPTDc3MnEzdEpFNWNJckhONkRhWE52MjhkRkhxVDY1clB4Q05NTGFrb1p1Q0FGcUNxX0VobDdVRA?oc=5",
+      "date": "2026-10-10",
+      "title": "太超前了！天河商圈业态、消费体验升级|具身智能机器人|智能家电|天河区|广州市|购物节",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbVk2OTc1VWpuUnZSNW1lOVJYVWdYeWF0QkhJeVBkZDAzOG1iQmZWeU9DTVUyWld5MDJjYXNhNFRDS2FTRE9lUzBXX1Frb0lCaXE4VzlFZnNQdGtIWG5obXprLW03VGU4aEZnV2tjNmtqSm14Y1g0TEZnQzYwY3RmLUxnRnNERFhNcWF0S2Y3a0NIQXNMZ1diUkNXVlh3M3ptNWFTY2VjazAza0tKdDczSTFwZDl3a2s3bHFhMG1nUEV0cVJ2cllVU1B2V2ppeEprYy13MC12VTQtMG1vUkgzSjNlbEhsaXFxRjYtTkR2SnZNdWxBNjUtN1RMT1VFU1NHTVF5V056cHQ?oc=5",
       "source": "新浪财经",
-      "summary": "具身智能机器人进驻文旅场景，南方基金钟贇持续关注机器人产业链 &nbsp;&nbsp; 新浪财经",
+      "summary": "太超前了！天河商圈业态、消费体验升级|具身智能机器人|智能家电|天河区|广州市|购物节 &nbsp;&nbsp; 新浪财经",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "具身智能 消费"
     },
     {
-      "date": "2026-09-28",
-      "title": "中秋假期消费数据出炉：具身智能机器人销售额增长93.1%",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXgwZ0hTWXdBMWJJd3lwMkRoMXprZ3hqNGR1Q1pmU3hXMldkemxETU1qMXVNU3loZ3F0SE12UzAxM1lPQkNjOEVMaEdRMkpkR0JGa1R3ZElKYXRFY1F0UHRPbVVRTHBNYnZYWE9rdTBHNm5ReXhCaWdNYXUzSXZ4b2dFcDdDSWlWUVZiUXdScUN2RXpqc2FnRlRNYlFKVVFQ?oc=5",
+      "date": "2026-10-10",
+      "title": "本末科技，还没吃上具身智能这碗饭",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVNRRmlkZjRRM0xXS3hManMyalc0N2ZoVmg2UUgxVXlkZHVLNkhtbnlPMnpvMDF3Q0oyNU5yT3hrZm12dW9sLVRsZXdtT2RsTHNGbFJ5bjNGMG0yV2lvM3U1V2t5eEYwTUoyQXZMWmhVb3hmeVlwZG0yd2lQVndUT2ZaUjgxVGZiTzY2Mg?oc=5",
       "source": "搜狐网",
-      "summary": "中秋假期消费数据出炉：具身智能机器人销售额增长93.1% &nbsp;&nbsp; 搜狐网",
+      "summary": "本末科技，还没吃上具身智能这碗饭 &nbsp;&nbsp; 搜狐网",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "具身智能 消费"
     },
     {
-      "date": "2026-09-28",
-      "title": "中秋假期全国消费市场需求旺供给足",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOM1Znc1FYQUs4dHdZdFpQX3ZhRzAtYktLd3d4X1NqTDFQLVFwQlFfeXJOSU5VTnRwWDlZRlkxOG84V2g1aExva2JGbktZRjN2OFdXTkNlb3V4OXQ0V24xOFNCWWRaM3VBeWpYcjhMcWJYYmFucG5uNV9sZElubHFUOG1VczByTGlIQUc1VXhxSHljblNubGYxNVBWMVFsNGhrX21MeEZkd1dpWkdIbjhaU0lhS3lZbFFqdjZBZFJ1V2tnTHQyZzhteFA0V0J5RnZmX3QzM21KNThBTTQyTXp5d25BVWRDYjhQZXJPY1VPaXBBeU1HdFJ6WTNTb1o2aGdWdmFwVkFvYjAtV2JxR3N1TFBWRzB6a05JdW94bl9HeWk4UQ?oc=5",
+      "date": "2026-10-10",
+      "title": "向新而生，与AI俱进——2026 产业独角兽评选启动",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUZEQnFJcFRSbWNjVTBMbjNQNG1iZDQ0dHhQWWZWNFh1cmV5VV9CeGJNUEZRaXlMc05Zb2VYQTJNREhOVHRZdkFrMjBIYzJ5bnR3ZWxnRGttNHlLWlFLTUhqWWlNanRFNmdpU1p5MjdhZXNZNFNYLWFYdTM2T3hBdFpIcXRRckVhUExnUw?oc=5",
+      "source": "搜狐网",
+      "summary": "向新而生，与AI俱进——2026 产业独角兽评选启动 &nbsp;&nbsp; 搜狐网",
+      "via": "google",
+      "group": "AI 陪伴",
+      "from_query": "具身智能 消费"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "衣流AI：垂直服装零售场景的AI内容营销工具，为千万线下门店降低内容获客门槛",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KQjdFQlFISHM3bnI2Z3Y2Um9BbDNmXzZCN3dwcXBtd0RMWlFzcS1FUFNxWmR4OVFaSEdITmV6c05IYzloOUdpN3l0OE90UQ?oc=5",
+      "source": "36Kr",
+      "summary": "衣流AI：垂直服装零售场景的AI内容营销工具，为千万线下门店降低内容获客门槛 &nbsp;&nbsp; 36Kr",
+      "via": "google",
+      "group": "服装行业",
+      "from_query": "服装行业 AI"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "首尔卖不动了，第三轮韩流服装再攻中日「打巷战」",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc326c8f5344c29dd02646becdcffd&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-10%2fdoc-iniusxpp2268120.shtml&c=9117024649250720428&mkt=en-us",
       "source": "新浪财经",
-      "summary": "中秋假期全国消费市场需求旺供给足 &nbsp;&nbsp; 新浪财经",
+      "summary": "首尔太小，鸟叔所在的江南区，也消化不了太多衣服了。 2025年，韩国时尚与服装零售额86万亿韩元（约等于 4290 亿元人民币），增速0.8%，几乎失去了增长。而4年前的2021年第四季度，它还有19.8%的增速。 内卷之下，韩国将目光转向上海和东京。 在上海安福路，一栋100年历史的老洋房里，韩国服装平台和品牌MUSINSA，去年12月开业首月，到店人数突破10万。在东京涩谷，同样是MUSINS ...",
+      "via": "bing",
+      "group": "服装行业",
+      "from_query": "服装 品牌 出海"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "一副眼镜卖断货，吴嘉让夸克长出了新物种",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42ZlFKWF9sVWhjc3Q4dm5HRHBhUHg5c01fMFhXS0Mxcmlqb1B1T29NV2hrcWQ0M1d6WG1xSlBFX0ZPT1dWSm1PYTZLMV8yUTcyVF93bHhfT3FiNEgwZ0lUY1QwR2RIY1FZSDU4?oc=5",
+      "source": "财经号",
+      "summary": "一副眼镜卖断货，吴嘉让夸克长出了新物种 &nbsp;&nbsp; 财经号",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "多家巨头密集押注AI眼镜，电感怎么突破技术瓶颈",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc327ba769457a9ddd1138d5aaed30&url=https%3a%2f%2fwww.sohu.com%2fa%2f1085413476_100193168&c=18145583468688513686&mkt=en-us",
+      "source": "搜狐",
+      "summary": "今年AI眼镜热度持续飙升，从“爆发元年”加速迈向“规模化拐点”。2026年，AI眼镜出货站上千万台量级新台阶，彻底告别“小众尝鲜”阶段，进入大众消费普及周期。 行业数据印证赛道高景气，上半年全球AI眼镜出货量同比暴涨263%，预计全年出货量达1610万台，2030年将增至8000万台，AI眼镜正以每年超50%的复合增长率狂飙。它将为产业链上下游创造超百亿增量市场空间。 科技巨头竞相入局，押注AI眼 ...",
+      "via": "bing",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "NetClass Technology Expands Into AI Companion Smart Hardware With LinkeeBot Launch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUhWLUVpV250eDJrTm5lVDAzTXVQQ01GaTJZRXh3Rkpka1FWMlJKN1FKWTRDRkVBLVhrZkNKZEVoeTFjbWh1YmQ1SDVjemxkWm43UlpleWlDdzFQUDZsTGFLM2ZLQUNjQkEwRUZlUWl1RjhZanM3RHlPSllmMmVTbElrOU1USGJKeDFJREwzSUZHLWxEZVF5VWNmMEQzX1pWRnRqakVYWQ?oc=5",
+      "source": "Yahoo Finance",
+      "summary": "NetClass Technology Expands Into AI Companion Smart Hardware With LinkeeBot Launch &nbsp;&nbsp; Yahoo Finance",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "consumer AI hardware funding"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Weekly Startup Funding Roundup: AI, Robotaxis and Consumer Brands Attract Big Money",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc327e63554272b4fa6b2416956100&url=https%3a%2f%2fwww.analyticsinsight.net%2fstartups%2fweekly-startup-funding-roundup-ai-robotaxis-and-consumer-brands-attract-big-money&c=12742243253041207985&mkt=en-us",
+      "source": "Analytics Insight",
+      "summary": "This week’s startup funding activity highlighted growing investor interest in artificial intelligence, autonomous mobility, maritime intelligence and consumer b ...",
+      "via": "bing",
+      "group": "新消费硬件",
+      "from_query": "consumer AI hardware funding"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "2027亚洲具身智能与机器人展(AESE)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DdjIwcmlrVk0zc2VaZnN0SVk4Xy1XejhtaEd2OXlUUTR6QzZ1Q3dnamkxak5mUEhrRE95Ql9aaDJUZEYyWGRaRFFEc2JxQV96cURZQUZ3?oc=5",
+      "source": "投资界",
+      "summary": "2027亚洲具身智能与机器人展(AESE) &nbsp;&nbsp; 投资界",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "具身智能 消费"
     },
     {
-      "date": "2026-09-28",
-      "title": "智能穿戴设备成中秋节爆款",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aOU44c1FvRGNNNWdPU1A0RWh1UjZqTjc5Wnd4RjhIS3lZaFBqaDJSVVdfYkFZOWZhVGVTNWlnSjJGMm1yTWxONkplN29XQlhITXg4MTNmYm1HUTNwYzFBTmdkMmRDdEZQanljcmxsekthX0lQRl9oeQ?oc=5",
+      "date": "2026-10-09",
+      "title": "智能、绿色、健康商品国庆假期需求旺盛|具身智能机器人|智能眼镜|国庆节|消费市场|以旧换新",
+      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxOMk8zN194TzlIclg0OF9uVlpsMkxRVlZMVTdhazNFdjFIU01lUC1XVHhpc1A1b0pmeFk3U3dzTjFNZjlaMlh4cXZQMEJ3MURZWWRkSnJFVHZ3NXFvTS0wampsam05ZGNjWUpHQ1FoUkxzWHAxUnBZeDc3M2hya09DQXYyR1JiaUVqejRxSGw3Z0E1cEFESFFBVURwc0d1M0Vqc3IzZDdEd3I4TXdrLUVPX08tYzVtQTNvUGxweWszWV8tVVNHQjhJTnNjV0F6dFFlT1BSV2VLdTZuMHlIamVubmpWRndXVS1FSzRBTU9YMlFUVk9iT0o2amVfeENlTW1FeGs0ZTNtQ3JWSDlUdkQ4ZFV4Y3ZZV3VpblhoZUkzN3A5bEhSdVBBR0psejZZU3phbDFPdnAzWHdTWEZtUVFnaEJaMVVxZ0lna2tNLUJCeHNwR3lqb3lsYXhMdk1QYlVsM3BsT1pBQ0I5Rmh3a3IxRklrRDRVQkh4RnFDUnNvN0tUZ3FYRm04eHcwcllQMWZXUDc5OC1wT2FIRDZjdzVOYXY1RG1fR1BXa0VkWHJocG5CeHVwTVRoS21Tcm9hYndnTmRrT3ZReEFzZkpMaG9oVzd1SWtpWGlXTTRnckQwU0tKcDlERVh3YWFiUTQ2S1VkZjl0TFVsTXl6MElqQ2UzX2dmUGxrX0M1RXFpYlhpUDF1bmw3dlprSEl4b0VVeVRxYXN0a1czb2Uwc2ZnWXc?oc=5",
+      "source": "finance.sina.com.cn",
+      "summary": "智能、绿色、健康商品国庆假期需求旺盛|具身智能机器人|智能眼镜|国庆节|消费市场|以旧换新 &nbsp;&nbsp; finance.sina.com.cn",
+      "via": "google",
+      "group": "AI 陪伴",
+      "from_query": "具身智能 消费"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "AI眼镜公司「比特幻境」完成数亿元天使轮融资",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5X0FFUDJtMWVJbjFsT1hjNnNmRVl0ZHRRbW1lOUp5Unhva0Jrb2V5Zm5qZGcxY1JRWWhuNktZUDVBak0yZDFxRjM4NA?oc=5",
+      "source": "品牌方舟",
+      "summary": "AI眼镜公司「比特幻境」完成数亿元天使轮融资 &nbsp;&nbsp; 品牌方舟",
+      "via": "google",
+      "group": "赛道",
+      "from_query": "AI 穿搭 App 融资"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Levi's财报里的AI：传统服装公司开始用AI卖牛仔裤了-yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMRVVxN0F3STNzUVV1M09LUWxZcUxfQm0zQUNBZWxWX05Ja0FRV1Zxb0x3VEc1eE5sQkk4NmczZF9seWdfRzM4RkZWanRlREFLVEM0eVhn?oc=5",
+      "source": "yeeyi",
+      "summary": "Levi's财报里的AI：传统服装公司开始用AI卖牛仔裤了-yeeyi &nbsp;&nbsp; yeeyi",
+      "via": "google",
+      "group": "服装行业",
+      "from_query": "服装行业 AI"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "云栖回顾 | ：天猫3C数码构筑消费级AI硬件商业化“第一阵地”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT203anY3bEtTdlhrZGYwZUJJc0NpNWNLNEZEaWZ5VWtPRVdMRDdmTGNsV1R3UmNJTmhoV0pGMVZGSFJQcWdEVWRWVndqckhyalctUnlzVHR1eWl2WWc?oc=5",
+      "source": "CSDN",
+      "summary": "云栖回顾 | ：天猫3C数码构筑消费级AI硬件商业化“第一阵地” &nbsp;&nbsp; CSDN",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 硬件 消费级"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "轻量模型成本探底 AI 硬件起量 定制芯片与算力融资双线加码 | 前沿快讯",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUTdsLW5PN1pIdkNxNU5FZTNBM3NNR3RYd0FIQ0Q4aU42X0EtSXpzaGRNdU1KUzhXaHBual9uWDZOX3FWMEhweFowRW1EUFduRTFOSHpfSzhhdnVrMEI1MEpR?oc=5",
+      "source": "QQ News",
+      "summary": "轻量模型成本探底 AI 硬件起量 定制芯片与算力融资双线加码 | 前沿快讯 &nbsp;&nbsp; QQ News",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 硬件 消费级"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "智能眼镜隐私监管趋严：澳洲调查中国软件商，多国限制使用",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbDFobzV1Z3FUZnlEc3A5VE5vVWxjNnBKdXU1SjFZOWxrMy1UX1FmTEVDN0tpLXZlT2JadWtwYngtMmtGNkZlRThyb2hiS3FzbXc?oc=5",
+      "source": "虎嗅网",
+      "summary": "智能眼镜隐私监管趋严：澳洲调查中国软件商，多国限制使用 &nbsp;&nbsp; 虎嗅网",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "AI眼镜品牌「NIMO」宣布完成数亿元人民币天使轮融资",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1ZXVXlwOEpNY1ZJOVhxbDBtS2pkem5pQllySHY5UkZNN2dLMmhPQXdWamllUG9BekUweXU0OXBiaEdNLTdFTS1VUFRub3MzQ0YtTW5DcGJmZWdZWjlVd21Ta3JleDZadk1SaERwN3dLUHJySk8zWXNMZlFxRjhZQm5jczdfcTFa?oc=5",
+      "source": "搜狐网",
+      "summary": "AI眼镜品牌「NIMO」宣布完成数亿元人民币天使轮融资 &nbsp;&nbsp; 搜狐网",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "索尼向Meta转让419项XR专利，被视为收缩AR/VR硬件业务信号",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EQ0pjbHA2UjFoNzhNalpzbEY5UXZiY0k3SmhySy10UmtOWGdnMG5VUGpURkNJRzQyT3BPYWdXbm9nYUhNN3BZdTlqQQ?oc=5",
+      "source": "VR陀螺",
+      "summary": "索尼向Meta转让419项XR专利，被视为收缩AR/VR硬件业务信号 &nbsp;&nbsp; VR陀螺",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "The Vogue Business Funding Tracker",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02b2Y4OEVBeU4yMzJ6UFdZNlFOZzBMWWdfVGVJaWVIVnREZVM2OEZBdkRfQ21lWlR3T1QxSHZ6dHZDVHR6VU82U1YzY2xObU1UejJ4QzVRRXpvM3R5SXBGdDMyNXRaTnBNTmlSRnQ3OHhsZw?oc=5",
+      "source": "Vogue",
+      "summary": "The Vogue Business Funding Tracker &nbsp;&nbsp; Vogue",
+      "via": "google",
+      "group": "赛道",
+      "from_query": "AI stylist app funding"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "The Vogue Business AI Tracker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
+      "source": "Vogue",
+      "summary": "The Vogue Business AI Tracker &nbsp;&nbsp; Vogue",
+      "via": "google",
+      "group": "赛道",
+      "from_query": "virtual try-on startup funding"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "从“黑科技”到“贴心伴”：AI消费解锁假日新体验",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5acEg4Nkd6Vy15dVdzaW02cmoySlRXc0pwdEJKWWFpNW9lRlU3NXZLckdPdm1KNWE4b2xqS2hscnJqWEc2bzNwSlB6VE5HeENUc0JYc3dCaHRmUl9aczNEcDBDbDF3U3pvenlhb1YtMUdtZFpCWHhLUThnUVg?oc=5",
+      "source": "中国日报网",
+      "summary": "从“黑科技”到“贴心伴”：AI消费解锁假日新体验 &nbsp;&nbsp; 中国日报网",
+      "via": "google",
+      "group": "AI 陪伴",
+      "from_query": "AI 陪伴机器人"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "50多岁夫妇在上海为80岁独居老人买机器人，具身智能成国庆长假消费新亮点|上观新闻|淮海中路|启元Q1|上海市|消费市场",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc01KNGZzbExPVTN4T05SUGc1YUVOazlZdGNwZW9TOHBZMENkeEQyU2Jac1diN3NsWFRLZmJ5VDhrVHdINDFmRWx2dlNvNUdyZUtxVUpmTE11aFVDSVJRM1hRTGFBZXNSQ3FXelRqS3FYbXI1YURnVUJ4RHBTb3JNZFVmYS1zb1hqXzduV1V1U2QxSFFBd3I4TlBJWkdHakp4YWc1clM2VQ?oc=5",
       "source": "新浪财经",
-      "summary": "智能穿戴设备成中秋节爆款 &nbsp;&nbsp; 新浪财经",
+      "summary": "50多岁夫妇在上海为80岁独居老人买机器人，具身智能成国庆长假消费新亮点|上观新闻|淮海中路|启元Q1|上海市|消费市场 &nbsp;&nbsp; 新浪财经",
       "via": "google",
       "group": "AI 陪伴",
       "from_query": "具身智能 消费"
     },
     {
-      "date": "2026-09-28",
-      "title": "AI成银发经济引擎 2026年养老服务机器人或将破百亿规模",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUVNqV3FKRWQ5M1pqbXMwTmV2aEwxR3VSWTA1dkNub1hEeF9wRVZRTEFVdDhwQ1hoczFXUkRwTzhQSldGNngwcW9kejY3S0tfNjRJNERTWms3M3FkNTJ5dVpBMHQzNmUxanlfY1pGWlFSeXhpVVowNTNmb2JIVGtLVDU2RWprWFJLaV9HMDB5SkV5NkJLMWJYVnh4TzVpQnBUN285MWRHcG1RdHF6VDVsczF5dVF5NXQtOTlqbXA4MUF4cEZhSXRzV3lOdWNCSEJkSEtPUGRGTlZzWDlXMGRMNVpHYkkzLXNWcmdrOVQ4ZkE?oc=5",
-      "source": "t.cj.sina.cn",
-      "summary": "AI成银发经济引擎 2026年养老服务机器人或将破百亿规模 &nbsp;&nbsp; t.cj.sina.cn",
+      "date": "2026-10-06",
+      "title": "Ash Pollard divides the internet with post about robots in aged care facilities",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc328a8dbb4f91b1ffe6372e866156&url=https%3a%2f%2fwww.msn.com%2fen-au%2fnews%2fother%2fash-pollard-divides-the-internet-with-post-about-robots-in-aged-care-facilities%2far-AA2dIvqp&c=13909670175906126430&mkt=en-us",
+      "source": "7NEWS Australia on MSN",
+      "summary": "TV and radio personality Ash Pollard has divided the internet after sharing a photo of her daughters with a humanoid robot at an aged care facility, with some people “enraged” by the interaction.",
+      "via": "bing",
+      "group": "AI 陪伴",
+      "from_query": "AI companion robot elderly"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NaHJIcFU5YUp5aGdoN244QkJfSE9JM2hQOGdyTWw4Y3ZjSjdCSW1lY2F0NmlOM1RmaWtrUHQwdnhqNm1SSHExTlhkUjZvR2F1cnc?oc=5",
+      "source": "国际电子商情",
+      "summary": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成 &nbsp;&nbsp; 国际电子商情",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "【三年涨25倍！2026年智能眼镜新品扎堆：Meta一家独大，小米、雷鸟、阿里等进入第一梯队】PjTime.COM 市场观察",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83ZzNOeF9JbHN2MThtb09FUWFYLUtMMTZadjJHdjFIS2RvbUprYkV3cDJKaW5hSkdmel9GU2NHUWJZYS1od1lDME9WVTFZTkwzV3VaaGRWcjVLYmZY?oc=5",
+      "source": "投影时代",
+      "summary": "【三年涨25倍！2026年智能眼镜新品扎堆：Meta一家独大，小米、雷鸟、阿里等进入第一梯队】PjTime.COM 市场观察 &nbsp;&nbsp; 投影时代",
+      "via": "google",
+      "group": "新消费硬件",
+      "from_query": "AI 眼镜 出货"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "具身智能入驻商圈 人机互动焕新消费【3】",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lcU9vMi1TbGp0WU5IbnBhUjNxVXI2d1lsRms5anZOV3lUWXprMWhNal83TWhxWWo0Qk1zQzVWQ1QwZFB2RWRkV2JKWUhVbWJSeFFBcEtqLXBjampEWEZXLVFHWUZtT2FwdDVZ?oc=5",
+      "source": "人民网-图片频道",
+      "summary": "具身智能入驻商圈 人机互动焕新消费【3】 &nbsp;&nbsp; 人民网-图片频道",
       "via": "google",
       "group": "AI 陪伴",
-      "from_query": "银发经济 AI"
+      "from_query": "具身智能 消费"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "具身智能入驻商圈人机互动焕新消费_综合要闻_HRB蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6X0dodVBJVG5fTUk4SFBPcjZtc3h1bkdDZmFlaDRXR1pGb1c0Y2RqTUpTWG1aa1BSZVFHZUlMdmdDWGZXYmhXYkd3S2pJMG91Z1Fldy1pdVp0dVhIcnJiclE3VjBlZw?oc=5",
+      "source": "哈尔滨广播电视台",
+      "summary": "具身智能入驻商圈人机互动焕新消费_综合要闻_HRB蓝网 &nbsp;&nbsp; 哈尔滨广播电视台",
+      "via": "google",
+      "group": "AI 陪伴",
+      "from_query": "具身智能 消费"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "具身智能入驻商圈 人机互动焕新消费",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BbVJ4MUJXdDVHUGdBV3dBa3hiUTVwM29KS1ktVV9pY1hHWWlzTVpTTF80bTd2QVhxRVI1S3BVRDlTbHc0MnVHbEFIaC15WnBhMHl3?oc=5",
+      "source": "环球网",
+      "summary": "具身智能入驻商圈 人机互动焕新消费 &nbsp;&nbsp; 环球网",
+      "via": "google",
+      "group": "AI 陪伴",
+      "from_query": "具身智能 消费"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "机器人扎堆“秀技”成假期新顶流|具身智能机器人|国庆节|国庆假期|合肥市|屯溪区",
+      "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxQQm9rbmRkTzhTYjdOTkpzLTBTa0R4UG1XSWVkdWJWV0s1dFNwLUpCbWZDSDI5QjZJdHpJT2hKLXI4M1lFQkFGdWRudzhpZXZQQzBDSjUxU1RTc2Jfd3QwTEFVc0IwSU0xQ2RveVRPT0tOOFVOVjduQ1Q4cVZWeXJTUXFmT1ZGNzJEcGxDUzFWcEJaV0F0WV9Kc0lXcFFGNm9xY0tESnBaOGdkZ2s1dTJkMnZyNzZRWlFaMFpibFNJZDhySGJLb3dwQVg3ek13T1Q3WE03QnlXaE9qZ3gyemFpTGc4QkI2TTVSUkJhMkYtd29wUUg1WUlnV3BZN19MV1BidEVaX25yUkZoLVVLdFdKNENNWWZEY2FUaE1EMzZxTHowUlVlZk9SN2xWTklfbk5xVmNFTjJVT3RVbEZwclViczdzeVFodUZ2NUQxRHFYWGhSMmJDZHExWURwNjBZNWotYV9JNVVZbGJIVG5iTEVzX2hXZFFGRWplOGh1NVJnNkRaaFFielFpRk54ZDVkSDFzSEhLT2tQRGxCeUtfcmlpazBabTU0LWpDMHlDaFlTanZRUmZpQTZZcWJlMkJud1RQOFhybXpVNldBZzVNT1UtZzdtMXdKWExWcHRua0Vsa1hpbzI4Ymk5T204MURIZ1JLRkNNVUxhUFhrQ2dJM1c3YnY2UWdBWllWUk1CeEM4cFozNmpuZVZ6N2pqT2pieERfQzQ5bHpuY3k2WHFyZkxVbmNsb1E2TllEUmhab3hfNE1MNE5peTVvbS1qZ0JEUHBTb0RjYWFQRnZoeVQ2MlR5eUxEdDNvMExvaXgyOWl5dWVkeHM1N1pjM0I2R3hGeDVDejJ1dlYxcGYwMUZsZFN3d19BOFVqRUFuRExKZkNkV0hWT0Q0anZHRWFoRG1PZDNYVGc?oc=5",
+      "source": "finance.sina.com.cn",
+      "summary": "机器人扎堆“秀技”成假期新顶流|具身智能机器人|国庆节|国庆假期|合肥市|屯溪区 &nbsp;&nbsp; finance.sina.com.cn",
+      "via": "google",
+      "group": "AI 陪伴",
+      "from_query": "具身智能 消费"
     }
   ],
   "source_health": {
