@@ -1,212 +1,197 @@
 {
-  "week": "2026-W42",
+  "week": "2026-W43",
   "first_run": false,
-  "compared_with": "2026-W41",
+  "compared_with": "2026-W42",
   "changes": [
     {
       "competitor": "Alta",
       "type": "new_version",
       "store": "apple",
-      "detail": "2.2.5 → 2.2.7",
-      "released_at": "2026-10-16",
+      "detail": "2.2.7 → 2.2.8",
+      "released_at": "2026-10-21",
       "release_notes": "New features every week! Discover the explore page, Home Screen widget, event and trip planning, and so much more. Improved styling algorithm and more realistic avatars."
     },
     {
       "competitor": "Alta",
       "type": "news",
-      "detail": "'Too Much Tony': New book teaches kids its okay to be themselves",
-      "date": "2026-10-11",
-      "source": "KRON San Francisco on MSN",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55c5e596a46fa94a1664d579f9490&url=https%3a%2f%2fwww.msn.com%2fen-us%2fvideo%2fother%2ftoo-much-tony-new-book-teaches-kids-its-okay-to-be-themselves%2fvi-AA2e2830&c=6364807599370424250&mkt=en-us",
-      "summary": "Dr. Jenny Wang, PhD, joins KRON4 to talk about her new book, \"Too Much Tony.\" ..."
+      "detail": "Meet Jenny Wang",
+      "date": "2026-10-22",
+      "source": "CanvasRebel Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0WjVhZTM4Uk1KN2EzSW5ybGk1M3gzMnFUVURXenp5NU5uMm93Z3U1SEV2c2c1aXVjbDVQenZtSmxRLUQ4TWlCNFJ5SVBoSFVWRzg2NQ?oc=5",
+      "summary": "Meet Jenny Wang &nbsp;&nbsp; CanvasRebel Magazine"
+    },
+    {
+      "competitor": "Alta",
+      "type": "news",
+      "detail": "Exclusive: Alta raises $20 million Series A from Forerunner",
+      "date": "2026-10-22",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3k1cmNBT1BneVJ0VzFWUVp2a0pNdzVOaFJmU1BkaG1yeEZpZUVlYzJmN1dHXzhqWjFVLUs4UlFWVjc4TGFiZVZwQmtvSEdmbl9aUDZoR0h2cXU4djRQdFJhMjlmaUxaQmhMNXFqZmN3WnFVeExKYmhYT0tzTHRITUMxT2ZveXNXUXdncDhpWTM0M1pZdHdWSU11dGFBaE0?oc=5",
+      "summary": "Exclusive: Alta raises $20 million Series A from Forerunner &nbsp;&nbsp; Fortune"
     },
     {
       "competitor": "Stitch Fix",
       "type": "new_version",
       "store": "apple",
-      "detail": "11.24.0 → 11.26.0",
-      "released_at": "2026-10-12",
+      "detail": "11.26.0 → 11.27.0",
+      "released_at": "2026-10-19",
       "release_notes": "Recent updates in the Stitch Fix app:\n\n• Bug fixes & improvements. Updates make your experience even more seamless.\n\nWhat do you think of the Stitch Fix app? If you like us, please write a review in the App Store! Problems or suggestions? Please email hello@stitchfix.com."
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "UBS cuts target to USD 3.50 for Stitch Fix stock",
-      "date": "2026-10-17",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzltNTdJVDFBZjNaeUpvazRVam5RSUdkczhPR21fRFFjNGJVTE9CSjlOMDJZM25PanVFS0tRRTNZUWM0U0NjRFJDZUNIQkZJX0djTFo4NFRwZDhCUTltRnR5OENJT3ctYVB5ZGtNYzV6U2hOTkN1OXFnLVRKemF6QWtTTE1lcFVhcEpSSG92WFp1LTJZWjNrLU01Uk9vRERIZkx4eTIyZWlHejg?oc=5",
-      "summary": "UBS cuts target to USD 3.50 for Stitch Fix stock &nbsp;&nbsp; ad-hoc-news.de"
+      "detail": "Stitch Fix, Inc. Class A Estimates – BX:SYJ",
+      "date": "2026-10-24",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91aC1YZ0M2bUNjMkp2Z1FzeFpNX3dVY1JoUHdrTVk3UnhuQ2c2azFSTkRXSDdMWTBpLXdJRjNodnlIQTdZVng4UTNsZjFpZUNLUDVsZTlzT2c4SUJfc1QxaXk5ZnFMdDU0VG5vd3pQRFc1UQ?oc=5",
+      "summary": "Stitch Fix, Inc. Class A Estimates – BX:SYJ &nbsp;&nbsp; TradingView"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Q1 Earnings Estimate for Stitch Fix Issued By Zacks Research",
-      "date": "2026-10-16",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjQ2WVpkbUZtdzdnVXBZVkRMNUJKWmtXN2Q0WmFIWFdYQXJWQnFzNDZZSWRRTnpMdTZLenJ4R2FkRmd3QW1xdG1GRzRnaFRaWm4wTFFIeTAzNVBzelF2VnYxTjdrVjdFQm5zX1FuXzh5T2YzRE9meklrZURDMTRVcGpqM1FzVHFBOTdQSVNPTktCc0VLLUE0NnhUTXRMVXVjNHdHWXVLQ1QtQWF1LW5YQ1Vwc0E5aklVSjJySEpLOFhmQQ?oc=5",
-      "summary": "Q1 Earnings Estimate for Stitch Fix Issued By Zacks Research &nbsp;&nbsp; MarketBeat"
+      "detail": "Form 4 Stitch Fix: David Aufderhaar (CFO) For: 20 October By Investing.com",
+      "date": "2026-10-24",
+      "source": "Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXdJalBKMWlsS0NPT3RNZEZiaXZzc1hmSUVPNWV1OUM3NVJXeXlVaC1DaU5iMFZoVnBJbUdtaWxVaUl4TVVoUGk1cUVUaDN4WUVvaGRIeGpWd09mSzZnNUVXY1pxU3Mza3hzNnNOclI3YmJoOU5rVjJLcmhXM2piM1B2bHRFblBkWWFvQTU4R2RFR0lHcTJKbFNmdUV1TjJYVEkydWNiamZxVnJNdjZhSl9LdlE?oc=5",
+      "summary": "Form 4 Stitch Fix: David Aufderhaar (CFO) For: 20 October By Investing.com &nbsp;&nbsp; Investing.com South Africa"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Four parties each report ownership of 5% or less in Stitch Fix (SFIX)",
-      "date": "2026-10-15",
+      "detail": "What Comes Next For Stitch Fix After A 50% Slide",
+      "date": "2026-10-24",
+      "source": "Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFJ4WldzTDAwN3YxOFlrZXNyLUduQWRpNFZvUkdMclkybk1EOW0zQldVdlVLRFFPUmNIM3JNUndIcng0c1l4cmZKNlV3WDNfT0J0OHhnV2pkNmVraFFFLU5pQ1QyQnpkWjBYaVdsS295UDRqWlIzWGtacXNmRU9lRTVxZG5YbTFncW5pZW1Tbkc5MVhPZG9zTlVSdHp5RHRRaHBQcGxpZWtEZkNMVXU3MzhtbnfSAboBQVVfeXFMUGpSOFkxV2R0dy1TNGxIcEM2TUMtb01jTVUzNUtZYU1PXzFVLTFTS00tenRDdW5Qc3BCX3J1aGhXMW9CZVJiM2JuUmdPM0hTcUt1T0pHQzdqZEtoeGYyQlR5c3BZUUNwSUxHTkd4NWlQV1dndzBpZFZUOG4xLUVWN2NQMDNtZmxocGRnczExb0R4eEU0YS0wQzNJdFU5eXNkUFNRTDU4VEhmSldPbDFzNUxOa1VXazdxMEpR?oc=5",
+      "summary": "What Comes Next For Stitch Fix After A 50% Slide &nbsp;&nbsp; Simply Wall Street"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Form 4 Stitch Fix: Casey O’Connor (CLO) For: 20 October By Investing.com",
+      "date": "2026-10-23",
+      "source": "Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFBiRlRzUGRxc3hvc1JQekR1WkduLUI0ZjZMS0pib0RWLUZLQTNFMEpENDlPVkNxbDctaElRZmRXZ0EwMlFmVHNVNWxuaGtLT3ZWWFNrSkUtRFBDMGhlSGlsTTRZQjZiWDlGajNhcUNSVll4Z3FfVmU3cjI2cndqUGlRUVBCX3hvOHB5VHl0ZEhzVVpXMWNLTi1CQzNicjZ5SXA5bzQ0RTBiTGJLZGtpTA?oc=5",
+      "summary": "Form 4 Stitch Fix: Casey O’Connor (CLO) For: 20 October By Investing.com &nbsp;&nbsp; Investing.com South Africa"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Why Is Stitch Fix (SFIX) Up 23.1% Since Last Earnings Report?",
+      "date": "2026-10-23",
+      "source": "Yahoo Finance",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade958025534687866c0b55abdfb229&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fwhy-stitch-fix-sfix-23-143003143.html&c=7531734344537023945&mkt=en-us",
+      "summary": "Stitch Fix (SFIX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Stitch Fix | 4: Statement of changes in beneficial ownership of securities-Officer Baer Matt",
+      "date": "2026-10-22",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVpRaURnOXVpN0E0cFRNSmp6clRBb0p2NVh4akdDSG9FaDduTWJBMTktN0VQSjg2Z1hWOWV1YVdWQ0pWM1REb2NBSUROYUxBT0lXVVFFUTBEMjhkRDlVdEJjcWFaWVRLMG1scmRUeXVRTlM1RHVoZ1pnNjQyczJjVTBDdTVxOEZrbGFzdkxmYlZZdWN2TDhZYmpqSTJYZXZSeC12Mk1mU09SUmw1NG1WVjB3TGRKNHRr?oc=5",
+      "summary": "Stitch Fix | 4: Statement of changes in beneficial ownership of securities-Officer Baer Matt &nbsp;&nbsp; Moomoo"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "Form 144 Stitch Fix For: 21 October By Investing.com",
+      "date": "2026-10-22",
+      "source": "Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenJqZWNObmJyeDlvSFZucVJMdmZmLUNDdVROb0EybmxfdUR4UTN4XzNfWTBHVXk3SnRWaEY5cjhBbmxnTWlsdVk4ZVRwX29zNDZZVHBRdWFHclFpdG4xNUFZN0g2MjBLSzZlU1NCRnBDbzJEY0dnMjBCMkc4YVB1UnREMVRvcWg3bF9CZTM4NFFZZ0MxWjBkZUJRYw?oc=5",
+      "summary": "Form 144 Stitch Fix For: 21 October By Investing.com &nbsp;&nbsp; Investing.com Nigeria"
+    },
+    {
+      "competitor": "Stitch Fix",
+      "type": "news",
+      "detail": "A 266,667-share grant for Stitch Fix (SFIX) legal chief comes with service-linked vesting.",
+      "date": "2026-10-22",
       "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUdtWk5YSEdfck1fM2M5NFlITjM0R1J6X2RPYVVCQ2REREJxYzNZTTE4WHI2Nmh0ek8xRGpaMEsydlFKbEpFTlBZdU81NVRMdDFwMjRjMWJGa1RlVHU0RUFibmR4WHlxZHBOdzdxX2NJNnFTRXFhNzNNSG5NMFJJTjNmVVlHT040dHh2TExBVkxiRXJoMWp1QmlRUDNHNERwQzQ1NG12S2p6bUpYa0pfMlBqZzVZUDZSZ0FvWldTMU9LemplZFlwaw?oc=5",
-      "summary": "Four parties each report ownership of 5% or less in Stitch Fix (SFIX) &nbsp;&nbsp; Stock Titan"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXlNTm0yaUthNVd6bTdiN3EyZHNHMnNHcW9IM3FFTmV1b0F4SzZSN2VybjllbTlfSnVFX1hQbWljeS1YYzRYb2FqZW9VbUtVSFdBaDRIM1hYOUhfUVo2TkFaX1dnOE5PclJrbERXSjc5SmNKdHVuSEV5ZmM1NmpFOW5kV0hMUEFrcm5OZnI3NThaUmVRUHVEcTB5V0g4TXVLNUsyNzk5c1kwTF8w?oc=5",
+      "summary": "A 266,667-share grant for Stitch Fix (SFIX) legal chief comes with service-linked vesting. &nbsp;&nbsp; Stock Titan"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Stitch Fix, Inc. - SFIX",
-      "date": "2026-10-15",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbi1IUHJKT2lJMFFMTFBtTEczWnRUeHItdVgyTlgxdkdrNDBVeWFERG9oMDRzT3FQSFBmY0NiTV9hZ2J3TkItLUFnMWI0VVVfdFRCVW5DbDFLOXpkMFhUYjAtSXNUSkU2Q1p0VjZ2Qmh0QkJpb2h4TVd1M0pZbk1ScEdBeUxYUGszWXNMX1VpeXBvbDZsV2VOSFNVbTJiZHNGWmtScnBVNzQ1eGIwMnlkdFVVcXdlVmZpamJ0dXZfMVd1SHozMy1BWUNpMzlKTGNycjV6Q29lWlZMY3BoVFVOZnlxd05pMG9yaE1WbEZB?oc=5",
-      "summary": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Stitch Fix, Inc. - SFIX &nbsp;&nbsp; PR Newswire"
+      "detail": "A 462,963-share award brings the CFO's Stitch Fix (SFIX) holdings to 1,546,562 shares.",
+      "date": "2026-10-22",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmtfMTVUTzBCTjRUajgxYTBMeW5kdTdyb2oxeXdsZEhlNUdmcUV4eTk1VkhOenM3SXdGRUQ4LUFNcno2V1VfMDhlT1BlQmFVeHRmbld6SHByM3VrelJkd2tNZTVkNTJlT1BPTUE3UGNXd1g1YnNqcEFTZ2VSazNPM0ZhY25GWGtZaVo3VUFLX3hPNDE1MG9CRU9kTEpELU0yQ2t6Yk9id2U1TXNM?oc=5",
+      "summary": "A 462,963-share award brings the CFO's Stitch Fix (SFIX) holdings to 1,546,562 shares. &nbsp;&nbsp; Stock Titan"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Working Capital Advisors (UK) Ltd. Trims Stitch Fix Inc (SFIX) S",
-      "date": "2026-10-15",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOWFzOTRhM3FjRkY5R3ExTm9XNktSZnZrV0tmR0xTUG9TOHhwdXBsZmdCQXlGOHFxdkl1Z3A3VS1fNWpiQ3VydnNrcEhGVWhoY0RBUjBaZVRWM3dPa1o3cmVCQmNCd1NxTFQ4cHBxTDJ1SENrQVFHSV9yVDFoNm5mWVdPYVEyR1NwVTdHdkRoZEhhanFGQWdjamFQalNsUGpGYXlxQmJJa2lodXNOSVQ3TmhaUFVxXzhteHdvSkFqaWYwMm5IYWc1TkZkY2lvQQ?oc=5",
-      "summary": "Working Capital Advisors (UK) Ltd. Trims Stitch Fix Inc (SFIX) S &nbsp;&nbsp; GuruFocus"
+      "detail": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX).",
+      "date": "2026-10-22",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTBrWnpFZ2hiZGlTOFVqMTdzNWdMNjg3NmFCTzZ3VG9NeXdVZGdkbkhWd2YtWTR2WnB4eTMwV0JTaXRoTXNFTlNHa2pMeDQ2Q2NFMHpjM19vWERkek5VaFFES3R5UHRjWnNKN0xHY21PRTl6Y01wZ2w4Y3ZTY2R5YlRSSXFMdmczSzBPdGlyMXpvWmswOUZaNzkyYnN3QTVVamNBVzJxd2F5NlNQ?oc=5",
+      "summary": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX). &nbsp;&nbsp; Stock Titan"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Q2 Earnings Estimate for Stitch Fix Issued By Zacks Research",
-      "date": "2026-10-15",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGwzbGNTZkc5YnIzSUVXQmhTV0wzdUUtS2piQXh6QWtRZlJKMllxamdvM3o2LVhtMWlGMlV1akpkU09qMmk2MEtMa3MzdXl6X1UzVWpBNWs4Tl9URGRVODBrUXYyTUt4VDBqVXpkS1N3Z3dNbzFGNlVTX2JqZmxHZmY3S194M0p2T3dMbEJUdmlTR2xLYVplOVh5bWg4RWhYTXlPOUF4aUJNTlRKaFlDdU1fQnhNcTBKMElSTWVEVkpMdw?oc=5",
-      "summary": "Q2 Earnings Estimate for Stitch Fix Issued By Zacks Research &nbsp;&nbsp; MarketBeat"
+      "detail": "Casey O'Connor Receives 266,667 RSUs at $0 from Stitch Fix",
+      "date": "2026-10-22",
+      "source": "Kalkine Media",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade958025534687866c0b55abdfb229&url=https%3a%2f%2fkalkinemedia.com%2fus%2fnews%2fannouncements%2fcasey-oconnor-receives-266667-rsus-at-0-from-stitch-fix&c=5593852558798883031&mkt=en-us",
+      "summary": "The Form 4 filing reveals that Casey O'Connor, Chief Legal Officer of Stitch Fix, Inc. (NASDAQ:SFIX) SFIX (NASDAQ:SFIX) , was granted 266,667 restricted stock units on October 20, 2026. These RSUs ..."
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix, Inc. (NASDAQ:SFIX) Stock Rated \"Hold\" by Wall Street Brokerages",
-      "date": "2026-10-15",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTRybG5QTUZ2V2VlYUJYV1NNeFk3OWZqVGt1ZjJQSHg2U0x2Ul9SalFGZGdiRXg5MjVtMjVrWWhLdjJSaUVJVFB6NkVYOEE1UmlON0YyeWFWRmxGZGFVVExnZlpCUWFZaXhmOGV2cXY4Z2FBZVFjc2J2ZXV1Mk1rMGRPTDBIUEJDaUc4THZPdWE3ZXRNd2VMdkFOc0dnci1jV25YVks3Uy1fa0tnSHhMT0xKUk5RRFNLd1B4cjg3Z0VPd1FncktIUzl3d0V1UQ?oc=5",
-      "summary": "Stitch Fix, Inc. (NASDAQ:SFIX) Stock Rated \"Hold\" by Wall Street Brokerages &nbsp;&nbsp; MarketBeat"
+      "detail": "Form 144 Stitch Fix For: 19 October By Investing.com",
+      "date": "2026-10-19",
+      "source": "Investing.com South Africa",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXNURk5fSjZ3N1NyZTc3YTRyWl96T20xRDhtendhYzNBWXdhdi02WG5DQW12Mmk4d1M4MjNzVHNWU2dTTWIxYnZDbXBQSHJEMHlWYlQ3QWRFSkROWFNtajVQcFQ2b0d6WkZxNloyVE5SWVJfZGN4U2NrRVBMMHRYSDI3c0ZFaVAtOFd3clN2NE12VG1DNWtVMElQcw?oc=5",
+      "summary": "Form 144 Stitch Fix For: 19 October By Investing.com &nbsp;&nbsp; Investing.com South Africa"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Bernstein keeps USD 4.00 target for Stitch Fix stock",
-      "date": "2026-10-15",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMkVzcFJJVkdTM2dhek1DN3kyRW43NTdsdXZpRXJSc3hOZ1YxSlpkTUt4QWpFZmZPaFRaRmRZdkJUMnhRam02X1pjb255UWtrNnppZllocDJsdE53ZGFwUENzV0Y3N0k1UnJZeHJFMVRWTWFJTjEtTXlXWURJNndvaldScEQ0QTBTVUtoYVJxbFpPeldYTTV3dXEwcUduQnIxaVBTN2MwUnBkQjI0TVNVYw?oc=5",
-      "summary": "Bernstein keeps USD 4.00 target for Stitch Fix stock &nbsp;&nbsp; ad-hoc-news.de"
+      "detail": "Form 4 Stitch Fix: Matt Baer (Director, CEO) For: 20 October",
+      "date": "2026-10-23",
+      "source": "Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVhVOFBpREhIcjlNRUN4U0FpbzZ5cG5hdGRRZUdPOWlZSGhmMTVEVVFlc053VnI2QkZRdks0T0xPaFl6OUxHM2dnQmNpNVJIOFdlbHNwU0ZLaXRvV1pVdC1iQmNFclZmODR1SjVia25ldEM4d2tvZTZpTXltd2xmYk9FOGRUTGFYdjNtMFVrZ1lLQ3RRQ0FHaGJORnVxZFZVUnJqNERxT3ZnYVhza2JkWE95R1o0LUk?oc=5",
+      "summary": "Form 4 Stitch Fix: Matt Baer (Director, CEO) For: 20 October &nbsp;&nbsp; Investing.com Nigeria"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix: A Rough Year Upcoming (NASDAQ:SFIX)",
-      "date": "2026-10-13",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KeGhCM205NlhuQ3JxVHhOaHV0c3Z1YVg3ZHZJQ05rc0RlbnExcWh3MFk4YkxfWW00WlVZTmFYQmQyX3ZHVlhmY2xTd3lacm1jcTlIS1lOcXhOQ3VVNFRoWHo3LVdsWFVCTG9FZTNoV1YwdEtYbUV3VmtBLWx5Zw?oc=5",
-      "summary": "Stitch Fix: A Rough Year Upcoming (NASDAQ:SFIX) &nbsp;&nbsp; Seeking Alpha"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Law firm investigates Stitch Fix over possible securities fraud after Q4 results disappoint investors",
-      "date": "2026-10-13",
-      "source": "Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV241aWtKSXk4QUFqUEJCRER6Nzk2bkpteDRiV0lYUnlFRjh3LVpEZE9WOUlQTHlUQnRVNjhkdzF6RExjc2QxZU1tSnZWc1RoLVNLczI2eDlETkdCV0FOeGhNd2RxR2Q4OS11NmlPUG9qVnNmSVl2dVd5UzcwZUx0ZV91bVhuWXgxbEJB?oc=5",
-      "summary": "Law firm investigates Stitch Fix over possible securities fraud after Q4 results disappoint investors &nbsp;&nbsp; Pluang"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Stitch Fix: A Rough Year Upcoming",
-      "date": "2026-10-13",
-      "source": "Seeking Alpha",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55c7ad1294c3c97bdc99a1cfae589&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4953918-stitch-fix-a-rough-year-upcoming&c=3118888717518091788&mkt=en-us",
-      "summary": "Stitch Fix downgraded to Sell: weak growth, client attrition, tougher competition & FY2027 guidance risks. Click for more on SFIX stock."
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Stitch Fix Announces Fourth Quarter and Full Fiscal Year 2026 Financial Results",
-      "date": "2026-10-12",
-      "source": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQME40M3VXMGR1a3YxWVZfemtlS2VtVGowX2RxWmZIckdnMEpiYVBfTGpRWmRHcW1abzlTRXE4ZEppRF9GUmk1WFNlbkFiaXlsVGhfS1doVk0xU1NCWFRuLWZNaHBXMmkwdHdZRTMxOW8weS15endpajJQVXdid2dBWkRuRU5UNzJuRUppbk1rUHlDd1l0QU4yUGI3RG9PU01OT0VzdC05VEY4OHhwek1WbQ?oc=5",
-      "summary": "Stitch Fix Announces Fourth Quarter and Full Fiscal Year 2026 Financial Results &nbsp;&nbsp; The National Law Review"
+      "detail": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX).",
+      "date": "2026-10-22",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTBrWnpFZ2hiZGlTOFVqMTdzNWdMNjg3NmFCTzZ3VG9NeXdVZGdkbkhWd2YtWTR2WnB4eTMwV0JTaXRoTXNFTlNHa2pMeDQ2Q2NFMHpjM19vWERkek5VaFFES3R5UHRjWnNKN0xHY21PRTl6Y01wZ2w4Y3ZTY2R5YlRSSXFMdmczSzBPdGlyMXpvWmswOUZaNzkyYnN3QTVVamNBVzJxd2F5NlNQ?oc=5",
+      "summary": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX). &nbsp;&nbsp; Stock Titan"
     },
     {
       "competitor": "Essembl",
       "type": "new_version",
       "store": "apple",
-      "detail": "0.2.31 → 1.0.0",
-      "released_at": "2026-10-18",
+      "detail": "1.0.0 → 1.0.1",
+      "released_at": "2026-10-20",
       "release_notes": "Meet the new Essembl!\n\nA brand-new design, built around four tabs:\n\n• Today: daily outfits for the weather and your plans, at the time you choose\n• Studio: build outfits on a canvas, get ideas and a Rate me score\n• Rate my look: snap a selfie, get tips, add what you're wearing to your wardrobe\n• Shop: find what your wardrobe is missing, and style it with your own clothes\n\nPlus outfit folders, a new widget, sharing to WhatsApp, and lots of fixes."
-    },
-    {
-      "competitor": "Whering",
-      "type": "new_version",
-      "store": "apple",
-      "detail": "3.4.116 → 3.4.147",
-      "released_at": "2026-10-07",
-      "release_notes": "What to wear? Already sorted.\nPlanner now suggests outfits based on your wardrobe and the weather, so getting dressed feels easier. You can also plan ahead for trips, weekends and events by changing your location."
-    },
-    {
-      "competitor": "Whering",
-      "type": "new_version",
-      "store": "google_play",
-      "detail": "3.4.116 → 3.4.147",
-      "released_at": "Oct 5, 2026",
-      "release_notes": ""
     },
     {
       "competitor": "Acloset",
       "type": "new_version",
       "store": "apple",
-      "detail": "6.39.0 → 6.41.1",
-      "released_at": "2026-10-12",
+      "detail": "6.41.1 → 6.41.2",
+      "released_at": "2026-10-20",
       "release_notes": "- Now we support dark mode\n- New home screen widgets: see today’s outfit suggestion and your OOTD without opening the app\n- Bug fixes and improvements"
     },
     {
       "competitor": "Acloset",
       "type": "website_change",
-      "detail": "定价信号: ['free'] → []",
+      "detail": "页面内容有变动，关键字段未变（可能是文案微调或新增区块）",
       "url": "https://acloset.app/"
     },
     {
       "competitor": "Indyx",
       "type": "new_version",
       "store": "apple",
-      "detail": "9.8.3 → 9.8.4",
-      "released_at": "2026-10-13",
+      "detail": "9.8.4 → 9.8.5",
+      "released_at": "2026-10-20",
       "release_notes": "Scrolling just got smoother. We optimized how Indyx uses memory, so browsing your closet and Open Closet feels faster and lighter. This one’s especially for those of you with closets big enough to need their own zip code. Your entire sweater department thanks you."
-    },
-    {
-      "competitor": "Save Your Wardrobe",
-      "type": "new_version",
-      "store": "apple",
-      "detail": "3.0.6 → 3.0.7",
-      "released_at": "2026-10-05",
-      "release_notes": "This update includes bug fixes, and performance improvements."
-    },
-    {
-      "competitor": "Save Your Wardrobe",
-      "type": "news",
-      "detail": "Your Money: Seasonal savings for fall",
-      "date": "2026-10-15",
-      "source": "WJET Erie on MSN",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55d165c6d4d41a3182b81438a6a6a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fyour-money-seasonal-savings-for-fall%2far-AA2ekGeI&c=269193999419072740&mkt=en-us",
-      "summary": "From refreshing your wardrobe to making your home cozy, a little creativity can go a long way this fall. Joining us with a few simple tips on ways to save on style, heating and seasonal decor was ..."
-    },
-    {
-      "competitor": "Save Your Wardrobe",
-      "type": "news",
-      "detail": "Refresh your fall wardrobe for less: Save up to 63% on Skechers slip-ins, Columbia jackets and more",
-      "date": "2026-10-14",
-      "source": "Fox News on MSN",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55d165c6d4d41a3182b81438a6a6a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2frefresh-your-fall-wardrobe-for-less-save-up-to-63-on-skechers-slip-ins-columbia-jackets-and-more%2far-AA26YBuI&c=16288834514686067614&mkt=en-us",
-      "summary": "Refresh your wardrobe for the new season with deals on everyday essentials, from Hanes hoodies and Lands' End rain jackets to Brooks sneakers and Levi's jeans."
     },
     {
       "competitor": "Save Your Wardrobe",
@@ -215,126 +200,45 @@
       "url": "https://saveyourwardrobe.com/"
     },
     {
-      "competitor": "Style DNA",
-      "type": "new_version",
-      "store": "apple",
-      "detail": "1.10.227 → 1.10.228",
-      "released_at": "2026-10-05",
-      "release_notes": "We’re constantly improving Style DNA to make your experience even better.\n\n• Performance improvements and bug fixes\n• Enhanced app stability and reliability\n• Small UI and usability refinements\n\nUpdate now to enjoy the latest improvements."
-    },
-    {
       "competitor": "Doji",
       "type": "new_version",
       "store": "apple",
-      "detail": "1.1.3 → 1.1.4",
-      "released_at": "2026-10-16",
+      "detail": "1.1.4 → 1.1.5",
+      "released_at": "2026-10-23",
       "release_notes": "Bug fixes and performance improvements."
     },
     {
       "competitor": "Phia",
       "type": "news",
-      "detail": "Bill Gates’ Daughter is in Trouble｜ColdFusion",
-      "date": "2026-10-16",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04blFucmVEMjZUbC1JR1BNZDdlaHZJSjJRcHZSZXAyVWJmZ2dQeEduTGtMTXhVYWYtYnAxeU1BT3FjanVWRjJSRUFnQVgtcFNZU3p2QWU2a1lGWGhmM2FJ?oc=5",
-      "summary": "Bill Gates’ Daughter is in Trouble｜ColdFusion &nbsp;&nbsp; BigGo Finance"
+      "detail": "Bill Gates' daughter faces fraud allegations then her startup's daily revenue plunged from $80,000 to $10,000",
+      "date": "2026-10-22",
+      "source": "Cold Fusion on MSN",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade968ef5234ab9963eec235bab246e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fbill-gates-daughter-faces-fraud-allegations-then-her-startup-s-daily-revenue-plunged-from-80-000-to-10-000%2fvi-AA2eo3Ah&c=9413295506342612154&mkt=en-us",
+      "summary": "Bill Gates' daughter Phoebe Gates co-founded an AI shopping startup that reportedly raised $43.5 million and reached a $185 million valuation. But a Bloomberg investigation alleged questionable ..."
     },
     {
       "competitor": "Phia",
       "type": "news",
-      "detail": "Phoebe Gates' Phia Saw Revenue Plunge 65-88% After Disabling Cookie-Stuffing Features, Dagogo Altraide Says",
-      "date": "2026-10-15",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16ZmJvNWgtWGo0dm5JTFczX0h2Qnd4X2NLYWwxNFpZSTVDNVg1Q0tZUEhuZ2FBclpRU2ZyVU5FNVo4VUY1WTFLWlhHc1hiXzhocDJCTmNRelZMN2c?oc=5",
-      "summary": "Phoebe Gates' Phia Saw Revenue Plunge 65-88% After Disabling Cookie-Stuffing Features, Dagogo Altraide Says &nbsp;&nbsp; BigGo Finance"
+      "detail": "Bill Gates Is Leaving His Children Less Than 1% Of His Fortune. That's Still An Extraordinary Inheritance.",
+      "date": "2026-10-20",
+      "source": "The Wealth Advisor",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2M2RXRidFVrcmwxNjY2TUhqWG9lZ1RPUlNSdU8zM3FrUER4VVlISVY4YVFkZlAxTVNwNW5hSWhBUXM0eXNUcjUxZExlYnI1UktudlozVml6bzY1NlRLbHF3Q3pxSmlIcWw5bkxOZkdoczh1Ni1Oa2plYzBiUkZJZnlqM0cyM1N1UmlfOFJacHNIVWh0RUFhZjBscjM4YkJ0VmlaVGl2aUg4ZE0xVVhDYmtiaEVQM3RPNnJiTW81elgyd183VGFETw?oc=5",
+      "summary": "Bill Gates Is Leaving His Children Less Than 1% Of His Fortune. That's Still An Extraordinary Inheritance. &nbsp;&nbsp; The Wealth Advisor"
     },
     {
       "competitor": "Phia",
-      "type": "news",
-      "detail": "Phia Cookie Stuffing Scandal Exposes Affiliate Practices",
-      "date": "2026-10-12",
-      "source": "Grit Daily News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rOWM0MzlTbEtyekhLWmptZlNmRi1FN2pVS3FiVkdtTnZaVExkNkdVNkkxa1dXMkZpLW5veXd4ajcxcmdvczE0bm5PMDA0bmF2Y1p2Y3lzcy1TaHBsQWVwUXc2S1lQRkNKU293djcxTXQ3R0FoeDJQY0FQR0I?oc=5",
-      "summary": "Phia Cookie Stuffing Scandal Exposes Affiliate Practices &nbsp;&nbsp; Grit Daily News"
+      "type": "website_change",
+      "detail": "主标题: 「」→「Never Overpay Again」 | 定价信号: [] → ['$ 82', '$25', '$ 3200.00', '$ 990.00', '$ 2900.00', '$ 1900.00', '$ 3800.00', '$ 2100.00', '$ 2600.00', '$ 3900.00', '$ 2800.00', '$ 5700.00', '$ 5900.00', '$ 13900.00', '$ 550.00']",
+      "url": "https://www.phia.com/"
     },
     {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Neuralink Brain Data Milestone: ALS patient calls implant a lifeline; Musk says it will help millions",
-      "date": "2026-10-17",
-      "source": "The Times of India on MSN",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55d8927f74ba1a71820888de5276e&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftechnology%2fartificial-intelligence%2fneuralink-brain-data-milestone-als-patient-calls-implant-a-lifeline-musk-says-it-will-help-millions%2far-AA2erOLB&c=8526841656338838599&mkt=en-us",
-      "summary": "Elon Musk acknowledged a Neuralink patient who shared about the impact of brain implants on his life. Jake Schneider, living with ALS, described how the device has restored a sense of independence. He ..."
-    },
-    {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Bill Gates' daughters join mother Melinda French Gates to sign as founding backers of a $100 million fund",
-      "date": "2026-10-16",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOblVGcWJfTTJjZXdUNWtuSkNjSjVEWEZfdzdkb1M5RUl3dXdVdGRTVDNpT2tvS1FGbHRvS016WHl1ZFQyX2FhRmlnRU9wVzZMN3BES2I0bVUyWERZQjNfTEZuekFhdWQxMzY5aEVKQUxjdjF5TDNtSGkydGNUc3UzeVhwT0FfRWpjak1mZHV5MlZGOThWTWdPN2JHMFd5VWIwR1lSN0hHb3dWeXV3M1BTRWl2M25OSFBKQTlBNGFiSW1mUV83N2JRNXlrb216aXZwZXdhQ3FoZFhjR0hoZGlGM0lVcE5FdlJRb1VCUzVsN2tFVXlCZWFKZVVGNzk4WUl5Z3F4RXFEU19YYUFDUEo2ckJRam5WMTA3MU53NjdQNXUxbnM2c2lldkZvclVQWGQ3OGp4Y0ZzSy1xOVdyZzZISmxCblUzVy1zMFNGQU02Y05sX1dvd3FZT0FXRWlvZHZwZDFLR1BSYlVVMVVUel95SWRVMlVBZ2RhR0lsQUVDc0xlMG40NjVsVS1DOFhyZFF0QUZZ0gGYA0FVX3lxTE0zdV9XcGRTcllQaVYwZEhNVmx0N1pmcklVel8yaS1OWUxRYlNOMFAtemZQUHFoSFk1LVBYSDg1b2k3QzJmbEtkdVoxM1o5T0h4ck1yMTVSWmppS3RmdlpVaHpsbjA0TkZwdVc1b29Wa0tlTmdqS1pUMU5TdHU4TFRPMVZhYTZRWkplSEVtLUNuRFBjUjk1V3g2djBJdldEY1V4VTJScDBvc3VKVWd2NUhyQkxCNzktRFp0TnNyYjZ1N28teUw0V3lhU2p4YllDWDE4ZXlDN2tmdnhEUXlDb2VxQnFNY2xGR05Kc2w0eGdrTGdZWHc0TXc2d05PZ3JxNl9UVExHRXA1c3RDT0NjT21PSFl5aGhxZjhwOEI0Tnpna1JWaXpJT2FnYVVmVmNBZENtSU9iR0ZaZTkybnJZcXhkYjhXSDRKeHRZQUZuZmg4d2xJRHRuRFNiX0RKUkp2U1YzaGNnS3loZGZnVHFyZnhtUkZXOTZVWVhUWk1vRVlySzlVM2ZGd1d0SzYza1Y3NkdLb0lINktTMA?oc=5",
-      "summary": "Bill Gates' daughters join mother Melinda French Gates to sign as founding backers of a $100 million fund &nbsp;&nbsp; The Times of India"
-    },
-    {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Bill Gates’ Daughter is in Trouble｜ColdFusion",
-      "date": "2026-10-16",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04blFucmVEMjZUbC1JR1BNZDdlaHZJSjJRcHZSZXAyVWJmZ2dQeEduTGtMTXhVYWYtYnAxeU1BT3FjanVWRjJSRUFnQVgtcFNZU3p2QWU2a1lGWGhmM2FJ?oc=5",
-      "summary": "Bill Gates’ Daughter is in Trouble｜ColdFusion &nbsp;&nbsp; BigGo Finance"
-    },
-    {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Phoebe Gates' Phia Saw Revenue Plunge 65-88% After Disabling Cookie-Stuffing Features, Dagogo Altraide Says",
-      "date": "2026-10-15",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16ZmJvNWgtWGo0dm5JTFczX0h2Qnd4X2NLYWwxNFpZSTVDNVg1Q0tZUEhuZ2FBclpRU2ZyVU5FNVo4VUY1WTFLWlhHc1hiXzhocDJCTmNRelZMN2c?oc=5",
-      "summary": "Phoebe Gates' Phia Saw Revenue Plunge 65-88% After Disabling Cookie-Stuffing Features, Dagogo Altraide Says &nbsp;&nbsp; BigGo Finance"
-    },
-    {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Melinda French Gates and her daughters join a $100 million mission to help women get the care they need",
-      "date": "2026-10-14",
-      "source": "MARCA",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdEJMdkFPNWYzdFpZVWVWbkw4Qms1WGNBRUFyYnpEVlYwdnFueDl5ZUJjQklXbWxucXdpM19ieXoxbndLTVhnODFhUEpEODBsSloxZ3VDb2VCSTFkVGJ6dUhtZWRzSWZmSUJFNEdwSGpVRFViUmdwaWtqRjBvTXcwOEJyTUhzQWZHcEhSY2c3TElVcFZaZ05laXRmX3E4SHdqemZ4V0paMGhYM2dpUFBxYk11bUc5bHA0VlFGVC11dl9xTGFocllhbWlBOGxPcXQxQWZwWjRrZ0FLaGpjWFBKaU16N292eHRPbDF6OG82U2rSAfABQVVfeXFMT3I0RTIzZC1YdHV3Q0xUZGtORkpGV3lLYUJGaG4yTlVzd3FSM1VlOWVUZWtfOC02RW14QkozVHBheTdRY192SXlDem1BZ0NGRkR1REZHeTBTLWFIMF9vWnBkVDZWaHMyTjZYcWEwT3hnX1RzbllaMDBvUnBSNGg4b3JiTUlvRTNrMUJHNDFSa2ZQNE9VQm1QcFlMaVRRUXYyZEtTbEVpaGJWSnlnV2hDSGJUMWpvNTdUTG1GVDREd1VEX3dPRVh1Yl9sRFpoNjZmVEZmTkt0Z2xmWEM3SHlrbGFQRVJQdy1jWXNxQkg1UHBq?oc=5",
-      "summary": "Melinda French Gates and her daughters join a $100 million mission to help women get the care they need &nbsp;&nbsp; MARCA"
-    },
-    {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Bill Gates’ billionaire ex-wife Melinda is building a new family philanthropy of her own, with daughters Jennifer and Phoebe signing on as founding backers of a $100 million fund supporting 22 women’s health groups worldwide",
-      "date": "2026-10-13",
-      "source": "Luxurylaunches",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFRtN1hVTU5KS2VRcnI1aXpyN094OWtxU0tncTdwOFZxeEJEUUJJUmZOTjZsWFVPVXA4T3U2RFNaYUxJMnZVc09kR25STUZTRGNkOC1sTGlUalZtdVZhNGY4UHZ2T0xOcktxRWk4Q01aWmZZelM0cUZpSHVpREJVUkZoZl81M1hDZ2FrUTllakp5eEFtMGxz?oc=5",
-      "summary": "Bill Gates’ billionaire ex-wife Melinda is building a new family philanthropy of her own, with daughters Jennifer and Phoebe signing on as founding backers of a $100 million fund supporting 22 women’s health groups worldwide &nbsp;&nbsp; Luxurylaunches"
-    },
-    {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Phia Cookie Stuffing Scandal Exposes Affiliate Practices",
-      "date": "2026-10-12",
-      "source": "Grit Daily News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rOWM0MzlTbEtyekhLWmptZlNmRi1FN2pVS3FiVkdtTnZaVExkNkdVNkkxa1dXMkZpLW5veXd4ajcxcmdvczE0bm5PMDA0bmF2Y1p2Y3lzcy1TaHBsQWVwUXc2S1lQRkNKU293djcxTXQ3R0FoeDJQY0FQR0I?oc=5",
-      "summary": "Phia Cookie Stuffing Scandal Exposes Affiliate Practices &nbsp;&nbsp; Grit Daily News"
-    },
-    {
-      "competitor": "Lookie",
-      "type": "review_surge",
-      "store": "apple",
-      "detail": "评论量 +202 (15%)",
-      "growth": 202
-    },
-    {
-      "competitor": "柚子衣橱",
+      "competitor": "无忧衣橱",
       "type": "new_version",
       "store": "apple",
-      "detail": "6.4 → 6.5",
-      "released_at": "2026-10-08",
-      "release_notes": "1. 网格显示模式下，衣服可以显示两个标签，比如同时显示衣服的品牌和穿着次数。"
+      "detail": "4.3.0 → 4.4.2",
+      "released_at": "2026-10-21",
+      "release_notes": "修复已知问题"
     }
   ],
-  "change_count": 39
+  "change_count": 28
 }
