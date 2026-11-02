@@ -1,183 +1,76 @@
 {
-  "week": "2026-W43",
+  "week": "2026-W45",
   "first_run": false,
-  "compared_with": "2026-W42",
+  "compared_with": "2026-W43",
   "changes": [
     {
       "competitor": "Alta",
       "type": "new_version",
       "store": "apple",
-      "detail": "2.2.7 → 2.2.8",
-      "released_at": "2026-10-21",
+      "detail": "2.2.8 → 2.2.9",
+      "released_at": "2026-10-27",
       "release_notes": "New features every week! Discover the explore page, Home Screen widget, event and trip planning, and so much more. Improved styling algorithm and more realistic avatars."
-    },
-    {
-      "competitor": "Alta",
-      "type": "news",
-      "detail": "Meet Jenny Wang",
-      "date": "2026-10-22",
-      "source": "CanvasRebel Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0WjVhZTM4Uk1KN2EzSW5ybGk1M3gzMnFUVURXenp5NU5uMm93Z3U1SEV2c2c1aXVjbDVQenZtSmxRLUQ4TWlCNFJ5SVBoSFVWRzg2NQ?oc=5",
-      "summary": "Meet Jenny Wang &nbsp;&nbsp; CanvasRebel Magazine"
-    },
-    {
-      "competitor": "Alta",
-      "type": "news",
-      "detail": "Exclusive: Alta raises $20 million Series A from Forerunner",
-      "date": "2026-10-22",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3k1cmNBT1BneVJ0VzFWUVp2a0pNdzVOaFJmU1BkaG1yeEZpZUVlYzJmN1dHXzhqWjFVLUs4UlFWVjc4TGFiZVZwQmtvSEdmbl9aUDZoR0h2cXU4djRQdFJhMjlmaUxaQmhMNXFqZmN3WnFVeExKYmhYT0tzTHRITUMxT2ZveXNXUXdncDhpWTM0M1pZdHdWSU11dGFBaE0?oc=5",
-      "summary": "Exclusive: Alta raises $20 million Series A from Forerunner &nbsp;&nbsp; Fortune"
     },
     {
       "competitor": "Stitch Fix",
       "type": "new_version",
       "store": "apple",
-      "detail": "11.26.0 → 11.27.0",
-      "released_at": "2026-10-19",
+      "detail": "11.27.0 → 11.28.0",
+      "released_at": "2026-10-26",
       "release_notes": "Recent updates in the Stitch Fix app:\n\n• Bug fixes & improvements. Updates make your experience even more seamless.\n\nWhat do you think of the Stitch Fix app? If you like us, please write a review in the App Store! Problems or suggestions? Please email hello@stitchfix.com."
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix, Inc. Class A Estimates – BX:SYJ",
-      "date": "2026-10-24",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91aC1YZ0M2bUNjMkp2Z1FzeFpNX3dVY1JoUHdrTVk3UnhuQ2c2azFSTkRXSDdMWTBpLXdJRjNodnlIQTdZVng4UTNsZjFpZUNLUDVsZTlzT2c4SUJfc1QxaXk5ZnFMdDU0VG5vd3pQRFc1UQ?oc=5",
-      "summary": "Stitch Fix, Inc. Class A Estimates – BX:SYJ &nbsp;&nbsp; TradingView"
+      "detail": "Stitch Fix Q4FY26 Results: Revenue misses, FY27 guidance disappoints",
+      "date": "2026-11-01",
+      "source": "scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1VFVXgxZ1d4T05sdGx2MGJDX0I5ZWR1cFlFdFRPc2pfSHdqRnNRTG02enV5ZTJjR1ltdlRNTFVQSV96TkNtc1BhN1M3X2tXWVFlN2xtYlJ2TXJNcURuUlI1WjFpd2VkRUJSNFJyLURHa1J6czNoQnNmYnhaN0VIbEFyb3VzRVVETUlSZmtQZjZFZ2dtdGw1c1pXTFIwQnZxWnFlWUQtWTEtRllNRDd3UVJmWldCSzhhemFDSmFseks?oc=5",
+      "summary": "Stitch Fix Q4FY26 Results: Revenue misses, FY27 guidance disappoints &nbsp;&nbsp; scanx.trade"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Form 4 Stitch Fix: David Aufderhaar (CFO) For: 20 October By Investing.com",
-      "date": "2026-10-24",
-      "source": "Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXdJalBKMWlsS0NPT3RNZEZiaXZzc1hmSUVPNWV1OUM3NVJXeXlVaC1DaU5iMFZoVnBJbUdtaWxVaUl4TVVoUGk1cUVUaDN4WUVvaGRIeGpWd09mSzZnNUVXY1pxU3Mza3hzNnNOclI3YmJoOU5rVjJLcmhXM2piM1B2bHRFblBkWWFvQTU4R2RFR0lHcTJKbFNmdUV1TjJYVEkydWNiamZxVnJNdjZhSl9LdlE?oc=5",
-      "summary": "Form 4 Stitch Fix: David Aufderhaar (CFO) For: 20 October By Investing.com &nbsp;&nbsp; Investing.com South Africa"
+      "detail": "Stitch Fix, Inc. (SFIX) Seasonal returns chart",
+      "date": "2026-10-30",
+      "source": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VV0VpM2lxbzZOVWhQRTQ3WXlvTjd3Z2xPTldnc0owZFNGTzJlOEI4UW50bjNqd0FaVzE5bkFoLVRzcFdrUGlJSHZ1WTV0MXV1eVpsOE1OQWU2YUJSVlFOOGV3?oc=5",
+      "summary": "Stitch Fix, Inc. (SFIX) Seasonal returns chart &nbsp;&nbsp; Yahoo Finance UK"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "What Comes Next For Stitch Fix After A 50% Slide",
-      "date": "2026-10-24",
-      "source": "Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFJ4WldzTDAwN3YxOFlrZXNyLUduQWRpNFZvUkdMclkybk1EOW0zQldVdlVLRFFPUmNIM3JNUndIcng0c1l4cmZKNlV3WDNfT0J0OHhnV2pkNmVraFFFLU5pQ1QyQnpkWjBYaVdsS295UDRqWlIzWGtacXNmRU9lRTVxZG5YbTFncW5pZW1Tbkc5MVhPZG9zTlVSdHp5RHRRaHBQcGxpZWtEZkNMVXU3MzhtbnfSAboBQVVfeXFMUGpSOFkxV2R0dy1TNGxIcEM2TUMtb01jTVUzNUtZYU1PXzFVLTFTS00tenRDdW5Qc3BCX3J1aGhXMW9CZVJiM2JuUmdPM0hTcUt1T0pHQzdqZEtoeGYyQlR5c3BZUUNwSUxHTkd4NWlQV1dndzBpZFZUOG4xLUVWN2NQMDNtZmxocGRnczExb0R4eEU0YS0wQzNJdFU5eXNkUFNRTDU4VEhmSldPbDFzNUxOa1VXazdxMEpR?oc=5",
-      "summary": "What Comes Next For Stitch Fix After A 50% Slide &nbsp;&nbsp; Simply Wall Street"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Form 4 Stitch Fix: Casey O’Connor (CLO) For: 20 October By Investing.com",
-      "date": "2026-10-23",
-      "source": "Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFBiRlRzUGRxc3hvc1JQekR1WkduLUI0ZjZMS0pib0RWLUZLQTNFMEpENDlPVkNxbDctaElRZmRXZ0EwMlFmVHNVNWxuaGtLT3ZWWFNrSkUtRFBDMGhlSGlsTTRZQjZiWDlGajNhcUNSVll4Z3FfVmU3cjI2cndqUGlRUVBCX3hvOHB5VHl0ZEhzVVpXMWNLTi1CQzNicjZ5SXA5bzQ0RTBiTGJLZGtpTA?oc=5",
-      "summary": "Form 4 Stitch Fix: Casey O’Connor (CLO) For: 20 October By Investing.com &nbsp;&nbsp; Investing.com South Africa"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Why Is Stitch Fix (SFIX) Up 23.1% Since Last Earnings Report?",
-      "date": "2026-10-23",
+      "detail": "Stitch Fix Announces New Employee Inducement Grant",
+      "date": "2026-10-26",
       "source": "Yahoo Finance",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade958025534687866c0b55abdfb229&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fwhy-stitch-fix-sfix-23-143003143.html&c=7531734344537023945&mkt=en-us",
-      "summary": "Stitch Fix (SFIX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGo0dWhuUm9zOTl0SmdTeUctaWVmaDJGaEljZnJZVFMwTFlyOUxsREMyWGxoN3cyX0V0VmU4eEYzM0JZMnZlajNjblFqbWFSSW1ib2pLMkVYN1d1RzNMd3NQUWFCSEt2aEFpWjFjWUs0clp2b1FyazIycWE1bi1Zc0xneDZ4cHRGdnc3c2dsQ3ZZNXo1VV8yd0wwbVlnS1pVVlNkTXlYMVM?oc=5",
+      "summary": "Stitch Fix Announces New Employee Inducement Grant &nbsp;&nbsp; Yahoo Finance"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix | 4: Statement of changes in beneficial ownership of securities-Officer Baer Matt",
-      "date": "2026-10-22",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVpRaURnOXVpN0E0cFRNSmp6clRBb0p2NVh4akdDSG9FaDduTWJBMTktN0VQSjg2Z1hWOWV1YVdWQ0pWM1REb2NBSUROYUxBT0lXVVFFUTBEMjhkRDlVdEJjcWFaWVRLMG1scmRUeXVRTlM1RHVoZ1pnNjQyczJjVTBDdTVxOEZrbGFzdkxmYlZZdWN2TDhZYmpqSTJYZXZSeC12Mk1mU09SUmw1NG1WVjB3TGRKNHRr?oc=5",
-      "summary": "Stitch Fix | 4: Statement of changes in beneficial ownership of securities-Officer Baer Matt &nbsp;&nbsp; Moomoo"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Form 144 Stitch Fix For: 21 October By Investing.com",
-      "date": "2026-10-22",
-      "source": "Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenJqZWNObmJyeDlvSFZucVJMdmZmLUNDdVROb0EybmxfdUR4UTN4XzNfWTBHVXk3SnRWaEY5cjhBbmxnTWlsdVk4ZVRwX29zNDZZVHBRdWFHclFpdG4xNUFZN0g2MjBLSzZlU1NCRnBDbzJEY0dnMjBCMkc4YVB1UnREMVRvcWg3bF9CZTM4NFFZZ0MxWjBkZUJRYw?oc=5",
-      "summary": "Form 144 Stitch Fix For: 21 October By Investing.com &nbsp;&nbsp; Investing.com Nigeria"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "A 266,667-share grant for Stitch Fix (SFIX) legal chief comes with service-linked vesting.",
-      "date": "2026-10-22",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXlNTm0yaUthNVd6bTdiN3EyZHNHMnNHcW9IM3FFTmV1b0F4SzZSN2VybjllbTlfSnVFX1hQbWljeS1YYzRYb2FqZW9VbUtVSFdBaDRIM1hYOUhfUVo2TkFaX1dnOE5PclJrbERXSjc5SmNKdHVuSEV5ZmM1NmpFOW5kV0hMUEFrcm5OZnI3NThaUmVRUHVEcTB5V0g4TXVLNUsyNzk5c1kwTF8w?oc=5",
-      "summary": "A 266,667-share grant for Stitch Fix (SFIX) legal chief comes with service-linked vesting. &nbsp;&nbsp; Stock Titan"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "A 462,963-share award brings the CFO's Stitch Fix (SFIX) holdings to 1,546,562 shares.",
-      "date": "2026-10-22",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmtfMTVUTzBCTjRUajgxYTBMeW5kdTdyb2oxeXdsZEhlNUdmcUV4eTk1VkhOenM3SXdGRUQ4LUFNcno2V1VfMDhlT1BlQmFVeHRmbld6SHByM3VrelJkd2tNZTVkNTJlT1BPTUE3UGNXd1g1YnNqcEFTZ2VSazNPM0ZhY25GWGtZaVo3VUFLX3hPNDE1MG9CRU9kTEpELU0yQ2t6Yk9id2U1TXNM?oc=5",
-      "summary": "A 462,963-share award brings the CFO's Stitch Fix (SFIX) holdings to 1,546,562 shares. &nbsp;&nbsp; Stock Titan"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX).",
-      "date": "2026-10-22",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTBrWnpFZ2hiZGlTOFVqMTdzNWdMNjg3NmFCTzZ3VG9NeXdVZGdkbkhWd2YtWTR2WnB4eTMwV0JTaXRoTXNFTlNHa2pMeDQ2Q2NFMHpjM19vWERkek5VaFFES3R5UHRjWnNKN0xHY21PRTl6Y01wZ2w4Y3ZTY2R5YlRSSXFMdmczSzBPdGlyMXpvWmswOUZaNzkyYnN3QTVVamNBVzJxd2F5NlNQ?oc=5",
-      "summary": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX). &nbsp;&nbsp; Stock Titan"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Casey O'Connor Receives 266,667 RSUs at $0 from Stitch Fix",
-      "date": "2026-10-22",
-      "source": "Kalkine Media",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade958025534687866c0b55abdfb229&url=https%3a%2f%2fkalkinemedia.com%2fus%2fnews%2fannouncements%2fcasey-oconnor-receives-266667-rsus-at-0-from-stitch-fix&c=5593852558798883031&mkt=en-us",
-      "summary": "The Form 4 filing reveals that Casey O'Connor, Chief Legal Officer of Stitch Fix, Inc. (NASDAQ:SFIX) SFIX (NASDAQ:SFIX) , was granted 266,667 restricted stock units on October 20, 2026. These RSUs ..."
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Form 144 Stitch Fix For: 19 October By Investing.com",
-      "date": "2026-10-19",
-      "source": "Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXNURk5fSjZ3N1NyZTc3YTRyWl96T20xRDhtendhYzNBWXdhdi02WG5DQW12Mmk4d1M4MjNzVHNWU2dTTWIxYnZDbXBQSHJEMHlWYlQ3QWRFSkROWFNtajVQcFQ2b0d6WkZxNloyVE5SWVJfZGN4U2NrRVBMMHRYSDI3c0ZFaVAtOFd3clN2NE12VG1DNWtVMElQcw?oc=5",
-      "summary": "Form 144 Stitch Fix For: 19 October By Investing.com &nbsp;&nbsp; Investing.com South Africa"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Form 4 Stitch Fix: Matt Baer (Director, CEO) For: 20 October",
-      "date": "2026-10-23",
-      "source": "Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVhVOFBpREhIcjlNRUN4U0FpbzZ5cG5hdGRRZUdPOWlZSGhmMTVEVVFlc053VnI2QkZRdks0T0xPaFl6OUxHM2dnQmNpNVJIOFdlbHNwU0ZLaXRvV1pVdC1iQmNFclZmODR1SjVia25ldEM4d2tvZTZpTXltd2xmYk9FOGRUTGFYdjNtMFVrZ1lLQ3RRQ0FHaGJORnVxZFZVUnJqNERxT3ZnYVhza2JkWE95R1o0LUk?oc=5",
-      "summary": "Form 4 Stitch Fix: Matt Baer (Director, CEO) For: 20 October &nbsp;&nbsp; Investing.com Nigeria"
-    },
-    {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX).",
-      "date": "2026-10-22",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTBrWnpFZ2hiZGlTOFVqMTdzNWdMNjg3NmFCTzZ3VG9NeXdVZGdkbkhWd2YtWTR2WnB4eTMwV0JTaXRoTXNFTlNHa2pMeDQ2Q2NFMHpjM19vWERkek5VaFFES3R5UHRjWnNKN0xHY21PRTl6Y01wZ2w4Y3ZTY2R5YlRSSXFMdmczSzBPdGlyMXpvWmswOUZaNzkyYnN3QTVVamNBVzJxd2F5NlNQ?oc=5",
-      "summary": "A 1.06M-share grant leaves CEO Matt Baer with 3.02M directly held shares at Stitch Fix (SFIX). &nbsp;&nbsp; Stock Titan"
-    },
-    {
-      "competitor": "Essembl",
-      "type": "new_version",
-      "store": "apple",
-      "detail": "1.0.0 → 1.0.1",
-      "released_at": "2026-10-20",
-      "release_notes": "Meet the new Essembl!\n\nA brand-new design, built around four tabs:\n\n• Today: daily outfits for the weather and your plans, at the time you choose\n• Studio: build outfits on a canvas, get ideas and a Rate me score\n• Rate my look: snap a selfie, get tips, add what you're wearing to your wardrobe\n• Shop: find what your wardrobe is missing, and style it with your own clothes\n\nPlus outfit folders, a new widget, sharing to WhatsApp, and lots of fixes."
+      "detail": "Stitch Fix: Several Options That Still Seem To Lead Nowhere (NASDAQ:SFIX)",
+      "date": "2026-10-26",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekhucVZNSkF3cEhRM2hDUHNyUjB0eTNxTHhMLWZ1TE5uVVRlcVktVUR0c215VmJxS20yVW9EQXRRRWpRRllNazQzcWYzeC1mb0NER2RYWVpabERzQl9YS0lpcWhCNUo0SkZGZnRLNU8wZ2Zxb2dMekVkbVVxaHBGbzBURktQVHdHaTVnNW5lWmJDZXE1Ni1ZaHVn?oc=5",
+      "summary": "Stitch Fix: Several Options That Still Seem To Lead Nowhere (NASDAQ:SFIX) &nbsp;&nbsp; Seeking Alpha"
     },
     {
       "competitor": "Acloset",
       "type": "new_version",
       "store": "apple",
-      "detail": "6.41.1 → 6.41.2",
-      "released_at": "2026-10-20",
-      "release_notes": "- Now we support dark mode\n- New home screen widgets: see today’s outfit suggestion and your OOTD without opening the app\n- Bug fixes and improvements"
+      "detail": "6.41.2 → 6.42.1",
+      "released_at": "2026-10-29",
+      "release_notes": "- Weekly Challenge is here! Share outfits around a new theme each week. Earn rewards just for joining, while top entries receive special rewards and winner badges\n- Find your challenge entries and winner badges together in the new Challenges tab on your profile\n- Follow people who liked an outfit right away, and get notified when someone you follow shares a new outfit\n- You can now report other users' accounts, and we'll recommend more popular users for you to discover"
+    },
+    {
+      "competitor": "Acloset",
+      "type": "news",
+      "detail": "[Super-Fast Update 87] Try on what 'suits you' with AI, but decide for yourself what to 'buy.' A closet revolution starting with just 10 items.",
+      "date": "2026-10-27",
+      "source": "note",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7e4db58b445f5b2766255f1b16c5e&url=https%3a%2f%2fnote.com%2fhidenoba%2fn%2fn0efe8be28d1e%3fhl%3den&c=9062869435582465601&mkt=en-us",
+      "summary": "I have clothes, but I can’t decide what to wear tomorrow.”When that happens, opening an online shopping site makes it look like a new piece of clothing will solve the problem.But before you buy more, ..."
     },
     {
       "competitor": "Acloset",
@@ -189,56 +82,68 @@
       "competitor": "Indyx",
       "type": "new_version",
       "store": "apple",
-      "detail": "9.8.4 → 9.8.5",
-      "released_at": "2026-10-20",
-      "release_notes": "Scrolling just got smoother. We optimized how Indyx uses memory, so browsing your closet and Open Closet feels faster and lighter. This one’s especially for those of you with closets big enough to need their own zip code. Your entire sweater department thanks you."
+      "detail": "9.8.5 → 9.8.6",
+      "released_at": "2026-10-30",
+      "release_notes": "Items imported from your email receipts aren’t always picture perfect. With more control over Enhance, you can turn a blurry photo into a crisp, closet-ready image in a few taps. Give those items a fresh Polish and see the difference."
+    },
+    {
+      "competitor": "Indyx",
+      "type": "news",
+      "detail": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up",
+      "date": "2026-10-28",
+      "source": "Stacker",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjBITENFUmRYZE5JSXpxLXlJbzF4Q2RXTG1XbFFqZ2NJenJQU0c4c2FIMzd6UUlmeHdtSFNoNi1uT2hkWFZqaHlTRWxwS2c4cmF1REptSGF1LXYyNE53Q19KdlhPRnl5YnRCMW50UGc2b3d6Y0pxSFFGUF8tNEQ3UExIY2JaMF9fNE1PVl80Nl9aZE9HcDVSejFsQWcxSGNTdTgyLS1GdDVEWXY4cXNQTjRqOGNld28xWVR3?oc=5",
+      "summary": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up &nbsp;&nbsp; Stacker"
     },
     {
       "competitor": "Save Your Wardrobe",
-      "type": "website_change",
-      "detail": "页面内容有变动，关键字段未变（可能是文案微调或新增区块）",
-      "url": "https://saveyourwardrobe.com/"
+      "type": "news",
+      "detail": "Klarna ajoute un service de réparation de vêtements à son application en France",
+      "date": "2026-10-28",
+      "source": "FashionNetwork France",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7e5141d004f11ae147b93ef7f0e72&url=https%3a%2f%2ffr.fashionnetwork.com%2fnews%2fKlarna-ajoute-un-service-de-reparation-de-vetements-a-son-application-en-france%2c1878306.html&c=14260916030564571613&mkt=en-us",
+      "summary": "Le spécialiste du paiement Klarna déploie depuis fin septembre une fonctionnalité dédiée à l'entretien textile sur ses marchés français, en s'appuyant sur le spécialiste Save Your Wardrobe et sur le B ..."
+    },
+    {
+      "competitor": "Stylebook",
+      "type": "news",
+      "detail": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up",
+      "date": "2026-10-28",
+      "source": "Stacker",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjBITENFUmRYZE5JSXpxLXlJbzF4Q2RXTG1XbFFqZ2NJenJQU0c4c2FIMzd6UUlmeHdtSFNoNi1uT2hkWFZqaHlTRWxwS2c4cmF1REptSGF1LXYyNE53Q19KdlhPRnl5YnRCMW50UGc2b3d6Y0pxSFFGUF8tNEQ3UExIY2JaMF9fNE1PVl80Nl9aZE9HcDVSejFsQWcxSGNTdTgyLS1GdDVEWXY4cXNQTjRqOGNld28xWVR3?oc=5",
+      "summary": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up &nbsp;&nbsp; Stacker"
     },
     {
       "competitor": "Doji",
-      "type": "new_version",
-      "store": "apple",
-      "detail": "1.1.4 → 1.1.5",
-      "released_at": "2026-10-23",
-      "release_notes": "Bug fixes and performance improvements."
-    },
-    {
-      "competitor": "Phia",
       "type": "news",
-      "detail": "Bill Gates' daughter faces fraud allegations then her startup's daily revenue plunged from $80,000 to $10,000",
-      "date": "2026-10-22",
-      "source": "Cold Fusion on MSN",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade968ef5234ab9963eec235bab246e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fbill-gates-daughter-faces-fraud-allegations-then-her-startup-s-daily-revenue-plunged-from-80-000-to-10-000%2fvi-AA2eo3Ah&c=9413295506342612154&mkt=en-us",
-      "summary": "Bill Gates' daughter Phoebe Gates co-founded an AI shopping startup that reportedly raised $43.5 million and reached a $185 million valuation. But a Bloomberg investigation alleged questionable ..."
-    },
-    {
-      "competitor": "Phia",
-      "type": "news",
-      "detail": "Bill Gates Is Leaving His Children Less Than 1% Of His Fortune. That's Still An Extraordinary Inheritance.",
-      "date": "2026-10-20",
-      "source": "The Wealth Advisor",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2M2RXRidFVrcmwxNjY2TUhqWG9lZ1RPUlNSdU8zM3FrUER4VVlISVY4YVFkZlAxTVNwNW5hSWhBUXM0eXNUcjUxZExlYnI1UktudlozVml6bzY1NlRLbHF3Q3pxSmlIcWw5bkxOZkdoczh1Ni1Oa2plYzBiUkZJZnlqM0cyM1N1UmlfOFJacHNIVWh0RUFhZjBscjM4YkJ0VmlaVGl2aUg4ZE0xVVhDYmtiaEVQM3RPNnJiTW81elgyd183VGFETw?oc=5",
-      "summary": "Bill Gates Is Leaving His Children Less Than 1% Of His Fortune. That's Still An Extraordinary Inheritance. &nbsp;&nbsp; The Wealth Advisor"
+      "detail": "AI try-on kiosks gain traction as retailers seek to reduce returns",
+      "date": "2026-10-26",
+      "source": "Retail Customer Experience",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7e55b1cca46c085236de8f5c65f3f&url=https%3a%2f%2fwww.retailcustomerexperience.com%2fnews%2fai-try-on-kiosks-gain-traction-as-retailers-seek-to-reduce-returns%2f&c=612928000858814529&mkt=en-us",
+      "summary": "Retailers are increasingly exploring artificial intelligence-powered virtual try-on kiosks to help shoppers make more informed clothing purchases and reduce costly merchandise returns. The technology ..."
     },
     {
       "competitor": "Phia",
       "type": "website_change",
-      "detail": "主标题: 「」→「Never Overpay Again」 | 定价信号: [] → ['$ 82', '$25', '$ 3200.00', '$ 990.00', '$ 2900.00', '$ 1900.00', '$ 3800.00', '$ 2100.00', '$ 2600.00', '$ 3900.00', '$ 2800.00', '$ 5700.00', '$ 5900.00', '$ 13900.00', '$ 550.00']",
+      "detail": "定价信号: ['$ 82', '$25', '$ 3200.00', '$ 990.00', '$ 2900.00', '$ 1900.00', '$ 3800.00', '$ 2100.00', '$ 2600.00', '$ 3900.00', '$ 2800.00', '$ 5700.00', '$ 5900.00', '$ 13900.00', '$ 550.00'] → ['$ 82', '$25', '$ 170.00', '$ 150.00', '$ 155.00', '$ 265.00', '$ 142.50', '$ 120.00', '$ 160.00', '$ 144.00', '$ 175.00', '$ 165.00', '$ 200.00', 'Free']",
       "url": "https://www.phia.com/"
     },
     {
-      "competitor": "无忧衣橱",
+      "competitor": "搭搭",
       "type": "new_version",
       "store": "apple",
-      "detail": "4.3.0 → 4.4.2",
-      "released_at": "2026-10-21",
-      "release_notes": "修复已知问题"
+      "detail": "5.2.1 → 5.2.2",
+      "released_at": "2026-10-28",
+      "release_notes": "①AI试衣功能上线，在「我的搭配」和「帮搭详情」都有试穿入口。\n②「今日穿搭」可以自己决定是否将搭配同步到「我的搭配」了。\n③「穿搭标签」设置取消了「个人照」展示模块。"
+    },
+    {
+      "competitor": "尽简衣橱",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "2.22.4 → 2.23.0",
+      "released_at": "2026-10-29",
+      "release_notes": "- 新增：随机搭配规则支持拖动调整单品和分类顺序\n- 新增：创建搭配时可检查包含相同单品的已有搭配\n- 优化：网页导入可从分享内容中提取有效网址\n- 优化：英文界面及多语言文案\n- 修复：单品链接偶尔显示为其他单品链接的问题\n- 修复：品牌搜索弹窗可能被键盘遮挡的问题\n- 修复：解锁页面位置异常及键盘偏移问题"
     }
   ],
-  "change_count": 28
+  "change_count": 17
 }
