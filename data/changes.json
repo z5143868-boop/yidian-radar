@@ -1,76 +1,89 @@
 {
-  "week": "2026-W45",
+  "week": "2026-W46",
   "first_run": false,
-  "compared_with": "2026-W43",
+  "compared_with": "2026-W45",
   "changes": [
     {
       "competitor": "Alta",
       "type": "new_version",
       "store": "apple",
-      "detail": "2.2.8 → 2.2.9",
-      "released_at": "2026-10-27",
+      "detail": "2.2.9 → 2.2.10",
+      "released_at": "2026-11-05",
       "release_notes": "New features every week! Discover the explore page, Home Screen widget, event and trip planning, and so much more. Improved styling algorithm and more realistic avatars."
     },
     {
       "competitor": "Stitch Fix",
       "type": "new_version",
       "store": "apple",
-      "detail": "11.27.0 → 11.28.0",
-      "released_at": "2026-10-26",
+      "detail": "11.28.0 → 11.29.0",
+      "released_at": "2026-11-02",
       "release_notes": "Recent updates in the Stitch Fix app:\n\n• Bug fixes & improvements. Updates make your experience even more seamless.\n\nWhat do you think of the Stitch Fix app? If you like us, please write a review in the App Store! Problems or suggestions? Please email hello@stitchfix.com."
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix Q4FY26 Results: Revenue misses, FY27 guidance disappoints",
-      "date": "2026-11-01",
-      "source": "scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1VFVXgxZ1d4T05sdGx2MGJDX0I5ZWR1cFlFdFRPc2pfSHdqRnNRTG02enV5ZTJjR1ltdlRNTFVQSV96TkNtc1BhN1M3X2tXWVFlN2xtYlJ2TXJNcURuUlI1WjFpd2VkRUJSNFJyLURHa1J6czNoQnNmYnhaN0VIbEFyb3VzRVVETUlSZmtQZjZFZ2dtdGw1c1pXTFIwQnZxWnFlWUQtWTEtRllNRDd3UVJmWldCSzhhemFDSmFseks?oc=5",
-      "summary": "Stitch Fix Q4FY26 Results: Revenue misses, FY27 guidance disappoints &nbsp;&nbsp; scanx.trade"
+      "detail": "How Did Stitch Fix (NASDAQ:SFIX) Navigate Its Latest Fiscal Year?",
+      "date": "2026-11-03",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEQ4dzdYV3R4aTlVOGhzZTdxQkJUQktxcm9IMWx5N0wwVUc3MWI5clRoU3hRQlA2S0FTMnJ3VDY3RGc2VXo2NTluOEJtTWtUVVhIcUxGdnNaODRyUjc4amJIbFBIZFpkRG5JeW9lUWhZZXBkQV82VEY5TWQxcjBHeVl3UGdmLXNhUDNFTTNweHl4c2ZzUERjQmQ4MnhVY1V0cHhPZXBzSXk?oc=5",
+      "summary": "How Did Stitch Fix (NASDAQ:SFIX) Navigate Its Latest Fiscal Year? &nbsp;&nbsp; Kalkine Media"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix, Inc. (SFIX) Seasonal returns chart",
-      "date": "2026-10-30",
-      "source": "Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VV0VpM2lxbzZOVWhQRTQ3WXlvTjd3Z2xPTldnc0owZFNGTzJlOEI4UW50bjNqd0FaVzE5bkFoLVRzcFdrUGlJSHZ1WTV0MXV1eVpsOE1OQWU2YUJSVlFOOGV3?oc=5",
-      "summary": "Stitch Fix, Inc. (SFIX) Seasonal returns chart &nbsp;&nbsp; Yahoo Finance UK"
+      "detail": "Form 4 Stitch Fix: Matt Baer (Director, CEO) For: 16 September",
+      "date": "2026-11-02",
+      "source": "Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamZ2dWl2cGV3ZGFzMTQ3cldTb1NHbEFfMGdSVGZyb240QTVOYTRyYkRJUDEycHJvX3FSYmFkZGhtRDJsV3hfdjZTWHk3Yzd4NXk5MGdRQmx1RnN5a2FTM1RsZzdGQlVmYzd0SWt0RkVmeGMzU2p5Y0Z1S2JfWFpOUFRtd0F2eDgzQU9pb1F5Tjlkam5tTFBWeEd2Q0VhLW9UQ25VN29ITWUzRzdUVW9ZclZIVWQyNUZvMXc?oc=5",
+      "summary": "Form 4 Stitch Fix: Matt Baer (Director, CEO) For: 16 September &nbsp;&nbsp; Investing.com Nigeria"
     },
     {
       "competitor": "Stitch Fix",
       "type": "news",
-      "detail": "Stitch Fix Announces New Employee Inducement Grant",
-      "date": "2026-10-26",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGo0dWhuUm9zOTl0SmdTeUctaWVmaDJGaEljZnJZVFMwTFlyOUxsREMyWGxoN3cyX0V0VmU4eEYzM0JZMnZlajNjblFqbWFSSW1ib2pLMkVYN1d1RzNMd3NQUWFCSEt2aEFpWjFjWUs0clp2b1FyazIycWE1bi1Zc0xneDZ4cHRGdnc3c2dsQ3ZZNXo1VV8yd0wwbVlnS1pVVlNkTXlYMVM?oc=5",
-      "summary": "Stitch Fix Announces New Employee Inducement Grant &nbsp;&nbsp; Yahoo Finance"
+      "detail": "How Client Insights Shape Stitch Fix’s Private Brands",
+      "date": "2026-11-05",
+      "source": "官方发布",
+      "url": "https://newsroom.stitchfix.com/blog/how-client-insights-shape-stitch-fixs-private-brands/",
+      "summary": "The best clothing starts with understanding the people who will wear it. At Stitch Fix, we have a unique view into what our clients want and need from their wardrobes. Every day, thousands of clients share feedback through their Fixes and conversations with their Stylists, telling us what fits, what"
     },
     {
-      "competitor": "Stitch Fix",
-      "type": "news",
-      "detail": "Stitch Fix: Several Options That Still Seem To Lead Nowhere (NASDAQ:SFIX)",
-      "date": "2026-10-26",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekhucVZNSkF3cEhRM2hDUHNyUjB0eTNxTHhMLWZ1TE5uVVRlcVktVUR0c215VmJxS20yVW9EQXRRRWpRRllNazQzcWYzeC1mb0NER2RYWVpabERzQl9YS0lpcWhCNUo0SkZGZnRLNU8wZ2Zxb2dMekVkbVVxaHBGbzBURktQVHdHaTVnNW5lWmJDZXE1Ni1ZaHVn?oc=5",
-      "summary": "Stitch Fix: Several Options That Still Seem To Lead Nowhere (NASDAQ:SFIX) &nbsp;&nbsp; Seeking Alpha"
+      "competitor": "Essembl",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "1.0.1 → 1.0.2",
+      "released_at": "2026-11-05",
+      "release_notes": "Scan your clothes, share anything into Essembl, and see all your looks in one place.\n\n• Scan your clothes: tap the shutter for each piece, or hold to film and say the brand. Each one is cut out in seconds and lands in your wardrobe.\n• Share to Essembl: share a photo or a link from TikTok, Pinterest, Safari or any app. Add it to your closet, find it in shops or rate the look.\n• Your looks, in one place: every outfit check and glow-up, each photo cut out, in Wardrobe › Looks.\n• A new + button: add clothes, rate your look or get outfit ideas from anywhere.\n• Rate my look: the detailed rating is back, with style, colour, texture and fit.\n• Smarter outfits: better layering (a base, a layer, then a jacket when it’s needed) and more variety.\n• Rate the AI’s ideas: thumbs up or down on Studio ideas, and tell us what’s off.\n\nPlus lots of fixes and polish."
+    },
+    {
+      "competitor": "Essembl",
+      "type": "website_change",
+      "detail": "主标题: 「Your AI Fashion Advisor」→「200 clothes. Nothing to wear?」",
+      "url": "https://www.essembl.com/"
+    },
+    {
+      "competitor": "Whering",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "3.4.147 → 3.4.288",
+      "released_at": "2026-11-03",
+      "release_notes": "What to wear? Already sorted.\nPlanner now suggests outfits based on your wardrobe and the weather, so getting dressed feels easier. You can also plan ahead for trips, weekends and events by changing your location."
     },
     {
       "competitor": "Acloset",
       "type": "new_version",
       "store": "apple",
-      "detail": "6.41.2 → 6.42.1",
-      "released_at": "2026-10-29",
-      "release_notes": "- Weekly Challenge is here! Share outfits around a new theme each week. Earn rewards just for joining, while top entries receive special rewards and winner badges\n- Find your challenge entries and winner badges together in the new Challenges tab on your profile\n- Follow people who liked an outfit right away, and get notified when someone you follow shares a new outfit\n- You can now report other users' accounts, and we'll recommend more popular users for you to discover"
+      "detail": "6.42.1 → 6.44.0",
+      "released_at": "2026-11-06",
+      "release_notes": "- Find better product photos with one tap, for store and Gmail imports\n- See your import progress live: items found and orders checked\n- Clear tips on what to do when an import finds no items\n- Bug fixes and improvements"
     },
     {
       "competitor": "Acloset",
       "type": "news",
-      "detail": "[Super-Fast Update 87] Try on what 'suits you' with AI, but decide for yourself what to 'buy.' A closet revolution starting with just 10 items.",
-      "date": "2026-10-27",
+      "detail": "An AI that creates outfits from the clothes you own? What is Meta's \"Style Sketch\"?",
+      "date": "2026-11-02",
       "source": "note",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7e4db58b445f5b2766255f1b16c5e&url=https%3a%2f%2fnote.com%2fhidenoba%2fn%2fn0efe8be28d1e%3fhl%3den&c=9062869435582465601&mkt=en-us",
-      "summary": "I have clothes, but I can’t decide what to wear tomorrow.”When that happens, opening an online shopping site makes it look like a new piece of clothing will solve the problem.But before you buy more, ..."
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af12190402e4a7a8ca0d5b886a8a627&url=https%3a%2f%2fnote.com%2fjoyous_otter67%2fn%2fn6ae44c6fcafa%3fhl%3den&c=18215929139518276360&mkt=en-us",
+      "summary": "Hello, I'm Kuina!Today, I'd like to introduce \"Style Sketch,\" an AI fashion app from Meta that suggests outfits based on the clothes you already own.A creative comic showing what it's like to use ..."
     },
     {
       "competitor": "Acloset",
@@ -82,68 +95,80 @@
       "competitor": "Indyx",
       "type": "new_version",
       "store": "apple",
-      "detail": "9.8.5 → 9.8.6",
-      "released_at": "2026-10-30",
-      "release_notes": "Items imported from your email receipts aren’t always picture perfect. With more control over Enhance, you can turn a blurry photo into a crisp, closet-ready image in a few taps. Give those items a fresh Polish and see the difference."
-    },
-    {
-      "competitor": "Indyx",
-      "type": "news",
-      "detail": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up",
-      "date": "2026-10-28",
-      "source": "Stacker",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjBITENFUmRYZE5JSXpxLXlJbzF4Q2RXTG1XbFFqZ2NJenJQU0c4c2FIMzd6UUlmeHdtSFNoNi1uT2hkWFZqaHlTRWxwS2c4cmF1REptSGF1LXYyNE53Q19KdlhPRnl5YnRCMW50UGc2b3d6Y0pxSFFGUF8tNEQ3UExIY2JaMF9fNE1PVl80Nl9aZE9HcDVSejFsQWcxSGNTdTgyLS1GdDVEWXY4cXNQTjRqOGNld28xWVR3?oc=5",
-      "summary": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up &nbsp;&nbsp; Stacker"
+      "detail": "9.8.6 → 9.8.7",
+      "released_at": "2026-11-06",
+      "release_notes": "Your closet, built from your receipts\n\nThe email scanner is now available to everyone. Connect your email and Indyx digs through your receipts, finds your clothes, shoes, and accessories, and builds your closet for you.\n\nEvery item arrives with a clean product photo and the details already filled in. Want an even more polished look? Use Enhance to turn any item into a picture-perfect flat-lay.\n\nNo more snapping photos of every piece or typing in what you bought. Securely scan your inbox, then head to the Review tab to approve your items and they’re in your wardrobe!"
     },
     {
       "competitor": "Save Your Wardrobe",
-      "type": "news",
-      "detail": "Klarna ajoute un service de réparation de vêtements à son application en France",
-      "date": "2026-10-28",
-      "source": "FashionNetwork France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7e5141d004f11ae147b93ef7f0e72&url=https%3a%2f%2ffr.fashionnetwork.com%2fnews%2fKlarna-ajoute-un-service-de-reparation-de-vetements-a-son-application-en-france%2c1878306.html&c=14260916030564571613&mkt=en-us",
-      "summary": "Le spécialiste du paiement Klarna déploie depuis fin septembre une fonctionnalité dédiée à l'entretien textile sur ses marchés français, en s'appuyant sur le spécialiste Save Your Wardrobe et sur le B ..."
+      "type": "website_change",
+      "detail": "页面内容有变动，关键字段未变（可能是文案微调或新增区块）",
+      "url": "https://saveyourwardrobe.com/"
     },
     {
-      "competitor": "Stylebook",
-      "type": "news",
-      "detail": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up",
-      "date": "2026-10-28",
-      "source": "Stacker",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjBITENFUmRYZE5JSXpxLXlJbzF4Q2RXTG1XbFFqZ2NJenJQU0c4c2FIMzd6UUlmeHdtSFNoNi1uT2hkWFZqaHlTRWxwS2c4cmF1REptSGF1LXYyNE53Q19KdlhPRnl5YnRCMW50UGc2b3d6Y0pxSFFGUF8tNEQ3UExIY2JaMF9fNE1PVl80Nl9aZE9HcDVSejFsQWcxSGNTdTgyLS1GdDVEWXY4cXNQTjRqOGNld28xWVR3?oc=5",
-      "summary": "Can you really organize your closet with an app? How to tell if it’s worth your time to set one up &nbsp;&nbsp; Stacker"
+      "competitor": "Doji",
+      "type": "new_version",
+      "store": "apple",
+      "detail": "1.1.5 → 1.1.6",
+      "released_at": "2026-11-08",
+      "release_notes": "Introducing a brand new Doji - faster, personalized and way more fun:\n• Swipe Home to browse looks and items, and try them on in seconds.\n• Your try-ons appear right in the feed as soon as they’re ready.\n• Swipe left to shop your Wishlist and items tailored to your taste.\n• Swipe right to find your recent looks, your Closet and your profile."
     },
     {
       "competitor": "Doji",
       "type": "news",
-      "detail": "AI try-on kiosks gain traction as retailers seek to reduce returns",
-      "date": "2026-10-26",
-      "source": "Retail Customer Experience",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7e55b1cca46c085236de8f5c65f3f&url=https%3a%2f%2fwww.retailcustomerexperience.com%2fnews%2fai-try-on-kiosks-gain-traction-as-retailers-seek-to-reduce-returns%2f&c=612928000858814529&mkt=en-us",
-      "summary": "Retailers are increasingly exploring artificial intelligence-powered virtual try-on kiosks to help shoppers make more informed clothing purchases and reduce costly merchandise returns. The technology ..."
+      "detail": "Virtual try-on tools and your privacy: What happens to the photos and face scans you share?",
+      "date": "2026-11-04",
+      "source": "Charlotte Observer on MSN",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1220fe6d54038aed1473d5b104bfa&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fvirtual-try-on-tools-and-your-privacy-what-happens-to-the-photos-and-face-scans-you-share%2far-AA2gLxdp&c=9611238524094644073&mkt=en-us",
+      "summary": "When you share photos and face scans with virtual try-on tools, what privacy protections are in place?"
+    },
+    {
+      "competitor": "Doji",
+      "type": "news",
+      "detail": "Which Virtual Try-On Tools Actually Work? A Shopper's Guide to What's Worth Using",
+      "date": "2026-11-04",
+      "source": "The Sacramento Bee",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1220fe6d54038aed1473d5b104bfa&url=https%3a%2f%2fwww.sacbee.com%2fentertainment%2fliving%2farticle317931025.html&c=14274916790216718349&mkt=en-us",
+      "summary": "ASOS pitches the feature as a way to “offer a more visual, personalized way to shop that’ll make finding your new wardrobe staples easier and more interactive.” Speed matters too. Nobody waits around ..."
+    },
+    {
+      "competitor": "Doji",
+      "type": "news",
+      "detail": "ChatGPT's new virtual try-on signals how AI chatbots are reshaping apparel shopping",
+      "date": "2026-11-02",
+      "source": "The Sacramento Bee on MSN",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1220fe6d54038aed1473d5b104bfa&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fchatgpts-new-virtual-try-on-signals-how-ai-chatbots-are-reshaping-apparel-shopping%2far-AA2gCAyK&c=5908219094333443807&mkt=en-us",
+      "summary": "ChatGPT's new virtual try-on feature changes the apparel shopping industry, using AI chatbots as fitting rooms."
+    },
+    {
+      "competitor": "Smart Closet",
+      "type": "news",
+      "detail": "North America Wardrobe Management App Market: AI-Powered",
+      "date": "2026-11-06",
+      "source": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlM0aXZVSm9UUjZzUEUybEd0Mkp1MmFYWmI5VUFHRS0xOUtwSV94YW5PTWRueWowbGNMWlRVeDVBZXJNcEp6eW1vYWhhMGoxLXBOdTJiYU5vNzNNb2NLdl9pRktfVDRWcUUzSm1lcTJIb3dNa1NxR3BTSURPb2U2ZUlVcmREdFBLU2lSWUZJalN5U2I2dXc?oc=5",
+      "summary": "North America Wardrobe Management App Market: AI-Powered &nbsp;&nbsp; openPR.com"
+    },
+    {
+      "competitor": "Daydream",
+      "type": "website_change",
+      "detail": "页面内容有变动，关键字段未变（可能是文案微调或新增区块）",
+      "url": "https://www.daydream.ing/"
     },
     {
       "competitor": "Phia",
       "type": "website_change",
-      "detail": "定价信号: ['$ 82', '$25', '$ 3200.00', '$ 990.00', '$ 2900.00', '$ 1900.00', '$ 3800.00', '$ 2100.00', '$ 2600.00', '$ 3900.00', '$ 2800.00', '$ 5700.00', '$ 5900.00', '$ 13900.00', '$ 550.00'] → ['$ 82', '$25', '$ 170.00', '$ 150.00', '$ 155.00', '$ 265.00', '$ 142.50', '$ 120.00', '$ 160.00', '$ 144.00', '$ 175.00', '$ 165.00', '$ 200.00', 'Free']",
+      "detail": "定价信号: ['$ 82', '$25', '$ 170.00', '$ 150.00', '$ 155.00', '$ 265.00', '$ 142.50', '$ 120.00', '$ 160.00', '$ 144.00', '$ 175.00', '$ 165.00', '$ 200.00', 'Free'] → ['$ 82', '$25', '$245', '$20', '$337.99', '$199', '$224.25', '$1', '$232.99', '$249.99', '$169', '$289', '$31.96', '$89.95', '$143.20']",
       "url": "https://www.phia.com/"
     },
     {
-      "competitor": "搭搭",
+      "competitor": "柚子衣橱",
       "type": "new_version",
       "store": "apple",
-      "detail": "5.2.1 → 5.2.2",
-      "released_at": "2026-10-28",
-      "release_notes": "①AI试衣功能上线，在「我的搭配」和「帮搭详情」都有试穿入口。\n②「今日穿搭」可以自己决定是否将搭配同步到「我的搭配」了。\n③「穿搭标签」设置取消了「个人照」展示模块。"
-    },
-    {
-      "competitor": "尽简衣橱",
-      "type": "new_version",
-      "store": "apple",
-      "detail": "2.22.4 → 2.23.0",
-      "released_at": "2026-10-29",
-      "release_notes": "- 新增：随机搭配规则支持拖动调整单品和分类顺序\n- 新增：创建搭配时可检查包含相同单品的已有搭配\n- 优化：网页导入可从分享内容中提取有效网址\n- 优化：英文界面及多语言文案\n- 修复：单品链接偶尔显示为其他单品链接的问题\n- 修复：品牌搜索弹窗可能被键盘遮挡的问题\n- 修复：解锁页面位置异常及键盘偏移问题"
+      "detail": "6.5 → 7.0",
+      "released_at": "2026-11-07",
+      "release_notes": "1. 搭配现在可以按类别调整，一次只更换其中一个类别。\n2. 统计新增「包含回收站」选项，可将回收站中的衣服计入统计。"
     }
   ],
-  "change_count": 17
+  "change_count": 21
 }
